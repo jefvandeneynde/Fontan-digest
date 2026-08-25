@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#0b3954">
+  <meta name="description" content="A continuously updated Fontan circulation literature digest.">
+  <title>Fontan Digest</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="hero-inner">
+      <div class="brand-row">
+        <div class="brand-mark" aria-hidden="true">
+          <span class="pulse-dot"></span>
+          <svg viewBox="0 0 48 48" role="img"><path d="M7 24h8l4-9 7 19 5-12 4 7h6" fill="none" stroke="currentColor" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </div>
+        <div>
+          <p class="eyebrow">Fontan circulation · living literature</p>
+          <h1>Fontan Digest</h1>
+          <p class="tagline">One calm place to keep up with the field — from today's papers to the ideas that matter for SAFER-Fontan.</p>
+        </div>
+      </div>
+
+      <div class="hero-actions">
+        <a class="hero-link" href="https://pubmed.ncbi.nlm.nih.gov/?term=Fontan" target="_blank" rel="noreferrer">PubMed search ↗</a>
+        <button id="backupButton" class="hero-link button-link" type="button">Reading state</button>
+      </div>
+
+      <div class="stat-strip" aria-label="Digest statistics">
+        <div class="stat"><strong id="statTotal">—</strong><span>in archive</span></div>
+        <div class="stat"><strong id="statUnseen">—</strong><span>unseen</span></div>
+        <div class="stat"><strong id="statWeek">—</strong><span>last 7 days</span></div>
+        <div class="stat"><strong id="statSaved">—</strong><span>saved</span></div>
+        <div class="update-note"><span class="live-dot"></span><span id="updatedAt">Loading literature…</span></div>
+      </div>
+    </div>
+  </header>
+
+  <nav class="view-nav" aria-label="Main views">
+    <div class="view-nav-inner">
+      <button class="view-tab active" data-view="latest" type="button">Latest</button>
+      <button class="view-tab" data-view="unseen" type="button">Unseen <span id="unseenBadge" class="tab-badge">0</span></button>
+      <button class="view-tab" data-view="saved" type="button">Saved</button>
+      <button class="view-tab" data-view="priority" type="button">High relevance</button>
+      <button class="view-tab" data-view="week" type="button">This week</button>
+    </div>
+  </nav>
+
+  <div class="workspace">
+    <aside class="filters" id="filtersPanel">
+      <div class="filters-heading">
+        <div>
+          <p class="mini-label">Narrow the feed</p>
+          <h2>Filters</h2>
+        </div>
+        <button id="clearFilters" class="text-button" type="button">Reset</button>
+      </div>
+
+      <label class="field-label" for="searchInput">Search</label>
+      <div class="search-wrap">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-4-4"></path></svg>
+        <input id="searchInput" type="search" placeholder="Title, author, abstract…" autocomplete="off">
+      </div>
+
+      <div class="filter-grid">
+        <div class="filter-block">
+          <label class="field-label" for="dateWindow">Published</label>
+          <select id="dateWindow">
+            <option value="7">Last 7 days</option>
+            <option value="30" selected>Last 30 days</option>
+            <option value="90">Last 3 months</option>
+            <option value="365">Last year</option>
+            <option value="all">Full archive</option>
+          </select>
+        </div>
+
+        <div class="filter-block">
+          <label class="field-label" for="journalFilter">Journal</label>
+          <select id="journalFilter"><option value="all">All journals</option></select>
+        </div>
+
+        <div class="filter-block">
+          <label class="field-label" for="typeFilter">Article type</label>
+          <select id="typeFilter"><option value="all">All types</option></select>
+        </div>
+
+        <div class="filter-block">
+          <label class="field-label" for="yearFilter">Year</label>
+          <select id="yearFilter"><option value="all">All years</option></select>
+        </div>
+      </div>
+
+      <div class="toggle-stack">
+        <label class="switch-row"><span>Has abstract</span><input id="abstractOnly" type="checkbox"><i></i></label>
+        <label class="switch-row"><span>PMC full text</span><input id="fullTextOnly" type="checkbox"><i></i></label>
+      </div>
+
+      <div class="topic-head">
+        <span class="field-label">Subtopics</span>
+        <button id="selectAllTopics" class="text-button" type="button">Clear</button>
+      </div>
+      <div id="topicFilters" class="topic-filters"></div>
+    </aside>
+
+    <main class="content">
+      <div class="mobile-filter-row">
+        <button id="mobileFiltersButton" class="secondary-button" type="button">☰ Filters</button>
+        <select id="sortSelectMobile" aria-label="Sort articles">
+          <option value="newest">Newest first</option>
+          <option value="relevance">Research relevance</option>
+          <option value="journal">Journal A–Z</option>
+          <option value="oldest">Oldest first</option>
+        </select>
+      </div>
+
+      <section class="radar" id="researchRadar">
+        <div class="radar-copy">
+          <p class="mini-label">Research radar · last 7 days</p>
+          <h2 id="radarTitle">This week in Fontan research</h2>
+          <p id="radarText">Loading the current themes…</p>
+        </div>
+        <div id="radarThemes" class="radar-themes"></div>
+      </section>
+
+      <section class="feed-heading">
+        <div>
+          <p class="mini-label" id="viewKicker">Latest literature</p>
+          <h2 id="feedTitle">Recent papers</h2>
+          <p id="resultCount" class="result-count"></p>
+        </div>
+        <div class="desktop-sort">
+          <label for="sortSelect">Sort</label>
+          <select id="sortSelect">
+            <option value="newest">Newest first</option>
+            <option value="relevance">Research relevance</option>
+            <option value="journal">Journal A–Z</option>
+            <option value="oldest">Oldest first</option>
+          </select>
+        </div>
+      </section>
+
+      <div id="feed" class="feed" aria-live="polite"></div>
+      <div id="emptyState" class="empty-state" hidden>
+        <div class="empty-icon">◎</div>
+        <h3>No papers match this view</h3>
+        <p>Try widening the date window or clearing one of the filters.</p>
+        <button class="primary-button" id="emptyReset" type="button">Reset filters</button>
+      </div>
+    </main>
+  </div>
+
+  <div id="mobileOverlay" class="mobile-overlay" hidden></div>
+
+  <dialog id="backupDialog" class="dialog">
+    <form method="dialog">
+      <div class="dialog-head">
+        <div>
+          <p class="mini-label">Personal reading state</p>
+          <h2>Backup & move between browsers</h2>
+        </div>
+        <button class="icon-button" value="cancel" aria-label="Close">×</button>
+      </div>
+      <p>Your seen articles, saved deep reads and personal notes live only in this browser. Export them to a small JSON file if you want a backup or want to move them to another device.</p>
+      <div class="dialog-actions">
+        <button id="exportState" class="primary-button" type="button">Export state</button>
+        <label class="secondary-button file-button">Import state<input id="importState" type="file" accept="application/json"></label>
+      </div>
+      <p class="privacy-note">No personal reading state is uploaded to GitHub in this version.</p>
+    </form>
+  </dialog>
+
+  <footer>
+    <div><strong>Fontan Digest</strong> · Built as a shared evidence resource; your reading state stays local.</div>
+    <div>Automated relevance is a triage aid, not a substitute for reading the paper.</div>
+  </footer>
+
+  <script src="app.js" defer></script>
+</body>
+</html>
