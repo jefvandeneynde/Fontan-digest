@@ -1,0 +1,194 @@
+{
+  "groups": [
+    {
+      "id": "core-physiology",
+      "label": "Core Fontan physiology",
+      "topics": [
+        {
+          "id": "hemodynamics",
+          "label": "Hemodynamics & Fontan failure",
+          "weight": 5,
+          "enabled": true,
+          "terms": ["hemodynamic", "fontan pressure", "venous pressure", "central venous", "filling pressure", "cardiac output", "cardiac index", "pulmonary vascular resistance", "pvr", "pulmonary artery pressure", "wedge pressure", "pcwp", "peripheral venous pressure", "pvp", "fontan failure", "circulatory failure", "congestion"]
+        },
+        {
+          "id": "diastolic",
+          "label": "Diastolic function & EDPVR",
+          "weight": 5,
+          "enabled": true,
+          "terms": ["diastolic", "edpvr", "end-diastolic pressure-volume", "ventricular stiffness", "compliance", "relaxation", "filling rate", "ivrt", "tau", "e/e'", "e/e’"]
+        },
+        {
+          "id": "exercise",
+          "label": "Exercise physiology & CPET",
+          "weight": 5,
+          "enabled": true,
+          "terms": ["exercise", "cpet", "cardiopulmonary exercise", "peak vo2", "peak oxygen", "oxygen uptake", "ventilatory efficiency", "ve/vco2", "anaerobic threshold", "exercise capacity", "functional capacity"]
+        },
+        {
+          "id": "vascular",
+          "label": "Pulmonary & systemic vascular function",
+          "weight": 4,
+          "enabled": true,
+          "terms": ["pulmonary vascular", "vascular resistance", "arterial compliance", "arterial elastance", "ventriculo-arterial", "vascular function", "endothelial", "venous compliance", "venous capacitance", "mean systemic filling pressure", "vascular stiffness"]
+        }
+      ]
+    },
+    {
+      "id": "treatment",
+      "label": "Treatment & intervention",
+      "topics": [
+        {
+          "id": "pharmacotherapy",
+          "label": "Pharmacotherapy",
+          "weight": 5,
+          "enabled": true,
+          "terms": ["dapagliflozin", "empagliflozin", "sglt2", "spironolactone", "eplerenone", "mineralocorticoid", "mra", "raas", "renin-angiotensin", "diuretic", "bumetanide", "furosemide", "pulmonary vasodilator", "sildenafil", "tadalafil", "macitentan", "bosentan", "udenafil", "drug therapy", "medical therapy"]
+        },
+        {
+          "id": "catheter-surgery",
+          "label": "Catheter & surgical interventions",
+          "weight": 3,
+          "enabled": true,
+          "terms": ["catheter intervention", "fenestration", "fontan revision", "conversion", "stent", "embolization", "embolisation", "surgical", "transcatheter", "lymphatic intervention"]
+        },
+        {
+          "id": "transplant",
+          "label": "Transplant & advanced failure",
+          "weight": 4,
+          "enabled": true,
+          "terms": ["transplant", "transplantation", "heart-liver", "mechanical circulatory support", "ventricular assist", "advanced heart failure", "mortality", "death", "survival"]
+        }
+      ]
+    },
+    {
+      "id": "imaging-mechanisms",
+      "label": "Imaging & mechanisms",
+      "topics": [
+        {
+          "id": "cmr",
+          "label": "CMR & flow imaging",
+          "weight": 4,
+          "enabled": true,
+          "terms": ["cardiac magnetic resonance", "cardiovascular magnetic resonance", "cmr", "4d flow", "phase contrast", "late gadolinium", "lge", "native t1", "extracellular volume", "ecv", "feature tracking"]
+        },
+        {
+          "id": "fibrosis",
+          "label": "Fibrosis & fibroblast activation",
+          "weight": 5,
+          "enabled": true,
+          "terms": ["fibrosis", "fibrotic", "collagen", "fibroblast", "fapi", "fibroblast activation protein", "piiinp", "picp", "citp", "mmp-1", "st2", "gdf-15", "galectin-3"]
+        },
+        {
+          "id": "echocardiography",
+          "label": "Echocardiography & strain",
+          "weight": 3,
+          "enabled": true,
+          "terms": ["echocardiography", "echocardiographic", "strain", "speckle tracking", "tissue doppler", "atrial function", "atrial strain", "ventricular strain"]
+        },
+        {
+          "id": "av-valve",
+          "label": "Atrioventricular valve regurgitation",
+          "weight": 4,
+          "enabled": true,
+          "terms": ["atrioventricular valve", "av valve", "avvr", "tricuspid regurgitation", "mitral regurgitation", "regurgitant fraction"]
+        }
+      ]
+    },
+    {
+      "id": "extra-cardiac",
+      "label": "Extracardiac Fontan disease",
+      "topics": [
+        {
+          "id": "fald",
+          "label": "Fontan-associated liver disease",
+          "weight": 5,
+          "enabled": true,
+          "terms": ["fontan-associated liver", "fald", "liver", "hepatic", "cirrhosis", "portal hypertension", "hepatocellular", "meld-xi", "elastography", "liver stiffness"]
+        },
+        {
+          "id": "renal",
+          "label": "Kidney & renal function",
+          "weight": 3,
+          "enabled": true,
+          "terms": ["kidney", "renal", "egfr", "glomerular filtration", "albuminuria", "uacr", "cystatin c"]
+        },
+        {
+          "id": "lymphatic",
+          "label": "Lymphatic complications",
+          "weight": 4,
+          "enabled": true,
+          "terms": ["lymphatic", "protein-losing enteropathy", "ple", "plastic bronchitis", "chylothorax", "chylous", "lymphangiography"]
+        },
+        {
+          "id": "thrombosis",
+          "label": "Thrombosis & anticoagulation",
+          "weight": 3,
+          "enabled": true,
+          "terms": ["thrombosis", "thromboembol", "anticoagulation", "antiplatelet", "stroke", "embolism"]
+        }
+      ]
+    },
+    {
+      "id": "clinical-outcomes",
+      "label": "Clinical course & outcomes",
+      "topics": [
+        {
+          "id": "arrhythmia",
+          "label": "Arrhythmia & pacing",
+          "weight": 3,
+          "enabled": true,
+          "terms": ["arrhythmia", "atrial tachycardia", "atrial fibrillation", "flutter", "ventricular tachycardia", "pacemaker", "pacing", "electrophysiology", "ablation"]
+        },
+        {
+          "id": "risk-outcomes",
+          "label": "Risk stratification & outcomes",
+          "weight": 4,
+          "enabled": true,
+          "terms": ["risk", "prognostic", "prognosis", "outcome", "mortality", "survival", "hospitalization", "hospitalisation", "clinical worsening", "prediction", "risk score"]
+        },
+        {
+          "id": "quality-life",
+          "label": "Quality of life & patient-reported outcomes",
+          "weight": 3,
+          "enabled": true,
+          "terms": ["quality of life", "patient-reported", "kccq", "achd-pro", "dasi", "symptom", "functional class", "nyha", "fatigue"]
+        },
+        {
+          "id": "pregnancy",
+          "label": "Pregnancy & reproductive health",
+          "weight": 2,
+          "enabled": true,
+          "terms": ["pregnancy", "pregnant", "maternal", "obstetric", "fetal", "foetal", "contraception"]
+        }
+      ]
+    },
+    {
+      "id": "population-methods",
+      "label": "Population & methods",
+      "topics": [
+        {
+          "id": "pediatric",
+          "label": "Pediatric & transition",
+          "weight": 2,
+          "enabled": true,
+          "terms": ["pediatric", "paediatric", "child", "children", "adolescent", "transition", "fontan completion"]
+        },
+        {
+          "id": "registries",
+          "label": "Registries & epidemiology",
+          "weight": 3,
+          "enabled": true,
+          "terms": ["registry", "network", "multicenter", "multicentre", "epidemiology", "population-based", "real-world", "cohort"]
+        },
+        {
+          "id": "methods",
+          "label": "Methods, reference ranges & measurement",
+          "weight": 3,
+          "enabled": true,
+          "terms": ["validation", "reproducibility", "reference values", "reference range", "method", "measurement", "standardize", "standardise", "machine learning", "artificial intelligence", "prediction model"]
+        }
+      ]
+    }
+  ]
+}
