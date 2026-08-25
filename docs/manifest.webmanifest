@@ -1,0 +1,12 @@
+{
+  "name": "Fontan Digest",
+  "short_name": "Fontan Digest",
+  "description": "A continuously updated Fontan circulation literature digest.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f8f8",
+  "theme_color": "#0b3954",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
