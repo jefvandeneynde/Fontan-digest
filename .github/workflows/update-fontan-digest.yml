@@ -30,7 +30,7 @@ jobs:
 
       - name: Commit refreshed digest
         run: |
-          if git diff --quiet -- docs/data; then
+          if [ -z "$(git status --porcelain -- docs/data)" ]; then
             echo "No literature changes"
             exit 0
           fi
