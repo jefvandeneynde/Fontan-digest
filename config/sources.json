@@ -1,0 +1,31 @@
+{
+  "pubmed": {
+    "enabled": true,
+    "query": "(\"Fontan Procedure\"[Mesh] OR Fontan[Title/Abstract] OR \"Fontan circulation\"[Title/Abstract] OR \"Fontan physiology\"[Title/Abstract] OR \"total cavopulmonary connection\"[Title/Abstract] OR TCPC[Title/Abstract])",
+    "bootstrap_days": 730,
+    "update_days": 60,
+    "max_records": 3000
+  },
+  "major_journals": [
+    "Circulation",
+    "European Heart Journal",
+    "Journal of the American College of Cardiology",
+    "JACC Heart Failure",
+    "JACC Cardiovascular Imaging",
+    "JACC Advances",
+    "Heart",
+    "European Journal of Heart Failure",
+    "Journal of Cardiovascular Magnetic Resonance",
+    "International Journal of Cardiology",
+    "Journal of the American Heart Association",
+    "American Heart Journal",
+    "Congenital Heart Disease",
+    "Pediatric Cardiology",
+    "Cardiology in the Young",
+    "The Journal of Thoracic and Cardiovascular Surgery",
+    "Annals of Thoracic Surgery",
+    "New England Journal of Medicine",
+    "The Lancet",
+    "JAMA"
+  ]
+}
