@@ -216,3 +216,81 @@ window.addEventListener('load', () => {
     }
   }, 100);
 });
+
+// Avoid a fresh second device overwriting an existing cloud profile merely because its
+// default local state has a newer timestamp. If the local browser has no meaningful
+// personal data yet, the remote profile always wins on first sign-in.
+window.addEventListener('load', () => {
+  function hasMeaningfulPersonalState(candidate) {
+    if (!candidate) return false;
+    const nonEmptyObject = value => value && typeof value === 'object' && !Array.isArray(value) && Object.keys(value).length > 0;
+    if (nonEmptyObject(candidate.seen) || nonEmptyObject(candidate.saved) || nonEmptyObject(candidate.notes) ||
+        nonEmptyObject(candidate.journalPrefs) || nonEmptyObject(candidate.topicOverrides)) return true;
+    if (Array.isArray(candidate.keywords) && candidate.keywords.length) return true;
+    if (Array.isArray(candidate.customTopics) && candidate.customTopics.length) return true;
+
+    const prefs = candidate.preferences || {};
+    if ((prefs.defaultView && prefs.defaultView !== 'unseen') ||
+        (prefs.defaultDateWindow && String(prefs.defaultDateWindow) !== '30') ||
+        prefs.respectHiddenJournals === false) return true;
+
+    const filters = candidate.filters || {};
+    if (String(filters.search || '').trim() || String(filters.journalQuery || '').trim() ||
+        (Array.isArray(filters.journals) && filters.journals.length) ||
+        (filters.type && filters.type !== 'all') || (filters.year && filters.year !== 'all') ||
+        filters.abstractOnly || filters.fullTextOnly ||
+        (Array.isArray(filters.topics) && filters.topics.length) ||
+        (filters.dateWindow && String(filters.dateWindow) !== '30')) return true;
+
+    return candidate.sort && candidate.sort !== 'newest';
+  }
+
+  try {
+    syncFromCloud = async function() {
+      if (!cloud || !cloudUser) return;
+      cloudPulling = true;
+      updateCloudUi('Syncing…');
+      try {
+        const { data, error } = await cloud.from('fontan_digest_user_state')
+          .select('state,updated_at')
+          .eq('user_id', cloudUser.id)
+          .maybeSingle();
+        if (error) throw error;
+
+        if (!data?.state) {
+          cloudPulling = false;
+          await pushCloudState();
+          return;
+        }
+
+        const remote = normalizeState(data.state);
+        const remoteTime = Date.parse(remote.lastModified || data.updated_at || 0) || 0;
+        const localTime = Date.parse(state.lastModified || 0) || 0;
+        const localHasPersonalData = hasMeaningfulPersonalState(state);
+
+        if (!localHasPersonalData || remoteTime > localTime) {
+          state = remote;
+          invalidateTopicCache();
+          persistLocal();
+          setControlsFromState();
+          populateSelects();
+          renderTopicFilters();
+          render();
+          updateCloudUi(!localHasPersonalData ? 'Loaded your cloud profile on this device.' : 'Loaded your latest state from the cloud.');
+        } else if (localTime > remoteTime) {
+          cloudPulling = false;
+          await pushCloudState();
+          return;
+        } else {
+          updateCloudUi('Up to date.');
+        }
+      } catch (error) {
+        updateCloudUi(`Sync error: ${error.message}`);
+      } finally {
+        cloudPulling = false;
+      }
+    };
+  } catch (error) {
+    console.warn('Could not harden cloud synchronization', error);
+  }
+});
