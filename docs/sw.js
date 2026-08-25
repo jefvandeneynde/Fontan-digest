@@ -1,5 +1,5 @@
-const CACHE = 'fontan-digest-v1';
-const APP_SHELL = ['./','index.html','styles.css','app.js','manifest.webmanifest','icon.svg','data/topics.json'];
+const CACHE = 'fontan-digest-v2';
+const APP_SHELL = ['./','index.html','styles.css','app.js','sync-config.js','manifest.webmanifest','icon.svg','data/topics.json'];
 
 self.addEventListener('install', event => {
   event.waitUntil(caches.open(CACHE).then(cache => cache.addAll(APP_SHELL)).then(() => self.skipWaiting()));
@@ -11,7 +11,7 @@ self.addEventListener('activate', event => {
 
 self.addEventListener('fetch', event => {
   const url = new URL(event.request.url);
-  if (url.pathname.endsWith('/data/articles.json')) {
+  if (url.pathname.endsWith('/data/articles.json') || url.pathname.endsWith('/data/topics.json')) {
     event.respondWith(fetch(event.request).then(response => {
       const copy = response.clone();
       caches.open(CACHE).then(cache => cache.put(event.request, copy));
