@@ -1,0 +1,102 @@
+{
+  "programme": "SAFER-Fontan",
+  "version_note": "Aligned to the current SAFER-Fontan protocol: spironolactone + dapagliflozin; primary PVP endpoint with PCWP as key secondary endpoint; mechanistic profiling including EDPVR, exercise physiology, CMR/fibrosis, FAPI-PET, vascular function, biomarkers and extracardiac organ function.",
+  "axes": [
+    {
+      "id": "pvp-congestion",
+      "label": "Systemic venous congestion / PVP",
+      "priority": 6,
+      "terms": ["venous pressure", "fontan pressure", "central venous pressure", "systemic venous", "congestion", "peripheral venous pressure", "pvp", "venous hypertension", "volume overload", "venous return"],
+      "teaser": "Directly informs SAFER-Fontan's primary hemodynamic domain: systemic venous congestion, measured with PVP at rest and peak exercise.",
+      "detail": "SAFER-Fontan tests whether therapy lowers systemic venous congestion, with peripheral venous pressure (PVP) assessed at rest and peak exercise as the primary endpoint. Papers on Fontan pressure, venous hypertension, congestion, venous return or volume status can therefore inform endpoint interpretation, mechanisms of treatment response and the clinical meaning of a change in PVP."
+    },
+    {
+      "id": "pcwp-filling",
+      "label": "Ventricular filling pressure / PCWP",
+      "priority": 6,
+      "terms": ["wedge pressure", "pcwp", "pulmonary capillary wedge", "filling pressure", "end-diastolic pressure", "edp", "ventricular filling"],
+      "teaser": "Relevant to the trial's key secondary hemodynamic endpoint: ventricular filling pressure measured by PCWP at rest and peak exercise.",
+      "detail": "The key secondary hemodynamic endpoint in SAFER-Fontan is pulmonary capillary wedge pressure (PCWP) at rest and peak exercise. New evidence about filling pressures, wedge pressure methodology or their relationship with symptoms and outcomes can help contextualize treatment effects and distinguish ventricular from upstream circulatory mechanisms."
+    },
+    {
+      "id": "edpvr-diastolic",
+      "label": "EDPVR & diastolic function",
+      "priority": 6,
+      "terms": ["diastolic", "edpvr", "end-diastolic pressure-volume", "ventricular stiffness", "compliance", "relaxation", "peak filling rate", "time to peak filling", "ivrt", "isovolumic relaxation", "tau", "e/e'", "e/e’", "filling rate"],
+      "teaser": "Closely linked to the mechanistic EDPVR work in SAFER-Fontan, which characterizes ventricular stiffness and active relaxation across changing preload.",
+      "detail": "A major mechanistic component of SAFER-Fontan is quantitative assessment of diastolic function using pressure-volume relationships, including EDPVR-derived operating stiffness, stiffness constant, V15 and V0, together with indices of active relaxation such as IVRT and related surrogates. Papers on diastolic filling, ventricular compliance or stiffness are therefore directly relevant to both the biological rationale and validation work of the trial."
+    },
+    {
+      "id": "exercise",
+      "label": "Exercise physiology",
+      "priority": 6,
+      "terms": ["exercise", "cpet", "cardiopulmonary exercise", "peak vo2", "peak oxygen", "oxygen uptake", "anaerobic threshold", "ve/vco2", "ventilatory efficiency", "exercise capacity", "exercise hemodynamic", "exercise haemodynamic"],
+      "teaser": "Directly relevant to SAFER-Fontan's rest-versus-exercise framework and its detailed CPET characterization of circulatory reserve.",
+      "detail": "SAFER-Fontan deliberately measures hemodynamics at rest and peak exercise and performs detailed CPET phenotyping. Literature on peak VO2, ventilatory efficiency, exercise pressure responses or impaired circulatory reserve can therefore inform both mechanistic interpretation and the clinical significance of treatment-associated changes."
+    },
+    {
+      "id": "therapy",
+      "label": "Spironolactone + dapagliflozin",
+      "priority": 7,
+      "terms": ["spironolactone", "mineralocorticoid", "mra", "aldosterone", "raas", "renin-angiotensin", "dapagliflozin", "sglt2", "sodium-glucose cotransporter", "sodium-glucose co-transporter", "empagliflozin"],
+      "teaser": "Direct therapeutic relevance: SAFER-Fontan tests combined mineralocorticoid-receptor and SGLT2 inhibition with spironolactone plus dapagliflozin.",
+      "detail": "SAFER-Fontan evaluates combination therapy with spironolactone and dapagliflozin. Fontan-specific or broader heart-failure evidence on MRAs, SGLT2 inhibitors, RAAS biology, safety or treatment response can therefore affect the trial's biological rationale, expected effect size, subgroup hypotheses and interpretation of both efficacy and safety findings."
+    },
+    {
+      "id": "fibrosis",
+      "label": "Myocardial fibrosis & FAPI-PET",
+      "priority": 6,
+      "terms": ["fibrosis", "fibrotic", "fibroblast", "fapi", "fibroblast activation protein", "collagen", "native t1", "extracellular volume", "ecv", "late gadolinium", "lge", "piiinp", "picp", "citp", "mmp-1", "galectin-3", "st2", "gdf-15"],
+      "teaser": "Relevant to SAFER-Fontan's fibrosis programme combining CMR tissue characterization, collagen-turnover biomarkers and FAPI-PET in a substudy.",
+      "detail": "SAFER-Fontan investigates myocardial fibrosis using native T1, extracellular volume and LGE, alongside circulating collagen-turnover markers and FAPI-PET in a selected substudy. Papers on active fibroblast biology, diffuse fibrosis, replacement scar or fibrosis biomarkers can directly inform mechanistic hypotheses and interpretation of treatment-related remodeling."
+    },
+    {
+      "id": "vascular",
+      "label": "Vascular load & venous capacitance",
+      "priority": 5,
+      "terms": ["pulmonary vascular resistance", "pvr", "vascular resistance", "arterial compliance", "arterial elastance", "ventriculo-arterial", "mean systemic filling pressure", "venous compliance", "venous capacitance", "vascular tone", "endothelial", "stressed blood volume", "unstressed blood volume"],
+      "teaser": "Connects with the trial's systems-level vascular profiling: PVR/SVR, arterial load, ventriculo-arterial coupling, venous capacitance and filling pressure.",
+      "detail": "Beyond myocardial function, SAFER-Fontan profiles the circulation as a system, including cardiac output, systemic vascular resistance, arterial compliance and elastance, ventriculo-arterial coupling, mean systemic filling pressure, venous compliance/capacitance and blood-volume compartments. Vascular studies can therefore clarify whether treatment effects arise from the ventricle, pulmonary circuit, systemic arterial load or venous reservoir."
+    },
+    {
+      "id": "fald",
+      "label": "Fontan-associated liver disease",
+      "priority": 5,
+      "terms": ["fontan-associated liver", "fald", "liver", "hepatic", "cirrhosis", "portal hypertension", "hepatocellular", "meld-xi", "liver stiffness", "elastography"],
+      "teaser": "Relevant to the extracardiac component of SAFER-Fontan, which tracks hepatic function and liver stiffness and studies heart-liver fibrotic coupling.",
+      "detail": "SAFER-Fontan includes hepatic phenotyping with MELD-XI and liver elastography, while its fibrosis work also examines organ-specific fibrotic activity. FALD literature is therefore useful for linking systemic venous congestion and low-flow physiology to end-organ disease and for evaluating whether hemodynamic improvement could translate into hepatic benefit."
+    },
+    {
+      "id": "renal",
+      "label": "Renal effects & safety",
+      "priority": 4,
+      "terms": ["kidney", "renal", "egfr", "glomerular filtration", "albuminuria", "uacr", "creatinine", "cystatin c", "hyperkalemia", "hyperkalaemia", "potassium"],
+      "teaser": "Relevant to renal efficacy and safety monitoring in SAFER-Fontan, including eGFR, albuminuria, creatinine, cystatin C and potassium.",
+      "detail": "Renal function is both an extracardiac outcome and an important safety domain in SAFER-Fontan. Studies on renal dysfunction, albuminuria, potassium or volume-sensitive kidney responses can help interpret the balance between decongestion, renal hemodynamics and treatment safety under spironolactone plus dapagliflozin."
+    },
+    {
+      "id": "biomarkers",
+      "label": "Biomarkers & neurohormonal activation",
+      "priority": 4,
+      "terms": ["nt-probnp", "bnp", "ca125", "renin", "angiotensin", "aldosterone", "biomarker", "piiinp", "picp", "citp", "st2", "gdf-15", "galectin-3"],
+      "teaser": "Links to SAFER-Fontan's circulating biomarker programme spanning congestion, RAAS activation and collagen turnover.",
+      "detail": "The trial includes biomarkers of congestion, neurohormonal activation and fibrosis, including NT-proBNP, CA125, renin/angiotensin/aldosterone and collagen-turnover markers. Biomarker papers can help identify mechanistic mediators, response phenotypes and potentially simpler surrogates for more invasive or imaging-based measurements."
+    },
+    {
+      "id": "clinical-outcomes",
+      "label": "Clinical worsening & patient-reported outcomes",
+      "priority": 4,
+      "terms": ["hospitalization", "hospitalisation", "transplant", "death", "mortality", "clinical worsening", "quality of life", "kccq", "patient-reported", "achd-pro", "dasi", "nyha", "functional class"],
+      "teaser": "Helps connect mechanistic changes in SAFER-Fontan to outcomes that matter clinically: worsening events, symptoms, function and quality of life.",
+      "detail": "SAFER-Fontan includes clinical worsening events and patient-reported outcomes alongside deep physiological phenotyping. Outcome studies are therefore useful for deciding which mechanistic changes are likely to be clinically meaningful and for placing trial participants within the broader risk spectrum of adults with a Fontan circulation."
+    },
+    {
+      "id": "imaging-validation",
+      "label": "Imaging & measurement validation",
+      "priority": 4,
+      "terms": ["cardiac magnetic resonance", "cardiovascular magnetic resonance", "cmr", "echocardiography", "4d flow", "strain", "validation", "reproducibility", "measurement", "reference values", "feature tracking", "shear wave"] ,
+      "teaser": "Relevant to the trial's multimodality validation work, where invasive/minimally invasive hemodynamics are compared with CMR and echocardiographic measures.",
+      "detail": "SAFER-Fontan deliberately pairs invasive and minimally invasive pressure measurements with CMR, echocardiography and other non-invasive markers. Methodological papers on imaging, reproducibility or validation can therefore influence acquisition choices, endpoint robustness and the eventual translation of gold-standard research measurements into routine clinical follow-up."
+    }
+  ]
+}
