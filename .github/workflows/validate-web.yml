@@ -1,0 +1,39 @@
+name: Validate Fontan Digest Web
+
+on:
+  push:
+    paths:
+      - 'docs/app.js'
+      - 'docs/index.html'
+      - 'docs/styles.css'
+      - 'docs/sw.js'
+      - 'docs/sync-config.js'
+      - '.github/workflows/validate-web.yml'
+  pull_request:
+    paths:
+      - 'docs/app.js'
+      - 'docs/index.html'
+      - 'docs/styles.css'
+      - 'docs/sw.js'
+      - 'docs/sync-config.js'
+      - '.github/workflows/validate-web.yml'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Validate JavaScript
+        run: |
+          node --check docs/app.js
+          node --check docs/sw.js
+          node --check docs/sync-config.js
+
+      - name: Check required web files
+        run: |
+          test -s docs/index.html
+          test -s docs/styles.css
+          test -s docs/manifest.webmanifest
+          test -s docs/icon.svg
