@@ -1,7 +1,12 @@
 {
-  "generated_at": "2026-08-26T09:23:34Z",
+  "generated_at": "2026-08-26T09:24:28Z",
   "count": 1177,
-  "source": "PubMed",
+  "source": "PubMed + Europe PMC",
   "programme": "SAFER-Fontan",
-  "query": "(\"Fontan Procedure\"[Mesh] OR Fontan[Title/Abstract] OR \"Fontan circulation\"[Title/Abstract] OR \"Fontan physiology\"[Title/Abstract] OR \"total cavopulmonary connection\"[Title/Abstract] OR TCPC[Title/Abstract])"
+  "query": "(\"Fontan Procedure\"[Mesh] OR Fontan[Title/Abstract] OR \"Fontan circulation\"[Title/Abstract] OR \"Fontan physiology\"[Title/Abstract] OR \"total cavopulmonary connection\"[Title/Abstract] OR TCPC[Title/Abstract])",
+  "sources": [
+    "PubMed",
+    "Europe PMC"
+  ],
+  "europe_pmc_query": "(TITLE_ABS:Fontan OR TITLE_ABS:\"Fontan circulation\" OR TITLE_ABS:\"Fontan physiology\" OR TITLE_ABS:\"total cavopulmonary connection\" OR TITLE_ABS:TCPC)"
 }
