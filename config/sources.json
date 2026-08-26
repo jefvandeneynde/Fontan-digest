@@ -14,6 +14,14 @@
     "max_records": 3000,
     "purpose": "Supplement PubMed with Europe PMC records, including records such as preprints that may not yet be present in PubMed. Search broadly, then require a Fontan/TCPC term in the title or abstract before inclusion."
   },
+  "crossref": {
+    "enabled": true,
+    "query_title": "Fontan",
+    "bootstrap_days": 730,
+    "update_days": 60,
+    "max_records": 1000,
+    "purpose": "Supplement PubMed with publisher-deposited DOI metadata so online-first Fontan papers can sometimes be discovered before PubMed indexing. Only records whose titles explicitly contain Fontan/TCPC terminology are accepted."
+  },
   "science_direct": {
     "enabled": false,
     "purpose": "Optional future Elsevier ScienceDirect discovery source. The official ScienceDirect Search API requires an Elsevier API key and access depends on institutional entitlements."
