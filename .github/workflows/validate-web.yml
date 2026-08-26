@@ -8,6 +8,7 @@ on:
       - 'docs/styles.css'
       - 'docs/sw.js'
       - 'docs/sync-config.js'
+      - 'docs/v5.js'
       - '.github/workflows/validate-web.yml'
   pull_request:
     paths:
@@ -16,6 +17,7 @@ on:
       - 'docs/styles.css'
       - 'docs/sw.js'
       - 'docs/sync-config.js'
+      - 'docs/v5.js'
       - '.github/workflows/validate-web.yml'
 
 jobs:
@@ -30,6 +32,7 @@ jobs:
           node --check docs/app.js
           node --check docs/sw.js
           node --check docs/sync-config.js
+          node --check docs/v5.js
 
       - name: Check required web files
         run: |
