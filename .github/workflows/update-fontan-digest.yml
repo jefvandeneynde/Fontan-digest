@@ -8,6 +8,7 @@ on:
     paths:
       - 'config/**'
       - 'scripts/update_pubmed.py'
+      - 'scripts/update_europe_pmc.py'
       - '.github/workflows/update-fontan-digest.yml'
 
 permissions:
@@ -31,11 +32,16 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Validate ingestion script
-        run: python -m py_compile scripts/update_pubmed.py
+      - name: Validate ingestion scripts
+        run: |
+          python -m py_compile scripts/update_pubmed.py
+          python -m py_compile scripts/update_europe_pmc.py
 
-      - name: Refresh Fontan literature
+      - name: Refresh PubMed literature
         run: python scripts/update_pubmed.py
+
+      - name: Supplement with Europe PMC
+        run: python scripts/update_europe_pmc.py
 
       - name: Commit refreshed digest
         run: |
