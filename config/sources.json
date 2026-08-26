@@ -6,6 +6,18 @@
     "update_days": 60,
     "max_records": 3000
   },
+  "europe_pmc": {
+    "enabled": true,
+    "query": "(TITLE_ABS:Fontan OR TITLE_ABS:\"Fontan circulation\" OR TITLE_ABS:\"Fontan physiology\" OR TITLE_ABS:\"total cavopulmonary connection\" OR TITLE_ABS:TCPC)",
+    "bootstrap_days": 730,
+    "update_days": 60,
+    "max_records": 3000,
+    "purpose": "Supplement PubMed with Europe PMC records, including records such as preprints that may not yet be present in PubMed."
+  },
+  "science_direct": {
+    "enabled": false,
+    "purpose": "Optional future Elsevier ScienceDirect discovery source. The official ScienceDirect Search API requires an Elsevier API key and access depends on institutional entitlements."
+  },
   "major_journals": [
     "Circulation",
     "European Heart Journal",
