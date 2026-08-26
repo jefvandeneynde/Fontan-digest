@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T09:24:28Z",
+  "generated_at": "2026-08-26T09:25:12Z",
   "count": 1177,
   "source": "PubMed + Europe PMC",
   "programme": "SAFER-Fontan",
@@ -8,5 +8,5 @@
     "PubMed",
     "Europe PMC"
   ],
-  "europe_pmc_query": "(TITLE_ABS:Fontan OR TITLE_ABS:\"Fontan circulation\" OR TITLE_ABS:\"Fontan physiology\" OR TITLE_ABS:\"total cavopulmonary connection\" OR TITLE_ABS:TCPC)"
+  "europe_pmc_query": "(TITLE:Fontan OR ABSTRACT:Fontan OR TITLE:\"Fontan circulation\" OR ABSTRACT:\"Fontan circulation\" OR TITLE:\"Fontan physiology\" OR ABSTRACT:\"Fontan physiology\" OR TITLE:\"total cavopulmonary connection\" OR ABSTRACT:\"total cavopulmonary connection\" OR TITLE:TCPC OR ABSTRACT:TCPC)"
 }
