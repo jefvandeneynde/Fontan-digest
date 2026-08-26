@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T09:31:58Z",
-  "count": 1200,
+  "generated_at": "2026-08-26T17:51:46Z",
+  "count": 1207,
   "source": "PubMed + Europe PMC + Crossref",
   "programme": "SAFER-Fontan",
   "query": "(\"Fontan Procedure\"[Mesh] OR Fontan[Title/Abstract] OR \"Fontan circulation\"[Title/Abstract] OR \"Fontan physiology\"[Title/Abstract] OR \"total cavopulmonary connection\"[Title/Abstract] OR TCPC[Title/Abstract])",
