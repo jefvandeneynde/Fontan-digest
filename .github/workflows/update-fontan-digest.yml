@@ -9,6 +9,7 @@ on:
       - 'config/**'
       - 'scripts/update_pubmed.py'
       - 'scripts/update_europe_pmc.py'
+      - 'scripts/update_crossref.py'
       - '.github/workflows/update-fontan-digest.yml'
 
 permissions:
@@ -36,12 +37,16 @@ jobs:
         run: |
           python -m py_compile scripts/update_pubmed.py
           python -m py_compile scripts/update_europe_pmc.py
+          python -m py_compile scripts/update_crossref.py
 
       - name: Refresh PubMed literature
         run: python scripts/update_pubmed.py
 
       - name: Supplement with Europe PMC
         run: python scripts/update_europe_pmc.py
+
+      - name: Supplement with Crossref publisher metadata
+        run: python scripts/update_crossref.py
 
       - name: Commit refreshed digest
         run: |
