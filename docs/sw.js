@@ -1,4 +1,4 @@
-const CACHE = 'fontan-digest-v4';
+const CACHE = 'fontan-digest-v5';
 const APP_SHELL = ['./','index.html','styles.css','app.js','sync-config.js','manifest.webmanifest','icon.svg','data/topics.json'];
 
 self.addEventListener('install', event => {
