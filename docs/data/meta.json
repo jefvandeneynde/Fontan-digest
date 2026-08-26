@@ -1,12 +1,14 @@
 {
-  "generated_at": "2026-08-26T09:28:00Z",
-  "count": 1177,
-  "source": "PubMed + Europe PMC",
+  "generated_at": "2026-08-26T09:28:55Z",
+  "count": 1200,
+  "source": "PubMed + Europe PMC + Crossref",
   "programme": "SAFER-Fontan",
   "query": "(\"Fontan Procedure\"[Mesh] OR Fontan[Title/Abstract] OR \"Fontan circulation\"[Title/Abstract] OR \"Fontan physiology\"[Title/Abstract] OR \"total cavopulmonary connection\"[Title/Abstract] OR TCPC[Title/Abstract])",
   "sources": [
     "PubMed",
-    "Europe PMC"
+    "Europe PMC",
+    "Crossref"
   ],
-  "europe_pmc_query": "Fontan"
+  "europe_pmc_query": "Fontan",
+  "crossref_query_title": "Fontan"
 }
