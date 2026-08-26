@@ -8,11 +8,11 @@
   },
   "europe_pmc": {
     "enabled": true,
-    "query": "(TITLE:Fontan OR ABSTRACT:Fontan OR TITLE:\"Fontan circulation\" OR ABSTRACT:\"Fontan circulation\" OR TITLE:\"Fontan physiology\" OR ABSTRACT:\"Fontan physiology\" OR TITLE:\"total cavopulmonary connection\" OR ABSTRACT:\"total cavopulmonary connection\" OR TITLE:TCPC OR ABSTRACT:TCPC)",
+    "query": "Fontan",
     "bootstrap_days": 730,
     "update_days": 60,
     "max_records": 3000,
-    "purpose": "Supplement PubMed with Europe PMC records, including records such as preprints that may not yet be present in PubMed."
+    "purpose": "Supplement PubMed with Europe PMC records, including records such as preprints that may not yet be present in PubMed. Search broadly, then require a Fontan/TCPC term in the title or abstract before inclusion."
   },
   "science_direct": {
     "enabled": false,
