@@ -3,7 +3,7 @@
 window.addEventListener('load', () => {
   if (!state.filters) state.filters = {};
   if (!Array.isArray(state.filters.topics)) state.filters.topics = [];
-  if (!state.sortDirection) state.sortDirection = 'desc';
+  const hadSortDirection = ['asc','desc'].includes(state.sortDirection);
 
   const style = document.createElement('style');
   style.textContent = `
@@ -47,7 +47,7 @@ window.addEventListener('load', () => {
     };
     if (mapping[old]) {
       state.sort = mapping[old][0];
-      state.sortDirection = state.sortDirection || mapping[old][1];
+      if (!hadSortDirection) state.sortDirection = mapping[old][1];
     }
     if (!['published','seen','saved','journal','relevance'].includes(state.sort)) state.sort = 'published';
     if (!['asc','desc'].includes(state.sortDirection)) state.sortDirection = state.sort === 'journal' ? 'asc' : 'desc';
@@ -260,6 +260,7 @@ window.addEventListener('load', () => {
   }
 
   function refineCard(card) {
+    if (card.dataset.v5Enhanced === '1') return;
     const article = articles.find(item => item.id === card.dataset.id);
     if (!article) return;
     addActionTimestamp(card, article);
