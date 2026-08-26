@@ -1,5 +1,5 @@
-const CACHE = 'fontan-digest-v5';
-const APP_SHELL = ['./','index.html','styles.css','app.js','sync-config.js','manifest.webmanifest','icon.svg','data/topics.json'];
+const CACHE = 'fontan-digest-v6';
+const APP_SHELL = ['./','index.html','styles.css','app.js','sync-config.js','v5.js','manifest.webmanifest','icon.svg','data/topics.json'];
 
 self.addEventListener('install', event => {
   event.waitUntil(caches.open(CACHE).then(cache => cache.addAll(APP_SHELL)).then(() => self.skipWaiting()));
