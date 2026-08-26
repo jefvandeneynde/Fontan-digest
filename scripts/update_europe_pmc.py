@@ -59,15 +59,17 @@ def request_json(params: dict) -> dict:
         return json.loads(response.read().decode("utf-8", errors="replace"))
 
 
-def search_europe_pmc(query: str, start: date, end: date, max_records: int) -> list[dict]:
-    dated_query = f"({query}) AND FIRST_PDATE:[{start.isoformat()} TO {end.isoformat()}] sort_date:y"
+def search_europe_pmc(query: str, max_records: int) -> list[dict]:
+    # Europe PMC's indexed-date behavior is not identical to PubMed's. Fetch the most
+    # recent matching records and apply our publication-date window locally instead.
     results: list[dict] = []
     cursor = "*"
+    search_query = f"{query} sort_date:y"
 
     while len(results) < max_records:
         page_size = min(1000, max_records - len(results))
         payload = request_json({
-            "query": dated_query,
+            "query": search_query,
             "resultType": "core",
             "format": "json",
             "pageSize": str(page_size),
@@ -99,14 +101,15 @@ def author_names(record: dict) -> list[str]:
 def journal_name(record: dict) -> str:
     info = record.get("journalInfo") if isinstance(record.get("journalInfo"), dict) else {}
     journal = info.get("journal") if isinstance(info.get("journal"), dict) else {}
-    return clean_text(journal.get("title") or record.get("journalTitle") or record.get("bookOrReportDetails", {}).get("publisher"))
+    report = record.get("bookOrReportDetails") if isinstance(record.get("bookOrReportDetails"), dict) else {}
+    return clean_text(journal.get("title") or record.get("journalTitle") or report.get("publisher"))
 
 
 def publication_types(record: dict) -> list[str]:
     value = record.get("pubTypeList")
     if isinstance(value, dict):
         value = value.get("pubType")
-    return [clean_text(x) for x in as_list(value) if clean_text(str(x))]
+    return [clean_text(str(x)) for x in as_list(value) if clean_text(str(x))]
 
 
 def published_date(record: dict) -> str:
@@ -118,6 +121,27 @@ def published_date(record: dict) -> str:
             return value
     year = str(record.get("pubYear") or "")
     return f"{year}-01-01" if year.isdigit() else ""
+
+
+def explicit_fontan_match(record: dict) -> bool:
+    text = f"{strip_markup(record.get('title'))} {strip_markup(record.get('abstractText'))}".lower()
+    return any(term in text for term in (
+        "fontan",
+        "total cavopulmonary connection",
+        "total cavopulmonary",
+        "tcpc",
+    ))
+
+
+def within_window(record: dict, start: date, end: date) -> bool:
+    published = published_date(record)
+    if not published:
+        return False
+    try:
+        day = date.fromisoformat(published)
+    except ValueError:
+        return False
+    return start <= day <= end
 
 
 def make_article(record: dict, topics, link_config, major_journals) -> dict | None:
@@ -203,8 +227,9 @@ def main():
     today = date.today()
     days = int(cfg.get("update_days", 60) if existing else cfg.get("bootstrap_days", 730))
     start = today - timedelta(days=days)
-    raw = search_europe_pmc(cfg["query"], start, today, int(cfg.get("max_records", 3000)))
-    print(f"Europe PMC search {start} to {today}: {len(raw)} records")
+    raw_all = search_europe_pmc(cfg["query"], int(cfg.get("max_records", 3000)))
+    raw = [record for record in raw_all if explicit_fontan_match(record) and within_window(record, start, today)]
+    print(f"Europe PMC recent Fontan records {start} to {today}: {len(raw)} of {len(raw_all)} recent-search candidates")
 
     by_pmid = {a.get("pmid"): a for a in existing if a.get("pmid")}
     by_doi = {normalize_doi(a.get("doi")): a for a in existing if normalize_doi(a.get("doi"))}
