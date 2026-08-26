@@ -100,6 +100,14 @@ def explicit_fontan_title(title: str) -> bool:
     return any(term in low for term in ("fontan", "total cavopulmonary", "tcpc"))
 
 
+def pubmed_search_url(doi: str) -> str:
+    # Crossref can surface an online-first DOI before a PMID exists. Keep the visible
+    # PubMed button useful and truthful by linking to a DOI search rather than duplicating
+    # the publisher URL. Once PubMed indexes the paper, the primary PubMed ingest replaces
+    # this record with the direct PMID URL during deduplication.
+    return "https://pubmed.ncbi.nlm.nih.gov/?" + urllib.parse.urlencode({"term": f'"{doi}"[AID]'})
+
+
 def crossref_records(query_title: str, start: date, end: date, max_records: int) -> list[dict]:
     params = {
         "query.title": query_title,
@@ -161,7 +169,7 @@ def make_article(record: dict, topics, link_config, major_journals) -> dict | No
         "research_detail": detail,
         "relevance_score": relevance,
         "high_priority": relevance >= 45 or bool(major_journal_bonus(journal, major_journals) and links),
-        "pubmed_url": publisher_url,
+        "pubmed_url": pubmed_search_url(doi),
         "publisher_url": publisher_url,
         "full_text_url": "",
         "has_full_text": False,
@@ -205,6 +213,9 @@ def main():
             duplicate["source_coverage"] = sorted(x for x in coverage if x)
             if not duplicate.get("abstract") and candidate.get("abstract"):
                 duplicate["abstract"] = candidate["abstract"]
+            if not duplicate.get("pmid") and str(duplicate.get("source", "")).startswith("Crossref"):
+                duplicate["pubmed_url"] = candidate["pubmed_url"]
+                duplicate["publisher_url"] = candidate["publisher_url"]
             enriched += 1
             continue
         existing.append(candidate)
