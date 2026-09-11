@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-11T08:57:06Z",
+  "generated_at": "2026-09-11T14:29:11Z",
   "query_window_start": "2026-07-13",
   "query_window_end": "2026-09-11",
-  "count": 1238,
+  "count": 1239,
   "articles": [
     {
       "id": "pmid-42720775",
@@ -93,7 +93,11 @@
       "publisher_url": "https://doi.org/10.1007/s00246-026-04466-y",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z"
+      "retrieved_at": "2026-09-11T14:28:32Z",
+      "source_coverage": [
+        "Europe PMC",
+        "PubMed"
+      ]
     },
     {
       "id": "doi-10.1007/s00246-026-04466-y",
@@ -256,7 +260,7 @@
       "publisher_url": "https://doi.org/10.1161/JAHA.126.049422",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -327,7 +331,7 @@
       "publisher_url": "https://doi.org/10.1161/JAHA.125.048352",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -581,7 +585,7 @@
       "publisher_url": "https://doi.org/10.1080/00015385.2026.2729514",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -775,7 +779,7 @@
       "publisher_url": "https://doi.org/10.1007/s00246-026-04467-x",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -1042,6 +1046,118 @@
       "retrieved_at": "2026-09-09T19:18:55Z"
     },
     {
+      "id": "doi-10.47144/phj.v59i4.3819",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.47144/phj.v59i4.3819",
+      "pii": "",
+      "title": "SGLT2 Inhibition in the Fontan Population: A New Dawn for the Single Ventricle",
+      "abstract": "Addressing the Clinical Dilemma of Fontan Circulation: Few innovations in modern cardiac surgery have had as profound and transformative an impact on the management of congenital heart disease as the Fontan procedure. It has converted what was once a uniformly fatal form of single-ventricle heart disease into a chronic condition compatible with long-term survival [1,2]. However, for clinicians working at the interface of pediatric and adult congenital cardiology, Fontan completion does not represent the end of treatment—it marks the beginning of a lifelong physiological journey. This journey is increasingly characterized by Fontan failure, a multisystem syndrome driven by chronic venous congestion, reduced cardiac output, and progressive end-organ dysfunction [3,4]. Historically, the pharmacological management of Fontan failure has been challenging. For decades, clinicians have attempted to apply the traditional \"four pillars\" of heart failure therapy, developed for patients with biventricular circulation, to those with Fontan physiology. Unfortunately, these therapies have generally failed to produce meaningful improvements in mortality, exercise capacity, or quality of life [2]. Angiotensin-converting enzyme (ACE) inhibitors and beta-blockers have demonstrated only limited clinical benefit because they do not address the unique hemodynamic characteristics of the Fontan circulation [3]. Physiological Challenges: The Fontan circulation is fundamentally different from normal cardiovascular physiology because it lacks a subpulmonary ventricle. Pulmonary blood flow is entirely passive and depends on elevated central venous pressure to drive blood through the pulmonary vascular bed [3]. Consequently, conventional heart failure therapies that reduce preload may inadvertently compromise pulmonary blood flow and systemic cardiac output. This unique physiology has created a substantial therapeutic gap for the growing population of adults with congenital heart disease, who continue to lack pharmacological therapies capable of improving systemic outcomes without destabilizing Fontan hemodynamics [3,4]. A New Therapeutic Horizon: SGLT2 Inhibitors: Sodium-glucose cotransporter-2 (SGLT2) inhibitors were originally developed as glucose-lowering agents for patients with type 2 diabetes mellitus. However, they have rapidly emerged as a cornerstone of therapy for patients with heart failure across the spectrum of left ventricular ejection fraction because of their cardiovascular and renal protective effects [5,6]. Their potential application in adults with congenital heart disease represents an exciting new frontier. A landmark multicenter study by Neijenhuis et al., published in the Journal of the American College of Cardiology in 2024, entitled \"Effects of Sodium-Glucose Cotransporter-2 Inhibitors in Adults with Congenital Heart Disease,\" provides some of the earliest and most comprehensive evidence regarding the safety and efficacy of these agents in this unique population [7]. The study evaluated 174 adults with congenital heart disease, including patients with complex univentricular physiology. Importantly, treatment with SGLT2 inhibitors was associated with a significant reduction in heart failure hospitalizations over a six-month follow-up period. Equally encouraging was the favorable safety profile, with minimal incidences of symptomatic hypotension or clinically significant renal dysfunction—complications that frequently limit the use of conventional heart failure therapies in Fontan patients [7]. Early Clinical Evidence in Adult Congenital Heart Disease: The multicenter cohort by Neijenhuis et al. may represent an important turning point in the management of adult congenital heart disease [7]. Among 174 adults, the majority receiving SGLT2 inhibitors for symptomatic heart failure, treatment was associated with an approximately threefold reduction in heart failure hospitalization during the six months following treatment initiation compared with the preceding six months (rate ratio 0.30; 95% CI 0.14–0.62) [7]. Mortality remained low (2.3%) and none of the reported deaths were attributed to SGLT2 inhibitor therapy [7]. These findings suggest that SGLT2 inhibitors function not merely as antidiabetic agents but as clinically meaningful modulators of cardiovascular physiology. For Fontan patients, whose circulation depends upon a delicate balance between central venous pressure, pulmonary blood flow, and systemic cardiac output, these observations are particularly relevant [7]. Changes in Ventricular Function: Additional evidence supporting SGLT2 inhibitor therapy has emerged from smaller observational studies focusing on systemic right ventricular and single-ventricle failure. In a cohort of ten patients with systemic right ventricular dysfunction treated with dapagliflozin, median NT-proBNP concentrations decreased substantially over six months (736.6 to 531.6 ng/L), while approximately half of the patients experienced improvement in New York Heart Association (NYHA) functional class [8]. Similarly, short-term imaging studies have demonstrated early improvements in ventricular performance. Significant enhancements in global longitudinal strain, tricuspid annular plane systolic excursion (TAPSE), and fractional area change have been reported within 50 days in patients with systemic right ventricular failure. In patients with single-ventricle physiology, improvements in end-systolic area, fractional area change, free-wall strain, and isovolumic acceleration have been observed within approximately 100 days of therapy, particularly among individuals with reduced ventricular systolic function [9,10]. Safety and Tolerability: Safety remains a critical consideration in patients with complex congenital heart disease. In the multicenter ACHD cohort, adverse events were reported in approximately 10% of patients, while only 6.9% discontinued treatment because of side effects [7]. Importantly, the few deaths observed during follow-up were unrelated to SGLT2 inhibitor therapy [7]. Likewise, in the small systemic right ventricular cohort receiving dapagliflozin, only one uncomplicated urinary tract infection was reported. No clinically significant disturbances in glucose homeostasis or electrolyte balance were observed. Although a transient decline in renal function occurred shortly after treatment initiation, renal parameters subsequently returned to baseline values [8]. Collectively, these findings suggest that SGLT2 inhibitors possess an acceptable safety profile in carefully selected ACHD patients. Current Limitations of the Evidence: Despite these encouraging findings, several important limitations should be acknowledged. Existing studies remain observational, non-randomized, relatively small in sample size, and limited by short follow-up durations [7-10]. Although real-world data consistently suggest that SGLT2 inhibitors are generally safe, well tolerated, and associated with fewer heart failure hospitalizations as well as early improvements in ventricular performance, definitive conclusions regarding long-term survival, ventricular remodeling, Fontan-associated liver disease, renal outcomes, and exercise capacity cannot yet be drawn. Well-designed randomized controlled trials remain essential before these agents can be routinely recommended as standard therapy for Fontan failure. Beyond Diuresis: Metabolic and Cardiorenal Protection: Why might SGLT2 inhibitors succeed where conventional heart failure therapies have largely failed? The emerging evidence suggests that their benefits extend far beyond simple diuresis [7]. Rather than producing aggressive volume depletion, these agents induce gentle osmotic diuresis while simultaneously improving myocardial energetics, reducing inflammation, decreasing oxidative stress, and providing systemic cardiorenal protection [11]. Experimental work has also suggested that improved myocardial energy utilization may be particularly advantageous in patients with Fontan physiology, whose circulation operates under chronically abnormal loading conditions [12]. Importantly, unlike loop diuretics, SGLT2 inhibitors generally do not provoke substantial neurohormonal activation, making them particularly attractive in a circulation that is critically preload dependent. In Fontan patients, the primary clinical problem is seldom isolated ventricular systolic dysfunction. Instead, Fontan failure represents a complex multisystem disorder characterized by chronic venous congestion, systemic inflammation, hepatic dysfunction, renal impairment, lymphatic abnormalities, and progressive circulatory failure. By simultaneously targeting metabolic, renal, and cardiovascular pathways, SGLT2 inhibitors may offer a more comprehensive therapeutic strategy than conventional heart failure medications. The \"So What?\" for Pakistan: What are the implications of these findings for cardiologists practicing in Pakistan? Our healthcare landscape presents unique challenges [12]. We are witnessing a steadily growing population of adolescents and adults surviving after Fontan completion, yet access to advanced heart failure therapies—including ventricular assist devices and heart transplantation—remains extremely limited. Consequently, management often relies upon optimizing medical therapy within resource-constrained environments. In this context, an oral medication that is relatively affordable, generally well tolerated, and requires comparatively limited laboratory monitoring represents a potentially valuable therapeutic option. Furthermore, given the high prevalence of diabetes mellitus, obesity, and metabolic syndrome within the Pakistani population, many adults with congenital heart disease already possess comorbidities for which SGLT2 inhibitors provide established cardiovascular and renal benefits. Although their use in Fontan physiology currently remains off-label, these agents may offer a practical and accessible therapeutic alternative for carefully selected patients managed within specialized ACHD programs. Call to Action: Despite the growing enthusiasm surrounding SGLT2 inhibitors, clinical implementation should proceed with appropriate scientific caution. The current evidence, although encouraging, remains largely retrospective and observational. Pakistan should establish a national adult congenital heart disease registry to systematically monitor the long-term outcomes of Fontan survivors and evaluate the effectiveness of emerging therapies within our local population. Equally important is strengthening collaboration between pediatric and adult congenital cardiology services to ensure safe transition of care and standardized management protocols. Finally, multicenter prospective clinical trials involving South Asian populations are urgently needed to determine optimal patient selection, dosing strategies, long-term safety, and clinically meaningful outcomes specific to Fontan physiology. Conclusion: The study by Neijenhuis et al. represents an important milestone in the evolving management of Fontan circulation. Although definitive evidence from randomized controlled trials is still awaited, SGLT2 inhibitors represent one of the most promising pharmacological advances for patients with Fontan physiology in recent years. Their favorable safety profile, reduction in heart failure hospitalizations, and early improvements in ventricular performance suggest that they may address several pathophysiological mechanisms that conventional heart failure therapies have failed to modify. Rather than viewing these findings as definitive proof, clinicians should regard them as a catalyst for future research and carefully guided clinical implementation. The ultimate goal should be to move beyond retrospective optimism toward prospective, evidence-based care for patients living with the unique challenges of the single-ventricle circulation. References Khairy P, Fernandes SM, Mayer Jr JE, Triedman JK, Walsh EP, Lock JE, et al. Long-Term Survival, Modes of Death, and Predictors of Mortality in Survivors of the Fontan Procedure. Circulation. 2008;117(1):85-92. DOI: 10.1161/CIRCULATIONAHA.107.738559 Stout KK, Daniels CJ, Aboulhosn JA, Bozkurt B, Broberg CS, Colman JM, et al. 2018 AHA/ACC Guideline for the Management of Adults With Congenital Heart Disease. Circulation. 2019;139(25):e698-e800. DOI: 10.1161/CIR.0000000000000603 Gewillig M, Brown SC, Eyskens B, Heying R, Ganame J, Budts W, et al. The Fontan circulation: who controls cardiac output? Interact Cardiovasc Thorac Surg. 2010;10(3):428-33. DOI: 10.1510/icvts.2009.218594 Gewillig M, Brown SC. The Fontan circulation after 45 years: update in physiology. Heart. 2016;102(14):1081-6. DOI: 10.1136/heartjnl-2015-307467 Packer M, Anker SD, Butler J, Filippatos G, Pocock SJ, Carson P, et al. Cardiovascular and Renal Outcomes with Empagliflozin in Heart Failure. N Engl J Med. 2020;383(15):1413-24. DOI: 10.1056/NEJMoa2022190 Heerspink HJ, Stefánsson BV, Correa-Rotter R, Chertow GM, Greene T, Hou FF, et al. Dapagliflozin in Patients with Chronic Kidney Disease. N Engl J Med. 2020;383(15):1436-46. DOI: 10.1056/NEJMoa2024816 Neijenhuis RM, Macdonald ST, Zemrak F, Mertens BJ, Dinsdale A, Hunter A, et al. Effect of Sodium-Glucose Cotransporter 2 Inhibitors in Adults With Congenital Heart Disease. J Am Coll Cardiol. 2024;83(12):1403-14. DOI: 10.1016/j.jacc.2024.02.017 Neijenhuis RML, Nederend M, Jongbloed MRM, Kiès P, Rotmans JI, Vliegen HW, et al. The potential of sodium-glucose cotransporter 2 inhibitors for the treatment of systemic right ventricular failure in adults with congenital heart disease. Front Cardiovasc Med. 2023;10:1093201. DOI: 10.3389/fcvm.2023.1093201 Neijenhuis RM, Regeer MV, Walker NL, Mertens BJ, Hunter A, Kiès P, et al. Effect of sodium-glucose cotransporter 2 inhibitors on ventricular function in systemic right ventricular failure. Open Heart. 2025;12(2):e003445. DOI: 10.1136/openhrt-2025-003445 Neijenhuis RML, Regeer MV, Walker NL, Hunter A, Kiès P, Holman ER, et al. Echocardiographic effects of sodium-glucose cotransporter 2 inhibitors in single ventricle circulatory failure. Int J Cardiol Congenit Heart Dis. 2025;21:100603. DOI: 10.1016/j.ijcchd.2025.100603 Zelniker TA, Braunwald E. Clinical Benefit of Cardiorenal Effects of Sodium-Glucose Cotransporter 2 Inhibitors: JACC State-of-the-Art Review. J Am Coll Cardiol. 2020;75(4):435-47. DOI: 10.1016/j.jacc.2019.11.036 Sabri MR, Zolfi-Gol A, Ahmadi A, Haghjooy-Javanmard S. Effect of Tadalafil on Myocardial and Endothelial Function and Exercise Performance After Modified Fontan Operation. Pediatr Cardiol. 2016 Jan;37(1):55-61. DOI: 10.1007/s00246-015-1238-x",
+      "authors": [
+        "Ahsan Aliya Kemal",
+        "Bilawal Makhdoom",
+        "Jamalvi Syed Waseem",
+        "Sheikh Abdul Sattar",
+        "Javed Sana"
+      ],
+      "journal": "Pakistan Heart Journal",
+      "journal_abbrev": "",
+      "published": "2026-08-28",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [
+        "hemodynamics",
+        "exercise",
+        "vascular",
+        "pharmacotherapy",
+        "catheter-surgery",
+        "transplant",
+        "echocardiography",
+        "fald",
+        "renal",
+        "lymphatic",
+        "risk-outcomes",
+        "quality-life",
+        "pediatric",
+        "registries",
+        "methods"
+      ],
+      "topic_labels": [
+        "Hemodynamics & Fontan failure",
+        "Exercise physiology & CPET",
+        "Pulmonary & systemic vascular function",
+        "Pharmacotherapy",
+        "Catheter & surgical interventions",
+        "Transplant & advanced failure",
+        "Echocardiography & strain",
+        "Fontan-associated liver disease",
+        "Kidney & renal function",
+        "Lymphatic complications",
+        "Risk stratification & outcomes",
+        "Quality of life & patient-reported outcomes",
+        "Pediatric & transition",
+        "Registries & epidemiology",
+        "Methods, reference ranges & measurement"
+      ],
+      "research_links": [
+        {
+          "id": "therapy",
+          "label": "Spironolactone + dapagliflozin",
+          "priority": 7,
+          "score": 21,
+          "matched_terms": [
+            "mra",
+            "dapagliflozin",
+            "sglt2",
+            "sodium-glucose cotransporter",
+            "empagliflozin"
+          ],
+          "teaser": "Direct therapeutic relevance: SAFER-Fontan tests combined mineralocorticoid-receptor and SGLT2 inhibition with spironolactone plus dapagliflozin.",
+          "detail": "SAFER-Fontan evaluates combination therapy with spironolactone and dapagliflozin. Fontan-specific or broader heart-failure evidence on MRAs, SGLT2 inhibitors, RAAS biology, safety or treatment response can therefore affect the trial's biological rationale, expected effect size, subgroup hypotheses and interpretation of both efficacy and safety findings."
+        },
+        {
+          "id": "pvp-congestion",
+          "label": "Systemic venous congestion / PVP",
+          "priority": 6,
+          "score": 18,
+          "matched_terms": [
+            "venous pressure",
+            "central venous pressure",
+            "congestion"
+          ],
+          "teaser": "Directly informs SAFER-Fontan's primary hemodynamic domain: systemic venous congestion, measured with PVP at rest and peak exercise.",
+          "detail": "SAFER-Fontan tests whether therapy lowers systemic venous congestion, with peripheral venous pressure (PVP) assessed at rest and peak exercise as the primary endpoint. Papers on Fontan pressure, venous hypertension, congestion, venous return or volume status can therefore inform endpoint interpretation, mechanisms of treatment response and the clinical meaning of a change in PVP."
+        },
+        {
+          "id": "fald",
+          "label": "Fontan-associated liver disease",
+          "priority": 5,
+          "score": 15,
+          "matched_terms": [
+            "fontan-associated liver",
+            "liver",
+            "hepatic"
+          ],
+          "teaser": "Relevant to the extracardiac component of SAFER-Fontan, which tracks hepatic function and liver stiffness and studies heart-liver fibrotic coupling.",
+          "detail": "SAFER-Fontan includes hepatic phenotyping with MELD-XI and liver elastography, while its fibrosis work also examines organ-specific fibrotic activity. FALD literature is therefore useful for linking systemic venous congestion and low-flow physiology to end-organ disease and for evaluating whether hemodynamic improvement could translate into hepatic benefit."
+        }
+      ],
+      "research_teaser": "Direct therapeutic relevance: SAFER-Fontan tests combined mineralocorticoid-receptor and SGLT2 inhibition with spironolactone plus dapagliflozin.",
+      "research_detail": "SAFER-Fontan evaluates combination therapy with spironolactone and dapagliflozin. Fontan-specific or broader heart-failure evidence on MRAs, SGLT2 inhibitors, RAAS biology, safety or treatment response can therefore affect the trial's biological rationale, expected effect size, subgroup hypotheses and interpretation of both efficacy and safety findings.\n\nSAFER-Fontan tests whether therapy lowers systemic venous congestion, with peripheral venous pressure (PVP) assessed at rest and peak exercise as the primary endpoint. Papers on Fontan pressure, venous hypertension, congestion, venous return or volume status can therefore inform endpoint interpretation, mechanisms of treatment response and the clinical meaning of a change in PVP.",
+      "relevance_score": 256,
+      "high_priority": true,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.47144%2Fphj.v59i4.3819%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.47144/phj.v59i4.3819",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-09-11T14:29:11Z"
+    },
+    {
       "id": "pmid-42663127",
       "source": "PubMed",
       "pmid": "42663127",
@@ -1144,7 +1260,7 @@
       "publisher_url": "https://doi.org/10.1161/CIRCULATIONAHA.126.081043",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -1200,7 +1316,7 @@
       "publisher_url": "https://doi.org/10.1161/CIRCULATIONAHA.126.082949",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -1240,7 +1356,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jtcvs.2026.08.019",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -1373,7 +1489,7 @@
       "publisher_url": "https://doi.org/10.1177/21501351261472474",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -1541,7 +1657,7 @@
       "publisher_url": "https://doi.org/10.1016/j.ahj.2026.107589",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -1622,7 +1738,7 @@
       "publisher_url": "https://doi.org/10.1007/s00246-026-04412-y",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -1678,7 +1794,7 @@
       "publisher_url": "https://doi.org/10.1016/j.pedn.2026.08.040",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -1768,7 +1884,7 @@
       "publisher_url": "https://doi.org/10.3389/fped.2026.1887999",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13550200/",
       "has_full_text": true,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -1897,7 +2013,7 @@
       "publisher_url": "https://doi.org/10.1111/jgh.70701",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -1977,7 +2093,7 @@
       "publisher_url": "https://doi.org/10.1016/j.ijcchd.2026.100708",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13545440/",
       "has_full_text": true,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -2074,7 +2190,7 @@
       "publisher_url": "https://doi.org/10.1080/00365521.2026.2715580",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -2132,7 +2248,7 @@
       "publisher_url": "https://doi.org/10.1007/s00246-026-04430-w",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -2182,7 +2298,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jjcc.2026.08.002",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -2267,7 +2383,7 @@
       "publisher_url": "https://doi.org/10.3390/ijms27167461",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13513454/",
       "has_full_text": true,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -2335,7 +2451,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jtcvs.2026.08.007",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -2453,7 +2569,7 @@
       "publisher_url": "https://doi.org/10.1007/s00246-026-04429-3",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -2515,7 +2631,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jtcvs.2026.08.004",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -2609,7 +2725,7 @@
       "publisher_url": "https://doi.org/10.1007/s13239-026-00856-8",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -2700,7 +2816,7 @@
       "publisher_url": "https://doi.org/10.1371/journal.pdig.0001611",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13485067/",
       "has_full_text": true,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -2798,7 +2914,7 @@
       "publisher_url": "https://doi.org/10.7759/cureus.114675",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13541090/",
       "has_full_text": true,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -2871,7 +2987,7 @@
       "publisher_url": "https://doi.org/10.3389/frsle.2026.1857984",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13527833/",
       "has_full_text": true,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -2991,7 +3107,7 @@
       "publisher_url": "https://doi.org/10.1213/XAA.0000000000002271",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -3033,7 +3149,7 @@
       "publisher_url": "https://doi.org/10.1007/s00246-026-04432-8",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -3119,7 +3235,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jtcvs.2026.08.002",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -3215,7 +3331,7 @@
       "publisher_url": "https://doi.org/10.1007/s00431-026-07336-0",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z"
+      "retrieved_at": "2026-09-11T14:28:32Z"
     },
     {
       "id": "doi-10.1063/5.0331592",
@@ -3322,7 +3438,7 @@
       "publisher_url": "https://doi.org/10.1007/s00246-026-04417-7",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -3390,7 +3506,7 @@
       "publisher_url": "https://doi.org/10.14309/crj.0000000000002279",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13461054/",
       "has_full_text": true,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -3485,7 +3601,7 @@
       "publisher_url": "https://doi.org/10.1007/s00246-026-04419-5",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -3570,7 +3686,7 @@
       "publisher_url": "https://doi.org/10.1007/s00246-026-04418-6",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -3655,7 +3771,7 @@
       "publisher_url": "https://doi.org/10.1093/ehjcvp/pvag058",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -3801,7 +3917,7 @@
       "publisher_url": "https://doi.org/10.1007/s10047-026-01586-3",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13457251/",
       "has_full_text": true,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -3863,7 +3979,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jacasi.2026.06.035",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -3964,7 +4080,7 @@
       "publisher_url": "https://doi.org/10.1097/CRD.0000000000001426",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -4018,7 +4134,7 @@
       "publisher_url": "https://doi.org/10.1002/anie.3917462",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z"
+      "retrieved_at": "2026-09-11T14:28:32Z"
     },
     {
       "id": "pmid-42552567",
@@ -4087,7 +4203,7 @@
       "publisher_url": "https://doi.org/10.1097/MAT.0000000000002797",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -4298,7 +4414,7 @@
       "publisher_url": "https://doi.org/10.3389/fcvm.2026.1907009",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13482457/",
       "has_full_text": true,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -4372,7 +4488,7 @@
       "publisher_url": "https://doi.org/10.3389/fped.2026.1890070",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13481696/",
       "has_full_text": true,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -4440,7 +4556,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jpainsymman.2026.07.027",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z"
+      "retrieved_at": "2026-09-11T14:28:32Z"
     },
     {
       "id": "pmid-42530872",
@@ -4533,7 +4649,7 @@
       "publisher_url": "https://doi.org/10.1093/icvts/ivag213",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13496394/",
       "has_full_text": true,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -4616,7 +4732,7 @@
       "publisher_url": "https://doi.org/10.1093/omcr/omag145",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13430966/",
       "has_full_text": true,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -4794,7 +4910,7 @@
       "publisher_url": "https://doi.org/10.1111/echo.70581",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13421001/",
       "has_full_text": true,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -5764,7 +5880,7 @@
       "publisher_url": "https://doi.org/10.1097/CRD.0000000000001416",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z"
+      "retrieved_at": "2026-09-11T14:28:32Z"
     },
     {
       "id": "pmid-42530594",
@@ -5856,7 +5972,7 @@
       "publisher_url": "https://doi.org/10.1007/s00261-026-05701-z",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -5928,7 +6044,7 @@
       "publisher_url": "https://doi.org/10.1016/j.athoracsur.2026.07.021",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -5982,7 +6098,7 @@
       "publisher_url": "https://doi.org/10.1007/s43440-026-00883-1",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -6076,7 +6192,7 @@
       "publisher_url": "https://doi.org/10.3389/fcvm.2026.1860212",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13457137/",
       "has_full_text": true,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -6123,7 +6239,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.108329",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13420599/",
       "has_full_text": true,
-      "retrieved_at": "2026-09-11T08:56:42Z"
+      "retrieved_at": "2026-09-11T14:28:32Z"
     },
     {
       "id": "pmid-42504737",
@@ -6215,7 +6331,7 @@
       "publisher_url": "https://doi.org/10.1017/S1047951126123476",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -6269,7 +6385,7 @@
       "publisher_url": "https://doi.org/10.1111/jgh.70615",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13534241/",
       "has_full_text": true,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -6344,7 +6460,7 @@
       "publisher_url": "https://doi.org/10.1002/ccd.70776",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -6430,7 +6546,7 @@
       "publisher_url": "https://doi.org/10.1161/JAHA.125.048577",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z"
+      "retrieved_at": "2026-09-11T14:28:32Z"
     },
     {
       "id": "pmid-42508186",
@@ -6492,7 +6608,7 @@
       "publisher_url": "https://doi.org/10.1016/j.media.2026.104230",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -6559,7 +6675,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.109524",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -6600,7 +6716,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jtcvs.2026.02.021",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -6690,7 +6806,7 @@
       "publisher_url": "https://doi.org/10.1016/j.ijcard.2026.134688",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -6783,7 +6899,7 @@
       "publisher_url": "https://doi.org/10.1007/s00246-026-04392-z",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -6863,7 +6979,7 @@
       "publisher_url": "https://doi.org/10.1007/s40477-026-01204-1",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -6979,7 +7095,7 @@
       "publisher_url": "https://doi.org/10.1093/jscr/rjag563",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13387427/",
       "has_full_text": true,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -7036,7 +7152,7 @@
       "publisher_url": "https://doi.org/10.1007/s00247-026-06727-7",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -7121,7 +7237,7 @@
       "publisher_url": "https://doi.org/10.1186/s13019-026-04531-w",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -7189,7 +7305,7 @@
       "publisher_url": "https://doi.org/10.1515/bmt-2026-0281",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -7239,7 +7355,7 @@
       "publisher_url": "https://doi.org/10.1111/jgh.70608",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13534328/",
       "has_full_text": true,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -7329,7 +7445,7 @@
       "publisher_url": "https://doi.org/10.3390/jcdd13070333",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13411588/",
       "has_full_text": true,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -7399,7 +7515,7 @@
       "publisher_url": "https://doi.org/10.1007/s00246-026-04296-y",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -7450,7 +7566,7 @@
       "publisher_url": "https://doi.org/10.1007/s00246-026-04319-8",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -7540,7 +7656,7 @@
       "publisher_url": "https://doi.org/10.1093/ehjimp/qyag126",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13419069/",
       "has_full_text": true,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -7577,7 +7693,7 @@
       "publisher_url": "https://doi.org/10.1002/iju5.70230",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13368696/",
       "has_full_text": true,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -7637,7 +7753,7 @@
       "publisher_url": "https://doi.org/10.1007/s00246-026-04382-1",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -7982,7 +8098,7 @@
       "publisher_url": "https://doi.org/10.1016/j.ccep.2026.06.001",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Crossref",
         "PubMed"
@@ -8304,7 +8420,7 @@
       "publisher_url": "https://doi.org/10.3390/jcm15135286",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13363229/",
       "has_full_text": true,
-      "retrieved_at": "2026-09-11T08:56:42Z"
+      "retrieved_at": "2026-09-11T14:28:32Z"
     },
     {
       "id": "pmid-42406061",
@@ -8526,7 +8642,7 @@
       "publisher_url": "https://doi.org/10.1053/j.jvca.2026.07.004",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z"
+      "retrieved_at": "2026-09-11T14:28:32Z"
     },
     {
       "id": "pmid-42401222",
@@ -8730,7 +8846,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jacadv.2026.102885",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13400117/",
       "has_full_text": true,
-      "retrieved_at": "2026-09-11T08:56:42Z"
+      "retrieved_at": "2026-09-11T14:28:32Z"
     },
     {
       "id": "pmid-42389255",
@@ -9041,7 +9157,7 @@
       "publisher_url": "https://doi.org/10.15557/jou.2026.0020",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13474169/",
       "has_full_text": true,
-      "retrieved_at": "2026-09-11T08:56:42Z"
+      "retrieved_at": "2026-09-11T14:28:32Z"
     },
     {
       "id": "pmid-42403550",
@@ -9958,7 +10074,7 @@
       "publisher_url": "https://doi.org/10.3390/jcm15134921",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13361643/",
       "has_full_text": true,
-      "retrieved_at": "2026-09-11T08:56:42Z"
+      "retrieved_at": "2026-09-11T14:28:32Z"
     },
     {
       "id": "pmid-42333660",
@@ -10136,7 +10252,7 @@
       "publisher_url": "https://doi.org/10.4103/apc.apc_229_26",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13399874/",
       "has_full_text": true,
-      "retrieved_at": "2026-09-11T08:56:42Z"
+      "retrieved_at": "2026-09-11T14:28:32Z"
     },
     {
       "id": "pmid-42333760",
@@ -10263,7 +10379,7 @@
       "publisher_url": "https://doi.org/10.4103/apc.apc_63_26",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13399902/",
       "has_full_text": true,
-      "retrieved_at": "2026-09-11T08:56:42Z"
+      "retrieved_at": "2026-09-11T14:28:32Z"
     },
     {
       "id": "pmid-42499821",
@@ -10331,7 +10447,7 @@
       "publisher_url": "https://doi.org/10.4103/apc.apc_37_26",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13399905/",
       "has_full_text": true,
-      "retrieved_at": "2026-09-11T08:56:42Z"
+      "retrieved_at": "2026-09-11T14:28:32Z"
     },
     {
       "id": "pmid-42499826",
@@ -10389,7 +10505,7 @@
       "publisher_url": "https://doi.org/10.4103/apc.apc_81_26",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13399881/",
       "has_full_text": true,
-      "retrieved_at": "2026-09-11T08:56:42Z"
+      "retrieved_at": "2026-09-11T14:28:32Z"
     },
     {
       "id": "pmid-42499837",
@@ -10433,7 +10549,7 @@
       "publisher_url": "https://doi.org/10.4103/apc.apc_356_25",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13399882/",
       "has_full_text": true,
-      "retrieved_at": "2026-09-11T08:56:42Z"
+      "retrieved_at": "2026-09-11T14:28:32Z"
     },
     {
       "id": "pmid-42334092",
@@ -10567,7 +10683,7 @@
       "publisher_url": "https://doi.org/10.3389/fped.2026.1816094",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13333666/",
       "has_full_text": true,
-      "retrieved_at": "2026-09-11T08:56:42Z"
+      "retrieved_at": "2026-09-11T14:28:32Z"
     },
     {
       "id": "pmid-42434196",
@@ -11424,7 +11540,7 @@
       "publisher_url": "https://doi.org/10.1016/j.xjon.2026.101929",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13477063/",
       "has_full_text": true,
-      "retrieved_at": "2026-09-11T08:56:42Z"
+      "retrieved_at": "2026-09-11T14:28:32Z"
     },
     {
       "id": "pmid-42303255",
@@ -14166,7 +14282,7 @@
       "publisher_url": "https://doi.org/10.1016/j.xjtc.2026.102421",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13453640/",
       "has_full_text": true,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Crossref",
         "PubMed"
@@ -15167,7 +15283,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.108140",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-11T08:56:42Z"
+      "retrieved_at": "2026-09-11T14:28:32Z"
     },
     {
       "id": "pmid-42097294",
@@ -15761,7 +15877,7 @@
       "publisher_url": "https://doi.org/10.1016/j.xjon.2026.101855",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13477056/",
       "has_full_text": true,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Crossref",
         "PubMed"
@@ -16232,7 +16348,7 @@
       "publisher_url": "https://doi.org/10.5837/bjc.2026.026",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13448741/",
       "has_full_text": true,
-      "retrieved_at": "2026-09-11T08:56:42Z"
+      "retrieved_at": "2026-09-11T14:28:32Z"
     },
     {
       "id": "pmid-42604323",
@@ -16309,7 +16425,7 @@
       "publisher_url": "https://doi.org/10.1016/j.xjon.2026.101833",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13477081/",
       "has_full_text": true,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Crossref",
         "PubMed"
@@ -25139,7 +25255,7 @@
       "publisher_url": "https://doi.org/10.1016/j.atssr.2026.02.012",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13555436/",
       "has_full_text": true,
-      "retrieved_at": "2026-09-11T08:56:42Z"
+      "retrieved_at": "2026-09-11T14:28:32Z"
     },
     {
       "id": "pmid-41763667",
@@ -26828,7 +26944,7 @@
       "publisher_url": "https://doi.org/10.1016/j.cjcpc.2026.02.002",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13523822/",
       "has_full_text": true,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Crossref",
         "PubMed"
@@ -27953,7 +28069,7 @@
       "publisher_url": "https://doi.org/10.1016/j.cjcpc.2026.01.003",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13523827/",
       "has_full_text": true,
-      "retrieved_at": "2026-09-11T08:56:42Z",
+      "retrieved_at": "2026-09-11T14:28:32Z",
       "source_coverage": [
         "Crossref",
         "PubMed"
@@ -41105,7 +41221,7 @@
       "publisher_url": "https://doi.org/10.5837/bjc.2025.046",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13373835/",
       "has_full_text": true,
-      "retrieved_at": "2026-09-11T08:56:42Z"
+      "retrieved_at": "2026-09-11T14:28:32Z"
     },
     {
       "id": "pmid-41081089",
@@ -43849,7 +43965,7 @@
       "publisher_url": "https://doi.org/10.1002/pmf2.70091",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13344505/",
       "has_full_text": true,
-      "retrieved_at": "2026-09-11T08:56:42Z"
+      "retrieved_at": "2026-09-11T14:28:32Z"
     },
     {
       "id": "pmid-41002976",
