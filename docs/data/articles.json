@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-26T16:49:43Z",
-  "query_window_start": "2026-08-27",
-  "query_window_end": "2026-10-26",
+  "generated_at": "2026-10-27T01:30:42Z",
+  "query_window_start": "2026-08-28",
+  "query_window_end": "2026-10-27",
   "count": 1379,
   "articles": [
     {
@@ -953,7 +953,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jpeds.2026.115379",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -1046,7 +1046,7 @@
       "publisher_url": "https://doi.org/10.1007/s00261-026-05835-0",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -1357,7 +1357,7 @@
       "publisher_url": "https://doi.org/10.7759/cureus.118383",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13690063/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -1449,7 +1449,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jchf.2026.103433",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -1654,7 +1654,7 @@
       "publisher_url": "https://doi.org/10.1016/j.healun.2026.10.010",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -1720,7 +1720,7 @@
       "publisher_url": "https://doi.org/10.1016/j.thromres.2026.109893",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -1953,7 +1953,7 @@
       "publisher_url": "https://doi.org/10.1007/s00246-026-04513-8",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -2200,7 +2200,7 @@
       "publisher_url": "https://doi.org/10.1177/21501351261491199",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -2296,7 +2296,7 @@
       "publisher_url": "https://doi.org/10.1017/S1047951126124457",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -2513,7 +2513,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jtcvs.2026.09.005",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -2609,7 +2609,7 @@
       "publisher_url": "https://doi.org/10.1007/s00246-026-04508-5",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -2741,7 +2741,7 @@
       "publisher_url": "https://doi.org/10.1016/j.ejrad.2026.113293",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -2796,7 +2796,7 @@
       "publisher_url": "https://doi.org/10.1159/neo/adsag015",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z"
+      "retrieved_at": "2026-10-27T01:30:06Z"
     },
     {
       "id": "doi-10.1093/ehjcr/ytag733",
@@ -2932,7 +2932,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110571",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -3037,7 +3037,7 @@
       "publisher_url": "https://doi.org/10.1016/j.athoracsur.2026.09.038",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -3124,7 +3124,7 @@
       "publisher_url": "https://doi.org/10.1139/cjpp-2026-0103",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -3280,7 +3280,7 @@
       "publisher_url": "https://doi.org/10.1111/micc.70092",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -4393,7 +4393,7 @@
       "publisher_url": "https://doi.org/10.1177/21501351261484590",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -4459,7 +4459,7 @@
       "publisher_url": "https://doi.org/10.1017/S1047951126123579",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -4561,7 +4561,7 @@
       "publisher_url": "https://doi.org/10.1097/CRD.0000000000001483",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z"
+      "retrieved_at": "2026-10-27T01:30:06Z"
     },
     {
       "id": "pmid-42808974",
@@ -4621,7 +4621,7 @@
       "publisher_url": "https://doi.org/10.1177/21501351261477042",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -4685,7 +4685,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jcin.2026.05.040",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z"
+      "retrieved_at": "2026-10-27T01:30:06Z"
     },
     {
       "id": "pmid-42804567",
@@ -4733,7 +4733,7 @@
       "publisher_url": "https://doi.org/10.1161/CIRCULATIONAHA.126.081221",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13621794/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -4780,7 +4780,7 @@
       "publisher_url": "https://doi.org/10.1161/CIRCULATIONAHA.126.080139",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -4825,7 +4825,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jacc.2026.08.019",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z"
+      "retrieved_at": "2026-10-27T01:30:06Z"
     },
     {
       "id": "pmid-42799735",
@@ -4903,7 +4903,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110541",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -5050,7 +5050,7 @@
       "publisher_url": "https://doi.org/10.1053/j.jvca.2026.09.044",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -5120,7 +5120,7 @@
       "publisher_url": "https://doi.org/10.1152/ajpheart.00411.2026",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -5326,7 +5326,7 @@
       "publisher_url": "https://doi.org/10.1017/S1047951126123646",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -5455,7 +5455,7 @@
       "publisher_url": "https://doi.org/10.1007/s00246-026-04483-x",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -5754,7 +5754,7 @@
       "publisher_url": "https://doi.org/10.1007/s00246-026-04447-1",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -5891,7 +5891,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110350",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -5968,7 +5968,7 @@
       "publisher_url": "https://doi.org/10.1007/s40119-026-00477-1",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -6039,7 +6039,7 @@
       "publisher_url": "https://doi.org/10.1111/jgh.70755",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -6124,7 +6124,7 @@
       "publisher_url": "https://doi.org/10.1177/21501351261477046",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -6196,7 +6196,7 @@
       "publisher_url": "https://doi.org/10.1038/s42003-026-10882-w",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13586348/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -6242,7 +6242,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110349",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -6285,7 +6285,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jtcvs.2026.07.005",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -6323,7 +6323,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jtcvs.2026.08.019",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -6400,7 +6400,7 @@
       "publisher_url": "https://doi.org/10.1007/s00246-026-04464-0",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -6484,7 +6484,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.109547",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -6563,7 +6563,7 @@
       "publisher_url": "https://doi.org/10.1016/j.acvd.2026.07.006",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -6602,7 +6602,7 @@
       "publisher_url": "https://doi.org/10.1007/s10840-026-02439-y",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -6709,7 +6709,7 @@
       "publisher_url": "https://doi.org/10.1177/21501351261477060",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -6833,7 +6833,7 @@
       "publisher_url": "https://doi.org/10.1007/s13668-026-00802-z",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z"
+      "retrieved_at": "2026-10-27T01:30:06Z"
     },
     {
       "id": "epmc-ppr-PPR1318527",
@@ -6964,7 +6964,7 @@
       "publisher_url": "https://doi.org/10.3390/jcdd13090463",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13607017/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -7174,7 +7174,7 @@
       "publisher_url": "https://doi.org/10.1111/hepr.70268",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -7350,7 +7350,7 @@
       "publisher_url": "https://doi.org/10.1016/j.ahj.2026.107608",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -7413,7 +7413,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jacbts.2026.101687",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13589073/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -7450,7 +7450,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jacbts.2026.101703",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13584010/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -7580,7 +7580,7 @@
       "publisher_url": "https://doi.org/10.1007/s00246-026-04466-y",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -7748,7 +7748,7 @@
       "publisher_url": "https://doi.org/10.1161/JAHA.126.049422",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -7833,7 +7833,7 @@
       "publisher_url": "https://doi.org/10.1016/j.ijoa.2026.105279",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -7904,7 +7904,7 @@
       "publisher_url": "https://doi.org/10.1161/JAHA.125.048352",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -8106,7 +8106,7 @@
       "publisher_url": "https://doi.org/10.3390/children13091215",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13605104/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -8251,7 +8251,7 @@
       "publisher_url": "https://doi.org/10.1016/j.ijcchd.2026.100711",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13573173/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -8307,7 +8307,7 @@
       "publisher_url": "https://doi.org/10.1080/00015385.2026.2729514",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -8501,7 +8501,7 @@
       "publisher_url": "https://doi.org/10.1007/s00246-026-04467-x",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -8587,7 +8587,7 @@
       "publisher_url": "https://doi.org/10.3389/fcvm.2026.1876375",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13585986/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -8739,7 +8739,7 @@
       "publisher_url": "https://doi.org/10.7759/cureus.115741",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13633856/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -8866,7 +8866,7 @@
       "publisher_url": "https://doi.org/10.1093/europace/euag123",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13571843/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -8906,7 +8906,7 @@
       "publisher_url": "https://doi.org/10.1093/europace/euag239",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13571844/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -8979,7 +8979,7 @@
       "publisher_url": "https://doi.org/10.1111/echo.70620",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13575840/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -9058,7 +9058,7 @@
       "publisher_url": "https://doi.org/10.1111/eci.70257",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13577340/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -9903,7 +9903,7 @@
       "publisher_url": "https://doi.org/10.1253/circrep.CR-25-0343",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13649537/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -9995,7 +9995,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110025",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -10216,7 +10216,7 @@
       "publisher_url": "https://doi.org/10.1161/CIRCULATIONAHA.126.081043",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -10272,7 +10272,7 @@
       "publisher_url": "https://doi.org/10.1161/CIRCULATIONAHA.126.082949",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -10799,7 +10799,7 @@
       "publisher_url": "https://doi.org/10.3389/fped.2026.1887999",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13550200/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-26T16:48:44Z"
+      "retrieved_at": "2026-10-27T01:30:06Z"
     },
     {
       "id": "pmid-42781643",
@@ -10867,7 +10867,7 @@
       "publisher_url": "https://doi.org/10.7759/cureus.115087",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13600569/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-26T16:48:44Z"
+      "retrieved_at": "2026-10-27T01:30:06Z"
     },
     {
       "id": "doi-10.1055/s-0046-1827068",
@@ -11071,7 +11071,7 @@
       "publisher_url": "https://doi.org/10.1016/j.ijcchd.2026.100708",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13545440/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-26T16:48:44Z"
+      "retrieved_at": "2026-10-27T01:30:06Z"
     },
     {
       "id": "pmid-42627129",
@@ -11878,7 +11878,7 @@
       "publisher_url": "https://doi.org/10.7759/cureus.114675",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13541090/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-26T16:48:44Z"
+      "retrieved_at": "2026-10-27T01:30:06Z"
     },
     {
       "id": "pmid-42677143",
@@ -11947,7 +11947,7 @@
       "publisher_url": "https://doi.org/10.3389/frsle.2026.1857984",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13527833/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-26T16:48:44Z"
+      "retrieved_at": "2026-10-27T01:30:06Z"
     },
     {
       "id": "doi-10.1093/ehjcr/ytag604",
@@ -15888,7 +15888,7 @@
       "publisher_url": "https://doi.org/10.1007/s12055-026-02225-5",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13594033/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-26T16:48:44Z"
+      "retrieved_at": "2026-10-27T01:30:06Z"
     },
     {
       "id": "doi-10.1007/s12055-026-02225-5",
@@ -18455,7 +18455,7 @@
       "publisher_url": "https://doi.org/10.1016/j.aan.2026.05.003",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z"
+      "retrieved_at": "2026-10-27T01:30:06Z"
     },
     {
       "id": "pmid-42367139",
@@ -19084,7 +19084,7 @@
       "publisher_url": "https://doi.org/10.1016/j.xjtc.2026.102494",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13673977/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-26T16:48:44Z",
+      "retrieved_at": "2026-10-27T01:30:06Z",
       "source_coverage": [
         "Crossref",
         "PubMed"
@@ -21503,7 +21503,7 @@
       "publisher_url": "https://doi.org/10.5114/ceh.2026.161430",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13559692/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-26T16:48:44Z"
+      "retrieved_at": "2026-10-27T01:30:06Z"
     },
     {
       "id": "pmid-42260893",
@@ -34359,7 +34359,7 @@
       "publisher_url": "https://doi.org/10.1016/j.atssr.2026.02.012",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13555436/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-26T16:48:44Z"
+      "retrieved_at": "2026-10-27T01:30:06Z"
     },
     {
       "id": "pmid-41763667",
@@ -36048,7 +36048,7 @@
       "publisher_url": "https://doi.org/10.1016/j.cjcpc.2026.02.002",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13523822/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-26T16:48:44Z"
+      "retrieved_at": "2026-10-27T01:30:06Z"
     },
     {
       "id": "pmid-41674078",
@@ -37169,7 +37169,7 @@
       "publisher_url": "https://doi.org/10.1016/j.cjcpc.2026.01.003",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13523827/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-26T16:48:44Z"
+      "retrieved_at": "2026-10-27T01:30:06Z"
     },
     {
       "id": "pmid-41581136",
@@ -41092,7 +41092,7 @@
       "publisher_url": "https://doi.org/10.2463/mrms.mp.2026-0126",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13678478/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-26T16:48:44Z"
+      "retrieved_at": "2026-10-27T01:30:06Z"
     },
     {
       "id": "pmid-42250285",
@@ -41396,7 +41396,7 @@
       "publisher_url": "https://doi.org/10.1111/ped.70533",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-26T16:48:44Z"
+      "retrieved_at": "2026-10-27T01:30:06Z"
     },
     {
       "id": "pmid-41472350",
