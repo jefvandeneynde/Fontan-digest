@@ -1,9 +1,102 @@
 {
-  "generated_at": "2026-10-27T09:51:59Z",
+  "generated_at": "2026-10-27T15:54:26Z",
   "query_window_start": "2026-08-28",
   "query_window_end": "2026-10-27",
-  "count": 1381,
+  "count": 1383,
   "articles": [
+    {
+      "id": "doi-10.3390/diagnostics16213512",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.3390/diagnostics16213512",
+      "pii": "",
+      "title": "Comprehensive Evaluation of Fontan-Associated Liver Disease: The Role of Magnetic Resonance Imaging",
+      "abstract": "Background: Fontan-associated liver disease (FALD) develops as a consequence of chronic systemic venous congestion, which alters hepatic hemodynamics and promotes sinusoidal congestion, inflammation, and fibrosis. Our objective was to evaluate liver changes using magnetic resonance imaging (MRI) in patients with a Fontan circuit. Methods: We conducted a retrospective study including patients who underwent the Fontan procedure between January 2005 and December 2019 and were evaluated using T1, T2 and apparent diffusion coefficient mapping. Patients were classified into two groups: none-to-mild FALD (≤5 points) and moderate-to-severe FALD (≥6 points). FALD severity was characterized, and logistic regression analysis was performed to evaluate the association between the variables of interest and the outcome. The discriminative performance of quantitative MRI parameters was also assessed using ROC curves. Results: Thirty-nine patients were included, with a median age at surgery of 9.3 years (IQR 5.9–10.8); 61.5% (n = 24) were female. The most frequent diagnosis was tricuspid atresia (51.3%, n = 20), and the Fontan procedures were mainly performed using an extracardiac conduit (97.4%, n = 38). No factors were significantly associated with moderate-to-severe FALD. T1 mapping of segment I demonstrated the highest discriminative performance (AUC = 0.771; 95% CI: 0.500–1.000), with a cutoff value of >734 ms, yielding a sensitivity of 83.3% (95% CI: 43.65–99.15) and a specificity of 75% (95% CI: 57.89–86.75). Conclusions: After 10 years of follow-up, 15% had moderate-to-severe FALD. T1 mapping of segment I demonstrated the highest discriminative performance, with a sensitivity greater than 80% for identifying moderate-to-severe FALD.",
+      "authors": [
+        "Ortega-Zhindón Diego B.",
+        "Nuñez-Bupunari Ruth V.",
+        "Calderón-Colmenero Juan",
+        "de la Mora-Cervantes Regina",
+        "Campuzano-González Daniel",
+        "Pérez-Hernández Nonanzit",
+        "Rodríguez-Pérez José Manuel",
+        "Meléndez-Ramirez Gabriela",
+        "García-Montes José A.",
+        "Cervantes-Salazar Jorge L."
+      ],
+      "journal": "Diagnostics",
+      "journal_abbrev": "",
+      "published": "2026-10-27",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [
+        "hemodynamics",
+        "fibrosis",
+        "fald",
+        "risk-outcomes",
+        "methods"
+      ],
+      "topic_labels": [
+        "Hemodynamics & Fontan failure",
+        "Fibrosis & fibroblast activation",
+        "Fontan-associated liver disease",
+        "Risk stratification & outcomes",
+        "Methods, reference ranges & measurement"
+      ],
+      "research_links": [
+        {
+          "id": "fald",
+          "label": "Fontan-associated liver disease",
+          "priority": 5,
+          "score": 15,
+          "matched_terms": [
+            "fontan-associated liver",
+            "fald",
+            "liver",
+            "hepatic"
+          ],
+          "teaser": "Relevant to the extracardiac component of SAFER-Fontan, which tracks hepatic function and liver stiffness and studies heart-liver fibrotic coupling.",
+          "detail": "SAFER-Fontan includes hepatic phenotyping with MELD-XI and liver elastography, while its fibrosis work also examines organ-specific fibrotic activity. FALD literature is therefore useful for linking systemic venous congestion and low-flow physiology to end-organ disease and for evaluating whether hemodynamic improvement could translate into hepatic benefit."
+        },
+        {
+          "id": "pvp-congestion",
+          "label": "Systemic venous congestion / PVP",
+          "priority": 6,
+          "score": 12,
+          "matched_terms": [
+            "systemic venous",
+            "congestion"
+          ],
+          "teaser": "Directly informs SAFER-Fontan's primary hemodynamic domain: systemic venous congestion, measured with PVP at rest and peak exercise.",
+          "detail": "SAFER-Fontan tests whether therapy lowers systemic venous congestion, with peripheral venous pressure (PVP) assessed at rest and peak exercise as the primary endpoint. Papers on Fontan pressure, venous hypertension, congestion, venous return or volume status can therefore inform endpoint interpretation, mechanisms of treatment response and the clinical meaning of a change in PVP."
+        },
+        {
+          "id": "fibrosis",
+          "label": "Myocardial fibrosis & FAPI-PET",
+          "priority": 6,
+          "score": 6,
+          "matched_terms": [
+            "fibrosis"
+          ],
+          "teaser": "Relevant to SAFER-Fontan's fibrosis programme combining CMR tissue characterization, collagen-turnover biomarkers and FAPI-PET in a substudy.",
+          "detail": "SAFER-Fontan investigates myocardial fibrosis using native T1, extracellular volume and LGE, alongside circulating collagen-turnover markers and FAPI-PET in a selected substudy. Papers on active fibroblast biology, diffuse fibrosis, replacement scar or fibrosis biomarkers can directly inform mechanistic hypotheses and interpretation of treatment-related remodeling."
+        }
+      ],
+      "research_teaser": "Relevant to the extracardiac component of SAFER-Fontan, which tracks hepatic function and liver stiffness and studies heart-liver fibrotic coupling.",
+      "research_detail": "SAFER-Fontan includes hepatic phenotyping with MELD-XI and liver elastography, while its fibrosis work also examines organ-specific fibrotic activity. FALD literature is therefore useful for linking systemic venous congestion and low-flow physiology to end-organ disease and for evaluating whether hemodynamic improvement could translate into hepatic benefit.\n\nSAFER-Fontan tests whether therapy lowers systemic venous congestion, with peripheral venous pressure (PVP) assessed at rest and peak exercise as the primary endpoint. Papers on Fontan pressure, venous hypertension, congestion, venous return or volume status can therefore inform endpoint interpretation, mechanisms of treatment response and the clinical meaning of a change in PVP.",
+      "relevance_score": 70,
+      "high_priority": true,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.3390%2Fdiagnostics16213512%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.3390/diagnostics16213512",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-10-27T15:54:26Z"
+    },
     {
       "id": "doi-10.1093/eurheartj/ehag785.2486",
       "source": "Crossref early metadata",
@@ -831,7 +924,7 @@
       "publisher_url": "https://doi.org/10.1016/j.healun.2026.10.014",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z"
+      "retrieved_at": "2026-10-27T15:54:02Z"
     },
     {
       "id": "epmc-ppr-PPR1350289",
@@ -1048,7 +1141,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jpeds.2026.115379",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -1141,7 +1234,7 @@
       "publisher_url": "https://doi.org/10.1007/s00261-026-05835-0",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -1452,7 +1545,7 @@
       "publisher_url": "https://doi.org/10.7759/cureus.118383",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13690063/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -1544,7 +1637,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jchf.2026.103433",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -1749,7 +1842,7 @@
       "publisher_url": "https://doi.org/10.1016/j.healun.2026.10.010",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -1815,7 +1908,7 @@
       "publisher_url": "https://doi.org/10.1016/j.thromres.2026.109893",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -2048,7 +2141,7 @@
       "publisher_url": "https://doi.org/10.1007/s00246-026-04513-8",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -2295,7 +2388,7 @@
       "publisher_url": "https://doi.org/10.1177/21501351261491199",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -2391,7 +2484,7 @@
       "publisher_url": "https://doi.org/10.1017/S1047951126124457",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -2608,7 +2701,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jtcvs.2026.09.005",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -2704,7 +2797,7 @@
       "publisher_url": "https://doi.org/10.1007/s00246-026-04508-5",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -2836,7 +2929,7 @@
       "publisher_url": "https://doi.org/10.1016/j.ejrad.2026.113293",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -2891,7 +2984,7 @@
       "publisher_url": "https://doi.org/10.1159/neo/adsag015",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z"
+      "retrieved_at": "2026-10-27T15:54:02Z"
     },
     {
       "id": "doi-10.1093/ehjcr/ytag733",
@@ -2971,6 +3064,87 @@
       "retrieved_at": "2026-10-07T21:21:28Z"
     },
     {
+      "id": "pmid-42936293",
+      "source": "PubMed",
+      "pmid": "42936293",
+      "pmcid": "PMC13696955",
+      "doi": "10.1093/ehjcr/ytag733",
+      "pii": "ytag733",
+      "title": "Role of digital health in the personalized management of heart failure due to Fontan failure: a case report.",
+      "abstract": "Background: Heart failure (HF) represents a major cause of morbidity and mortality in patients with Fontan circulation. Chronic venous congestion, impaired preload, and limited cardiac output reserve make clinical assessment and intermittent invasive evaluations insufficient to capture early haemodynamic deterioration. Pharmacological treatment lack of robust evidence in this subgroup of patients. In this challenging setting, implantable invasive haemodynamic monitoring systems may provide continuous, real-life information capable of guiding personalized HF management. Case Summary: A 26-year-old Fontan male developed protein losing enteropathy and recurrent hospitalizations for decompensated heart failure. Therefore, the patient was candidate to heart transplantation. Over time, episodes of acute HF increased with an escalating requirement of dosage of diuretics. At 22 years of age, another episode of acute decompensated HF prompted a catheter-based intervention with Fontan conduit re-dilatation and re-fenestration with an Atrial Flow Regulator (AFR) implant, and a pulmonary artery pressure monitoring system (CardioMEMS™) was deployed to telemonitor pulmonary artery pressures and adjust the diuretic therapy accordingly. Up to date, 4 years from the intervention, the use of this remote monitoring system was feasible and effective in tailoring medical therapy to prevent further hospitalizations for acute HF. The patient is in clinical follow-up with regular controls. Discussion: Systems allowing continuous or repeated assessment of haemodynamic status in real-life conditions may support personalized treatment adjustments, improve symptom control, and potentially reduce HF-related hospitalizations in patients with failing Fontan circulation.",
+      "authors": [
+        "Cavarretta E",
+        "Quarta MT",
+        "Butera G",
+        "Amodeo A",
+        "Adorisio R"
+      ],
+      "journal": "European heart journal. Case reports",
+      "journal_abbrev": "Eur Heart J Case Rep",
+      "published": "2026-10-07",
+      "year": 2026,
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "article_type": "Case report",
+      "topics": [
+        "hemodynamics",
+        "pharmacotherapy",
+        "catheter-surgery",
+        "transplant",
+        "risk-outcomes",
+        "quality-life"
+      ],
+      "topic_labels": [
+        "Hemodynamics & Fontan failure",
+        "Pharmacotherapy",
+        "Catheter & surgical interventions",
+        "Transplant & advanced failure",
+        "Risk stratification & outcomes",
+        "Quality of life & patient-reported outcomes"
+      ],
+      "research_links": [
+        {
+          "id": "clinical-outcomes",
+          "label": "Clinical worsening & patient-reported outcomes",
+          "priority": 4,
+          "score": 12,
+          "matched_terms": [
+            "hospitalization",
+            "transplant",
+            "mortality"
+          ],
+          "teaser": "Helps connect mechanistic changes in SAFER-Fontan to outcomes that matter clinically: worsening events, symptoms, function and quality of life.",
+          "detail": "SAFER-Fontan includes clinical worsening events and patient-reported outcomes alongside deep physiological phenotyping. Outcome studies are therefore useful for deciding which mechanistic changes are likely to be clinically meaningful and for placing trial participants within the broader risk spectrum of adults with a Fontan circulation."
+        },
+        {
+          "id": "pvp-congestion",
+          "label": "Systemic venous congestion / PVP",
+          "priority": 6,
+          "score": 6,
+          "matched_terms": [
+            "congestion"
+          ],
+          "teaser": "Directly informs SAFER-Fontan's primary hemodynamic domain: systemic venous congestion, measured with PVP at rest and peak exercise.",
+          "detail": "SAFER-Fontan tests whether therapy lowers systemic venous congestion, with peripheral venous pressure (PVP) assessed at rest and peak exercise as the primary endpoint. Papers on Fontan pressure, venous hypertension, congestion, venous return or volume status can therefore inform endpoint interpretation, mechanisms of treatment response and the clinical meaning of a change in PVP."
+        }
+      ],
+      "research_teaser": "Helps connect mechanistic changes in SAFER-Fontan to outcomes that matter clinically: worsening events, symptoms, function and quality of life.",
+      "research_detail": "SAFER-Fontan includes clinical worsening events and patient-reported outcomes alongside deep physiological phenotyping. Outcome studies are therefore useful for deciding which mechanistic changes are likely to be clinically meaningful and for placing trial participants within the broader risk spectrum of adults with a Fontan circulation.\n\nSAFER-Fontan tests whether therapy lowers systemic venous congestion, with peripheral venous pressure (PVP) assessed at rest and peak exercise as the primary endpoint. Papers on Fontan pressure, venous hypertension, congestion, venous return or volume status can therefore inform endpoint interpretation, mechanisms of treatment response and the clinical meaning of a change in PVP.",
+      "relevance_score": 81,
+      "high_priority": true,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42936293/",
+      "publisher_url": "https://doi.org/10.1093/ehjcr/ytag733",
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13696955/",
+      "has_full_text": true,
+      "retrieved_at": "2026-10-27T15:54:02Z",
+      "source_coverage": [
+        "Crossref",
+        "PubMed"
+      ]
+    },
+    {
       "id": "pmid-42841827",
       "source": "PubMed",
       "pmid": "42841827",
@@ -3027,7 +3201,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110571",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -3132,94 +3306,7 @@
       "publisher_url": "https://doi.org/10.1016/j.athoracsur.2026.09.038",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
-      "source_coverage": [
-        "Europe PMC",
-        "PubMed"
-      ]
-    },
-    {
-      "id": "pmid-42826388",
-      "source": "PubMed",
-      "pmid": "42826388",
-      "pmcid": "",
-      "doi": "10.1139/cjpp-2026-0103",
-      "pii": "",
-      "title": "Bile Acids as Mitochondrial Toxins: Emerging Insights in Fontan and Heart Failure with Preserved Ejection Fraction.",
-      "abstract": "Elevated bile acids, particularly hydrophobic secondary species, impair mitochondrial structure and function across multiple organs. In cardiomyocytes, pathologically elevated circulating bile acids impair mitochondrial biogenesis, diminish ATP generation, disrupt calcium homeostasis, and compromise myocardial energetics. These alterations promote oxidative stress and activate mitochondrial apoptotic pathways, culminating in systolic dysfunction, diastolic impairment, and heightened arrhythmogenic risk. Parallel mitochondrial injury in liver and skeletal muscle contributes to liver fibrosis and sarcopenia. Accumulating evidence suggests that elevated circulating bile acids are not merely biochemical epiphenomena in Fontan circulation, where chronic hepatic congestion is intrinsic to the physiology, or in metabolic dysfunction-associated steatotic liver disease (MASLD). Rather, bile acid excess may represent a mechanistic link between hepatic injury and the broader, multisystem dysfunction that characterizes both conditions. This review focuses on recognizing bile acids as systemic mitochondrial toxins that share a common pathogenic pathway to two distinct clinical settings, Fontan failure and MASLD.It also highlights emerging diagnostic opportunities and supports therapies aimed at reducing bile acid toxicity or improving mitochondrial resilience to enhance outcomes in these patients.",
-      "authors": [
-        "Shah AH",
-        "Desai MS"
-      ],
-      "journal": "Canadian journal of physiology and pharmacology",
-      "journal_abbrev": "Can J Physiol Pharmacol",
-      "published": "2026-10-02",
-      "year": 2026,
-      "publication_types": [
-        "Journal Article"
-      ],
-      "article_type": "Original research",
-      "topics": [
-        "hemodynamics",
-        "diastolic",
-        "fibrosis",
-        "fald",
-        "lymphatic",
-        "risk-outcomes"
-      ],
-      "topic_labels": [
-        "Hemodynamics & Fontan failure",
-        "Diastolic function & EDPVR",
-        "Fibrosis & fibroblast activation",
-        "Fontan-associated liver disease",
-        "Lymphatic complications",
-        "Risk stratification & outcomes"
-      ],
-      "research_links": [
-        {
-          "id": "fald",
-          "label": "Fontan-associated liver disease",
-          "priority": 5,
-          "score": 10,
-          "matched_terms": [
-            "liver",
-            "hepatic"
-          ],
-          "teaser": "Relevant to the extracardiac component of SAFER-Fontan, which tracks hepatic function and liver stiffness and studies heart-liver fibrotic coupling.",
-          "detail": "SAFER-Fontan includes hepatic phenotyping with MELD-XI and liver elastography, while its fibrosis work also examines organ-specific fibrotic activity. FALD literature is therefore useful for linking systemic venous congestion and low-flow physiology to end-organ disease and for evaluating whether hemodynamic improvement could translate into hepatic benefit."
-        },
-        {
-          "id": "pvp-congestion",
-          "label": "Systemic venous congestion / PVP",
-          "priority": 6,
-          "score": 6,
-          "matched_terms": [
-            "congestion"
-          ],
-          "teaser": "Directly informs SAFER-Fontan's primary hemodynamic domain: systemic venous congestion, measured with PVP at rest and peak exercise.",
-          "detail": "SAFER-Fontan tests whether therapy lowers systemic venous congestion, with peripheral venous pressure (PVP) assessed at rest and peak exercise as the primary endpoint. Papers on Fontan pressure, venous hypertension, congestion, venous return or volume status can therefore inform endpoint interpretation, mechanisms of treatment response and the clinical meaning of a change in PVP."
-        },
-        {
-          "id": "edpvr-diastolic",
-          "label": "EDPVR & diastolic function",
-          "priority": 6,
-          "score": 6,
-          "matched_terms": [
-            "diastolic"
-          ],
-          "teaser": "Closely linked to the mechanistic EDPVR work in SAFER-Fontan, which characterizes ventricular stiffness and active relaxation across changing preload.",
-          "detail": "A major mechanistic component of SAFER-Fontan is quantitative assessment of diastolic function using pressure-volume relationships, including EDPVR-derived operating stiffness, stiffness constant, V15 and V0, together with indices of active relaxation such as IVRT and related surrogates. Papers on diastolic filling, ventricular compliance or stiffness are therefore directly relevant to both the biological rationale and validation work of the trial."
-        }
-      ],
-      "research_teaser": "Relevant to the extracardiac component of SAFER-Fontan, which tracks hepatic function and liver stiffness and studies heart-liver fibrotic coupling.",
-      "research_detail": "SAFER-Fontan includes hepatic phenotyping with MELD-XI and liver elastography, while its fibrosis work also examines organ-specific fibrotic activity. FALD literature is therefore useful for linking systemic venous congestion and low-flow physiology to end-organ disease and for evaluating whether hemodynamic improvement could translate into hepatic benefit.\n\nSAFER-Fontan tests whether therapy lowers systemic venous congestion, with peripheral venous pressure (PVP) assessed at rest and peak exercise as the primary endpoint. Papers on Fontan pressure, venous hypertension, congestion, venous return or volume status can therefore inform endpoint interpretation, mechanisms of treatment response and the clinical meaning of a change in PVP.",
-      "relevance_score": 75,
-      "high_priority": true,
-      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42826388/",
-      "publisher_url": "https://doi.org/10.1139/cjpp-2026-0103",
-      "full_text_url": "",
-      "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -3375,7 +3462,7 @@
       "publisher_url": "https://doi.org/10.1111/micc.70092",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -4488,7 +4575,7 @@
       "publisher_url": "https://doi.org/10.1177/21501351261484590",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -4554,7 +4641,7 @@
       "publisher_url": "https://doi.org/10.1017/S1047951126123579",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -4656,7 +4743,7 @@
       "publisher_url": "https://doi.org/10.1097/CRD.0000000000001483",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z"
+      "retrieved_at": "2026-10-27T15:54:02Z"
     },
     {
       "id": "pmid-42808974",
@@ -4716,7 +4803,7 @@
       "publisher_url": "https://doi.org/10.1177/21501351261477042",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -4780,7 +4867,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jcin.2026.05.040",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z"
+      "retrieved_at": "2026-10-27T15:54:02Z"
     },
     {
       "id": "pmid-42804567",
@@ -4828,7 +4915,7 @@
       "publisher_url": "https://doi.org/10.1161/CIRCULATIONAHA.126.081221",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13621794/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -4875,7 +4962,7 @@
       "publisher_url": "https://doi.org/10.1161/CIRCULATIONAHA.126.080139",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -4920,7 +5007,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jacc.2026.08.019",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z"
+      "retrieved_at": "2026-10-27T15:54:02Z"
     },
     {
       "id": "pmid-42799735",
@@ -4998,7 +5085,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110541",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -5145,7 +5232,7 @@
       "publisher_url": "https://doi.org/10.1053/j.jvca.2026.09.044",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -5215,7 +5302,7 @@
       "publisher_url": "https://doi.org/10.1152/ajpheart.00411.2026",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -5421,7 +5508,7 @@
       "publisher_url": "https://doi.org/10.1017/S1047951126123646",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -5550,7 +5637,7 @@
       "publisher_url": "https://doi.org/10.1007/s00246-026-04483-x",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -5849,7 +5936,7 @@
       "publisher_url": "https://doi.org/10.1007/s00246-026-04447-1",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -5986,7 +6073,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110350",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -6063,7 +6150,7 @@
       "publisher_url": "https://doi.org/10.1007/s40119-026-00477-1",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -6134,7 +6221,7 @@
       "publisher_url": "https://doi.org/10.1111/jgh.70755",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -6219,7 +6306,7 @@
       "publisher_url": "https://doi.org/10.1177/21501351261477046",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -6291,7 +6378,7 @@
       "publisher_url": "https://doi.org/10.1038/s42003-026-10882-w",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13586348/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -6337,7 +6424,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110349",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -6380,7 +6467,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jtcvs.2026.07.005",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -6418,7 +6505,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jtcvs.2026.08.019",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -6495,7 +6582,7 @@
       "publisher_url": "https://doi.org/10.1007/s00246-026-04464-0",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -6579,7 +6666,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.109547",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -6658,7 +6745,7 @@
       "publisher_url": "https://doi.org/10.1016/j.acvd.2026.07.006",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -6697,7 +6784,7 @@
       "publisher_url": "https://doi.org/10.1007/s10840-026-02439-y",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -6804,7 +6891,7 @@
       "publisher_url": "https://doi.org/10.1177/21501351261477060",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -6928,7 +7015,7 @@
       "publisher_url": "https://doi.org/10.1007/s13668-026-00802-z",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z"
+      "retrieved_at": "2026-10-27T15:54:02Z"
     },
     {
       "id": "epmc-ppr-PPR1318527",
@@ -7059,7 +7146,7 @@
       "publisher_url": "https://doi.org/10.3390/jcdd13090463",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13607017/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -7269,7 +7356,7 @@
       "publisher_url": "https://doi.org/10.1111/hepr.70268",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -7445,7 +7532,7 @@
       "publisher_url": "https://doi.org/10.1016/j.ahj.2026.107608",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -7508,7 +7595,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jacbts.2026.101687",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13589073/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -7545,7 +7632,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jacbts.2026.101703",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13584010/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -7675,7 +7762,7 @@
       "publisher_url": "https://doi.org/10.1007/s00246-026-04466-y",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -7843,7 +7930,7 @@
       "publisher_url": "https://doi.org/10.1161/JAHA.126.049422",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -7928,7 +8015,7 @@
       "publisher_url": "https://doi.org/10.1016/j.ijoa.2026.105279",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -7999,7 +8086,7 @@
       "publisher_url": "https://doi.org/10.1161/JAHA.125.048352",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -8201,7 +8288,7 @@
       "publisher_url": "https://doi.org/10.3390/children13091215",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13605104/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -8346,7 +8433,7 @@
       "publisher_url": "https://doi.org/10.1016/j.ijcchd.2026.100711",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13573173/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -8402,7 +8489,7 @@
       "publisher_url": "https://doi.org/10.1080/00015385.2026.2729514",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -8596,7 +8683,7 @@
       "publisher_url": "https://doi.org/10.1007/s00246-026-04467-x",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -8682,7 +8769,7 @@
       "publisher_url": "https://doi.org/10.3389/fcvm.2026.1876375",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13585986/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -8834,7 +8921,7 @@
       "publisher_url": "https://doi.org/10.7759/cureus.115741",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13633856/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -8961,7 +9048,7 @@
       "publisher_url": "https://doi.org/10.1093/europace/euag123",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13571843/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -9001,7 +9088,7 @@
       "publisher_url": "https://doi.org/10.1093/europace/euag239",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13571844/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -9074,7 +9161,7 @@
       "publisher_url": "https://doi.org/10.1111/echo.70620",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13575840/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -9153,7 +9240,7 @@
       "publisher_url": "https://doi.org/10.1111/eci.70257",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13577340/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -9998,7 +10085,7 @@
       "publisher_url": "https://doi.org/10.1253/circrep.CR-25-0343",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13649537/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -10090,7 +10177,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110025",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -10311,7 +10398,7 @@
       "publisher_url": "https://doi.org/10.1161/CIRCULATIONAHA.126.081043",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -10367,7 +10454,7 @@
       "publisher_url": "https://doi.org/10.1161/CIRCULATIONAHA.126.082949",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -10894,7 +10981,7 @@
       "publisher_url": "https://doi.org/10.3389/fped.2026.1887999",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13550200/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-27T09:51:23Z"
+      "retrieved_at": "2026-10-27T15:54:02Z"
     },
     {
       "id": "pmid-42781643",
@@ -10962,7 +11049,7 @@
       "publisher_url": "https://doi.org/10.7759/cureus.115087",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13600569/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-27T09:51:23Z"
+      "retrieved_at": "2026-10-27T15:54:02Z"
     },
     {
       "id": "doi-10.1055/s-0046-1827068",
@@ -11166,7 +11253,7 @@
       "publisher_url": "https://doi.org/10.1016/j.ijcchd.2026.100708",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13545440/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-27T09:51:23Z"
+      "retrieved_at": "2026-10-27T15:54:02Z"
     },
     {
       "id": "pmid-42627129",
@@ -11973,7 +12060,7 @@
       "publisher_url": "https://doi.org/10.7759/cureus.114675",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13541090/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-27T09:51:23Z"
+      "retrieved_at": "2026-10-27T15:54:02Z"
     },
     {
       "id": "pmid-42677143",
@@ -12042,7 +12129,7 @@
       "publisher_url": "https://doi.org/10.3389/frsle.2026.1857984",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13527833/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-27T09:51:23Z"
+      "retrieved_at": "2026-10-27T15:54:02Z"
     },
     {
       "id": "doi-10.1093/ehjcr/ytag604",
@@ -15983,7 +16070,7 @@
       "publisher_url": "https://doi.org/10.1007/s12055-026-02225-5",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13594033/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-27T09:51:23Z"
+      "retrieved_at": "2026-10-27T15:54:02Z"
     },
     {
       "id": "doi-10.1007/s12055-026-02225-5",
@@ -18550,7 +18637,7 @@
       "publisher_url": "https://doi.org/10.1016/j.aan.2026.05.003",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z"
+      "retrieved_at": "2026-10-27T15:54:02Z"
     },
     {
       "id": "pmid-42367139",
@@ -19179,7 +19266,7 @@
       "publisher_url": "https://doi.org/10.1016/j.xjtc.2026.102494",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13673977/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-27T09:51:23Z",
+      "retrieved_at": "2026-10-27T15:54:02Z",
       "source_coverage": [
         "Crossref",
         "PubMed"
@@ -21598,7 +21685,7 @@
       "publisher_url": "https://doi.org/10.5114/ceh.2026.161430",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13559692/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-27T09:51:23Z"
+      "retrieved_at": "2026-10-27T15:54:02Z"
     },
     {
       "id": "pmid-42260893",
@@ -34454,7 +34541,7 @@
       "publisher_url": "https://doi.org/10.1016/j.atssr.2026.02.012",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13555436/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-27T09:51:23Z"
+      "retrieved_at": "2026-10-27T15:54:02Z"
     },
     {
       "id": "pmid-41763667",
@@ -36143,7 +36230,7 @@
       "publisher_url": "https://doi.org/10.1016/j.cjcpc.2026.02.002",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13523822/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-27T09:51:23Z"
+      "retrieved_at": "2026-10-27T15:54:02Z"
     },
     {
       "id": "pmid-41674078",
@@ -37264,7 +37351,7 @@
       "publisher_url": "https://doi.org/10.1016/j.cjcpc.2026.01.003",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13523827/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-27T09:51:23Z"
+      "retrieved_at": "2026-10-27T15:54:02Z"
     },
     {
       "id": "pmid-41581136",
@@ -41187,7 +41274,97 @@
       "publisher_url": "https://doi.org/10.2463/mrms.mp.2026-0126",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13678478/",
       "has_full_text": true,
-      "retrieved_at": "2026-10-27T09:51:23Z"
+      "retrieved_at": "2026-10-27T15:54:02Z"
+    },
+    {
+      "id": "pmid-42826388",
+      "source": "PubMed",
+      "pmid": "42826388",
+      "pmcid": "",
+      "doi": "10.1139/cjpp-2026-0103",
+      "pii": "",
+      "title": "Bile acids as mitochondrial toxins: emerging insights in fontan and heart failure with preserved ejection fraction.",
+      "abstract": "Elevated bile acids, particularly hydrophobic secondary species, impair mitochondrial structure and function across multiple organs. In cardiomyocytes, pathologically elevated circulating bile acids impair mitochondrial biogenesis, diminish adenosine triphosphate generation, disrupt calcium homeostasis, and compromise myocardial energetics. These alterations promote oxidative stress and activate mitochondrial apoptotic pathways, culminating in systolic dysfunction, diastolic impairment, and heightened arrhythmogenic risk. Parallel mitochondrial injury in liver and skeletal muscle may contributes to liver fibrosis and sarcopenia. Accumulating evidence suggests that elevated circulating bile acids are not merely biochemical epiphenomena in Fontan circulation, where chronic hepatic congestion is intrinsic to the physiology. In metabolic-dysfunction associated steatotic liver disease (MASLD), the evidence is more nuanced: bile-acid metabolism and bile-acid pool composition may be altered, particularly in metabolic dysfunction-associated steatohepatitis (MASH) and with increasing fibrosis, but systemic bile-acid excess is not consistently demonstrated across uncomplicated steatosis. This review therefore emphasizes bile acids as systemic mitochondrial toxins in Fontan circulation and cholestatic/cirrhotic disease states, while discussing MASLD/heart failure with preserved ejection fraction as an emerging and hypothesis-generating context in which altered bile-acid signaling may contribute to cardiometabolic dysfunction. It also highlights emerging diagnostic opportunities and supports therapies aimed at reducing bile acid toxicity or improving mitochondrial resilience to enhance outcomes in these patients.",
+      "authors": [
+        "Shah A",
+        "Desai M"
+      ],
+      "journal": "Canadian journal of physiology and pharmacology",
+      "journal_abbrev": "Can J Physiol Pharmacol",
+      "published": "2026-01-01",
+      "year": 2026,
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "article_type": "Review",
+      "topics": [
+        "hemodynamics",
+        "diastolic",
+        "catheter-surgery",
+        "fibrosis",
+        "fald",
+        "lymphatic",
+        "risk-outcomes"
+      ],
+      "topic_labels": [
+        "Hemodynamics & Fontan failure",
+        "Diastolic function & EDPVR",
+        "Catheter & surgical interventions",
+        "Fibrosis & fibroblast activation",
+        "Fontan-associated liver disease",
+        "Lymphatic complications",
+        "Risk stratification & outcomes"
+      ],
+      "research_links": [
+        {
+          "id": "fald",
+          "label": "Fontan-associated liver disease",
+          "priority": 5,
+          "score": 10,
+          "matched_terms": [
+            "liver",
+            "hepatic"
+          ],
+          "teaser": "Relevant to the extracardiac component of SAFER-Fontan, which tracks hepatic function and liver stiffness and studies heart-liver fibrotic coupling.",
+          "detail": "SAFER-Fontan includes hepatic phenotyping with MELD-XI and liver elastography, while its fibrosis work also examines organ-specific fibrotic activity. FALD literature is therefore useful for linking systemic venous congestion and low-flow physiology to end-organ disease and for evaluating whether hemodynamic improvement could translate into hepatic benefit."
+        },
+        {
+          "id": "pvp-congestion",
+          "label": "Systemic venous congestion / PVP",
+          "priority": 6,
+          "score": 6,
+          "matched_terms": [
+            "congestion"
+          ],
+          "teaser": "Directly informs SAFER-Fontan's primary hemodynamic domain: systemic venous congestion, measured with PVP at rest and peak exercise.",
+          "detail": "SAFER-Fontan tests whether therapy lowers systemic venous congestion, with peripheral venous pressure (PVP) assessed at rest and peak exercise as the primary endpoint. Papers on Fontan pressure, venous hypertension, congestion, venous return or volume status can therefore inform endpoint interpretation, mechanisms of treatment response and the clinical meaning of a change in PVP."
+        },
+        {
+          "id": "edpvr-diastolic",
+          "label": "EDPVR & diastolic function",
+          "priority": 6,
+          "score": 6,
+          "matched_terms": [
+            "diastolic"
+          ],
+          "teaser": "Closely linked to the mechanistic EDPVR work in SAFER-Fontan, which characterizes ventricular stiffness and active relaxation across changing preload.",
+          "detail": "A major mechanistic component of SAFER-Fontan is quantitative assessment of diastolic function using pressure-volume relationships, including EDPVR-derived operating stiffness, stiffness constant, V15 and V0, together with indices of active relaxation such as IVRT and related surrogates. Papers on diastolic filling, ventricular compliance or stiffness are therefore directly relevant to both the biological rationale and validation work of the trial."
+        }
+      ],
+      "research_teaser": "Relevant to the extracardiac component of SAFER-Fontan, which tracks hepatic function and liver stiffness and studies heart-liver fibrotic coupling.",
+      "research_detail": "SAFER-Fontan includes hepatic phenotyping with MELD-XI and liver elastography, while its fibrosis work also examines organ-specific fibrotic activity. FALD literature is therefore useful for linking systemic venous congestion and low-flow physiology to end-organ disease and for evaluating whether hemodynamic improvement could translate into hepatic benefit.\n\nSAFER-Fontan tests whether therapy lowers systemic venous congestion, with peripheral venous pressure (PVP) assessed at rest and peak exercise as the primary endpoint. Papers on Fontan pressure, venous hypertension, congestion, venous return or volume status can therefore inform endpoint interpretation, mechanisms of treatment response and the clinical meaning of a change in PVP.",
+      "relevance_score": 72,
+      "high_priority": true,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42826388/",
+      "publisher_url": "https://doi.org/10.1139/cjpp-2026-0103",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-10-27T15:54:02Z",
+      "source_coverage": [
+        "Europe PMC",
+        "PubMed"
+      ]
     },
     {
       "id": "pmid-42250285",
@@ -41491,7 +41668,7 @@
       "publisher_url": "https://doi.org/10.1111/ped.70533",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-10-27T09:51:23Z"
+      "retrieved_at": "2026-10-27T15:54:02Z"
     },
     {
       "id": "pmid-41472350",
