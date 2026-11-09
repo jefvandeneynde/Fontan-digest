@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-08T20:31:46Z",
-  "query_window_start": "2026-09-09",
-  "query_window_end": "2026-11-08",
-  "count": 1442,
+  "generated_at": "2026-11-09T01:45:32Z",
+  "query_window_start": "2026-09-10",
+  "query_window_end": "2026-11-09",
+  "count": 1458,
   "articles": [
     {
       "id": "pmid-42964749",
@@ -97,7 +97,7 @@
       "publisher_url": "https://doi.org/10.5409/wjcp.119970",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13720585/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-08T20:31:22Z"
+      "retrieved_at": "2026-11-09T01:45:07Z"
     },
     {
       "id": "pmid-42998116",
@@ -159,7 +159,7 @@
       "publisher_url": "https://doi.org/10.1007/s10439-026-04413-1",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z"
+      "retrieved_at": "2026-11-09T01:45:07Z"
     },
     {
       "id": "pmid-42998734",
@@ -198,7 +198,7 @@
       "publisher_url": "https://doi.org/10.1016/j.athoracsur.2026.10.024",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z"
+      "retrieved_at": "2026-11-09T01:45:07Z"
     },
     {
       "id": "doi-10.3390/jcdd13110568",
@@ -355,7 +355,7 @@
       "publisher_url": "https://doi.org/10.1007/s00246-026-04544-1",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z"
+      "retrieved_at": "2026-11-09T01:45:07Z"
     },
     {
       "id": "doi-10.3389/fcvm.2026.1965722",
@@ -556,6 +556,223 @@
       "retrieved_at": "2026-11-03T12:00:05Z"
     },
     {
+      "id": "doi-10.1161/circ.154.suppl_1.18674",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1161/circ.154.suppl_1.18674",
+      "pii": "",
+      "title": "Abstract 18674: Utilizing Bariatric Surgery and Desensitization Prior to Transplantation in Failing Fontan Physiology",
+      "abstract": "Background: Patients with Fontan circulation develop progressive heart failure and multisystem complications driven by chronically elevated venous pressures and impaired preload, often despite preserved systolic function. Transplantation is the only definitive therapy, but candidacy is frequently limited by comorbid conditions. Obesity increases operative risk, and allosensitization restricts donor availability and worsens post-transplant outcomes. Practical strategies to address these barriers remain limited. Case: A 37-year-old woman with double-inlet left ventricle status post pulmonary artery banding, bidirectional Glenn, and lateral tunnel Fontan presented with worsening functional status requiring escalating diuretics. Her history was notable for Fontan-associated liver disease with cirrhosis and varices, recurrent supraventricular tachycardia, prior subdural hematoma, and obesity (BMI 38 kg/m 2 ).Hemodynamics demonstrated elevated Fontan pressures (18 mmHg) and pulmonary capillary wedge pressure (18 mmHg) with preserved systolic function (EF 65%). Decision Making: Given obesity as a barrier to transplantation, she underwent sleeve gastrectomy following multidisciplinary evaluation despite high risk in Fontan physiology. She achieved weight loss but remained but remained symptomatic and was referred for transplant evaluation. Liver biopsy showed mild chronic inflammation without fibrosis. She was found to be highly sensitized with Calculated Panel Reactive Antibody 98%. She underwent 8 weeks of desensitization with daratumumab in consultation with hematology, resulting in reduction in sensitization and improved donor availability. She subsequently underwent successful orthotopic heart transplantation with takedown of prior Fontan and Glenn circulation. Conclusion: Obesity and allosensitization are key modifiable barriers to transplantation in failing Fontan physiology. This case supports a staged approach using bariatric surgery and targeted desensitization to expand transplant eligibility and enable definitive therapy supported through a multidisciplinary team approach.",
+      "authors": [
+        "Bopparaju Sahana",
+        "Ramachandran Sai Prasad",
+        "Agdamag Arianne Clare",
+        "Bhattacharya Sanjeeb S",
+        "Zahka Kenneth G",
+        "Rush Nicole",
+        "Hsich Eileen M",
+        "Vest Amanda",
+        "Ghobrial Joanna",
+        "Fuchs Margaret",
+        "Zaki Anthony",
+        "Tong Michael",
+        "Soltesz Edward G",
+        "Aminian Ali"
+      ],
+      "journal": "Circulation",
+      "journal_abbrev": "",
+      "published": "2026-11-02",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [
+        "hemodynamics",
+        "pharmacotherapy",
+        "transplant",
+        "fibrosis",
+        "fald",
+        "arrhythmia",
+        "risk-outcomes",
+        "quality-life"
+      ],
+      "topic_labels": [
+        "Hemodynamics & Fontan failure",
+        "Pharmacotherapy",
+        "Transplant & advanced failure",
+        "Fibrosis & fibroblast activation",
+        "Fontan-associated liver disease",
+        "Arrhythmia & pacing",
+        "Risk stratification & outcomes",
+        "Quality of life & patient-reported outcomes"
+      ],
+      "research_links": [
+        {
+          "id": "fald",
+          "label": "Fontan-associated liver disease",
+          "priority": 5,
+          "score": 15,
+          "matched_terms": [
+            "fontan-associated liver",
+            "liver",
+            "cirrhosis"
+          ],
+          "teaser": "Relevant to the extracardiac component of SAFER-Fontan, which tracks hepatic function and liver stiffness and studies heart-liver fibrotic coupling.",
+          "detail": "SAFER-Fontan includes hepatic phenotyping with MELD-XI and liver elastography, while its fibrosis work also examines organ-specific fibrotic activity. FALD literature is therefore useful for linking systemic venous congestion and low-flow physiology to end-organ disease and for evaluating whether hemodynamic improvement could translate into hepatic benefit."
+        },
+        {
+          "id": "pvp-congestion",
+          "label": "Systemic venous congestion / PVP",
+          "priority": 6,
+          "score": 12,
+          "matched_terms": [
+            "venous pressure",
+            "fontan pressure"
+          ],
+          "teaser": "Directly informs SAFER-Fontan's primary hemodynamic domain: systemic venous congestion, measured with PVP at rest and peak exercise.",
+          "detail": "SAFER-Fontan tests whether therapy lowers systemic venous congestion, with peripheral venous pressure (PVP) assessed at rest and peak exercise as the primary endpoint. Papers on Fontan pressure, venous hypertension, congestion, venous return or volume status can therefore inform endpoint interpretation, mechanisms of treatment response and the clinical meaning of a change in PVP."
+        },
+        {
+          "id": "pcwp-filling",
+          "label": "Ventricular filling pressure / PCWP",
+          "priority": 6,
+          "score": 12,
+          "matched_terms": [
+            "wedge pressure",
+            "pulmonary capillary wedge"
+          ],
+          "teaser": "Relevant to the trial's key secondary hemodynamic endpoint: ventricular filling pressure measured by PCWP at rest and peak exercise.",
+          "detail": "The key secondary hemodynamic endpoint in SAFER-Fontan is pulmonary capillary wedge pressure (PCWP) at rest and peak exercise. New evidence about filling pressures, wedge pressure methodology or their relationship with symptoms and outcomes can help contextualize treatment effects and distinguish ventricular from upstream circulatory mechanisms."
+        }
+      ],
+      "research_teaser": "Relevant to the extracardiac component of SAFER-Fontan, which tracks hepatic function and liver stiffness and studies heart-liver fibrotic coupling.",
+      "research_detail": "SAFER-Fontan includes hepatic phenotyping with MELD-XI and liver elastography, while its fibrosis work also examines organ-specific fibrotic activity. FALD literature is therefore useful for linking systemic venous congestion and low-flow physiology to end-organ disease and for evaluating whether hemodynamic improvement could translate into hepatic benefit.\n\nSAFER-Fontan tests whether therapy lowers systemic venous congestion, with peripheral venous pressure (PVP) assessed at rest and peak exercise as the primary endpoint. Papers on Fontan pressure, venous hypertension, congestion, venous return or volume status can therefore inform endpoint interpretation, mechanisms of treatment response and the clinical meaning of a change in PVP.",
+      "relevance_score": 123,
+      "high_priority": true,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1161%2Fcirc.154.suppl_1.18674%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1161/circ.154.suppl_1.18674",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-09T01:45:32Z"
+    },
+    {
+      "id": "doi-10.1161/circ.154.suppl_1.9759",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1161/circ.154.suppl_1.9759",
+      "pii": "",
+      "title": "Abstract 9759: The Impact of Timing of Fontan Palliation on Mortality and Morbidity: A Single Ventricle Reconstruction Extension Study",
+      "abstract": "Background: Timing of Fontan completion is a potentially modifiable factor in staged palliation for hypoplastic left heart syndrome (HLHS) and related single right ventricle anomalies. Earlier completion may reduce cyanosis and ventricular volume loading whereas later completion may allow somatic growth and pulmonary vascular maturation, delaying exposure to chronic systemic venous hypertension. Wide center variation persists, but the implications of timing on later outcomes are unclear. Objective: To identify clinical factors associated with age at Fontan palliation and determine whether timing influences transplant-free survival, morbidity, ventricular function, and exercise performance through early adolescence. Methods: We performed a secondary analysis of the multicenter Pediatric Heart Network Single Ventricle Reconstruction (SVR) trial and extension studies. Participants who underwent Fontan completion were categorized by age at Fontan: 3.5 years. The primary outcome was death or heart transplantation after Fontan. Secondary outcomes included Fontan-related complications, interval catheter-based and surgical reinterventions, cardiac MRI-derived right ventricular ejection fraction (RVEF), and cardiopulmonary exercise testing (CPET) performance. Results: Among 323 participants, 112 (35%) underwent Fontan at 3.5 years. Median age at Fontan completion varied from 1.3 to 3.6 years across the 15 centers. Over a median of 12 years of follow-up, 25 deaths and 13 transplants occurred (12%). Transplant-free survival was similar across Fontan age group (Figure 1). While Fontan timing was not associated with death or transplant in adjusted models, older age at stage II palliation was independently associated with a higher risk of death or transplantation (adjusted HR: 1.14; 95% CI: 1.00-1.30; p: 0.05). Post-Fontan complications, interval interventions, and RVEF were similar across Fontan age groups. Although age at Fontan was not associated with exercise performance in the cohort that completed CPET (n=176, 54%), earlier Fontan completion was associated with higher peak VO2 (p=0.028) and oxygen pulse (p=0.033) among participants who achieved maximal effort (n=89) (Figure 2). Conclusions: In this multicenter cohort, age at Fontan completion within contemporary practice ranges was not associated with transplant-free survival, Fontan-related morbidity, reintervention burden, or RVEF through early adolescence. Earlier Fontan completion may be associated with more favorable exercise performance, but this finding should be interpreted cautiously given incomplete maximal-effort CPET data. Longer follow-up with serial physiologic assessments is needed to determine whether Fontan timing influences adult functional status and late Fontan-related morbidity.",
+      "authors": [
+        "Wong-Siegel Jeannette",
+        "Iguidbashian Kelsey G",
+        "MacBeth Morgan",
+        "Lewis Matthew",
+        "Glatz Andrew C",
+        "Silva Jennifer N",
+        "Miyamoto Shelley D",
+        "Dipchand Anne I",
+        "Shah Amee",
+        "Shustak Rachel J",
+        "Fleming Gregory A",
+        "Hook Jessica",
+        "Sarno Lauren",
+        "Toole Benjamin",
+        "Schwartz Bryanna",
+        "Golub Katrina",
+        "Lambert Linda M",
+        "Trachtenberg Felicia",
+        "Newburger Jane W",
+        "Goldberg Caren S",
+        "Bucholz Emily M"
+      ],
+      "journal": "Circulation",
+      "journal_abbrev": "",
+      "published": "2026-11-02",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [
+        "exercise",
+        "vascular",
+        "catheter-surgery",
+        "transplant",
+        "lymphatic",
+        "risk-outcomes",
+        "pediatric",
+        "registries",
+        "methods"
+      ],
+      "topic_labels": [
+        "Exercise physiology & CPET",
+        "Pulmonary & systemic vascular function",
+        "Catheter & surgical interventions",
+        "Transplant & advanced failure",
+        "Lymphatic complications",
+        "Risk stratification & outcomes",
+        "Pediatric & transition",
+        "Registries & epidemiology",
+        "Methods, reference ranges & measurement"
+      ],
+      "research_links": [
+        {
+          "id": "exercise",
+          "label": "Exercise physiology",
+          "priority": 6,
+          "score": 18,
+          "matched_terms": [
+            "exercise",
+            "cpet",
+            "cardiopulmonary exercise",
+            "peak vo2"
+          ],
+          "teaser": "Directly relevant to SAFER-Fontan's rest-versus-exercise framework and its detailed CPET characterization of circulatory reserve.",
+          "detail": "SAFER-Fontan deliberately measures hemodynamics at rest and peak exercise and performs detailed CPET phenotyping. Literature on peak VO2, ventilatory efficiency, exercise pressure responses or impaired circulatory reserve can therefore inform both mechanistic interpretation and the clinical significance of treatment-associated changes."
+        },
+        {
+          "id": "pvp-congestion",
+          "label": "Systemic venous congestion / PVP",
+          "priority": 6,
+          "score": 12,
+          "matched_terms": [
+            "systemic venous",
+            "venous hypertension"
+          ],
+          "teaser": "Directly informs SAFER-Fontan's primary hemodynamic domain: systemic venous congestion, measured with PVP at rest and peak exercise.",
+          "detail": "SAFER-Fontan tests whether therapy lowers systemic venous congestion, with peripheral venous pressure (PVP) assessed at rest and peak exercise as the primary endpoint. Papers on Fontan pressure, venous hypertension, congestion, venous return or volume status can therefore inform endpoint interpretation, mechanisms of treatment response and the clinical meaning of a change in PVP."
+        },
+        {
+          "id": "clinical-outcomes",
+          "label": "Clinical worsening & patient-reported outcomes",
+          "priority": 4,
+          "score": 12,
+          "matched_terms": [
+            "transplant",
+            "death",
+            "mortality"
+          ],
+          "teaser": "Helps connect mechanistic changes in SAFER-Fontan to outcomes that matter clinically: worsening events, symptoms, function and quality of life.",
+          "detail": "SAFER-Fontan includes clinical worsening events and patient-reported outcomes alongside deep physiological phenotyping. Outcome studies are therefore useful for deciding which mechanistic changes are likely to be clinically meaningful and for placing trial participants within the broader risk spectrum of adults with a Fontan circulation."
+        }
+      ],
+      "research_teaser": "Directly relevant to SAFER-Fontan's rest-versus-exercise framework and its detailed CPET characterization of circulatory reserve.",
+      "research_detail": "SAFER-Fontan deliberately measures hemodynamics at rest and peak exercise and performs detailed CPET phenotyping. Literature on peak VO2, ventilatory efficiency, exercise pressure responses or impaired circulatory reserve can therefore inform both mechanistic interpretation and the clinical significance of treatment-associated changes.\n\nSAFER-Fontan tests whether therapy lowers systemic venous congestion, with peripheral venous pressure (PVP) assessed at rest and peak exercise as the primary endpoint. Papers on Fontan pressure, venous hypertension, congestion, venous return or volume status can therefore inform endpoint interpretation, mechanisms of treatment response and the clinical meaning of a change in PVP.",
+      "relevance_score": 120,
+      "high_priority": true,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1161%2Fcirc.154.suppl_1.9759%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1161/circ.154.suppl_1.9759",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-09T01:45:32Z"
+    },
+    {
       "id": "doi-10.1161/circ.154.suppl_1.11894",
       "source": "Crossref early metadata",
       "source_coverage": [
@@ -659,6 +876,97 @@
       "retrieved_at": "2026-11-07T01:58:53Z"
     },
     {
+      "id": "doi-10.1161/circ.154.suppl_1.9699",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1161/circ.154.suppl_1.9699",
+      "pii": "",
+      "title": "Abstract 9699: Hemodynamic and Anatomic Predictors of Fontan-Associated Liver Disease Severity in Adults: A Single-Center Outpatient Catheterization Cohort",
+      "abstract": "Introduction: Fontan-associated liver disease (FALD) is a major source of morbidity in adults with single ventricle physiology. Relative contributions of hemodynamic profile and anatomic substrate remain incompletely defined. Hypothesis: FALD severity is independently associated with years of Fontan circulation, anatomic substrate, higher Fontan pressure, and lower SVR. Methods: Single-center retrospective cohort of 93 caths in 74 adults (≥18 yr) with Fontan undergoing outpatient catheterization from 2016 to 2025. FALD severity was defined by VAST score and serum biomarker scores (APRI, FIB-4, MELD-XI). Linear mixed-effects models (random intercept by patient) were used for continuous outcomes; logistic generalized estimating equations clustered by patient for binary cutoffs. Medications were modeled as continuous dose-equivalents. Results: Mean age 26.8 years with a mean of 23.3 years post-Fontan (50 lateral tunnel, 34 extracardiac). Each additional year post-Fontan conferred higher FALD severity: VAST score β +0.053 (p=0.002), FIB-4 β +0.047 (p 1.45 OR 1.14 (p=0.002). After adjusting for years post-Fontan, Fontan type did not predict FALD severity, but DORV and UAVC were the highest-risk diagnoses (FIB-4>1.45 vs HLHS: DORV OR 11.3, p=0.009; UAVC OR 6.9, p=0.032). Each 1 mmHg of Fontan pressure was associated with FALD severity: VAST score β +0.11 (p=0.003), FIB-4 β +0.07 (p=0.009), VAST≥2 OR 1.23 (p=0.003), and FIB-4>1.45 OR 1.25 (p=0.001). PCWP and transpulmonary gradient (TPG) showed similar associations (PCWP: VAST≥2 OR 1.18, p=0.008; TPG: FIB-4>1.12 OR 1.85, p 0.65 (OR 2.29, p=0.018) and FIB-4>1.12 (OR 2.20, p=0.013). Cardiac index, SVRi, SVR, and aortic pulsatility index showed no association with any FALD outcome, and ACEi, ARB, and MRA doses showed no consistent association with FALD severity and were not associated with SVR/SVRi. Conclusions: In this single-center adult outpatient Fontan cohort, longer years post-Fontan and DORV and UAVC diagnoses predicted FALD severity whereas Fontan type did not. FALD severity was associated with venous congestion rather than indices of forward output or arterial pulsatility.",
+      "authors": [
+        "Chen Spenser",
+        "Vaikunth Sumeet"
+      ],
+      "journal": "Circulation",
+      "journal_abbrev": "",
+      "published": "2026-11-02",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [
+        "hemodynamics",
+        "pharmacotherapy",
+        "catheter-surgery",
+        "fald",
+        "lymphatic",
+        "risk-outcomes",
+        "registries",
+        "methods"
+      ],
+      "topic_labels": [
+        "Hemodynamics & Fontan failure",
+        "Pharmacotherapy",
+        "Catheter & surgical interventions",
+        "Fontan-associated liver disease",
+        "Lymphatic complications",
+        "Risk stratification & outcomes",
+        "Registries & epidemiology",
+        "Methods, reference ranges & measurement"
+      ],
+      "research_links": [
+        {
+          "id": "fald",
+          "label": "Fontan-associated liver disease",
+          "priority": 5,
+          "score": 15,
+          "matched_terms": [
+            "fontan-associated liver",
+            "fald",
+            "liver",
+            "meld-xi"
+          ],
+          "teaser": "Relevant to the extracardiac component of SAFER-Fontan, which tracks hepatic function and liver stiffness and studies heart-liver fibrotic coupling.",
+          "detail": "SAFER-Fontan includes hepatic phenotyping with MELD-XI and liver elastography, while its fibrosis work also examines organ-specific fibrotic activity. FALD literature is therefore useful for linking systemic venous congestion and low-flow physiology to end-organ disease and for evaluating whether hemodynamic improvement could translate into hepatic benefit."
+        },
+        {
+          "id": "pvp-congestion",
+          "label": "Systemic venous congestion / PVP",
+          "priority": 6,
+          "score": 12,
+          "matched_terms": [
+            "fontan pressure",
+            "congestion"
+          ],
+          "teaser": "Directly informs SAFER-Fontan's primary hemodynamic domain: systemic venous congestion, measured with PVP at rest and peak exercise.",
+          "detail": "SAFER-Fontan tests whether therapy lowers systemic venous congestion, with peripheral venous pressure (PVP) assessed at rest and peak exercise as the primary endpoint. Papers on Fontan pressure, venous hypertension, congestion, venous return or volume status can therefore inform endpoint interpretation, mechanisms of treatment response and the clinical meaning of a change in PVP."
+        },
+        {
+          "id": "therapy",
+          "label": "Spironolactone + dapagliflozin",
+          "priority": 7,
+          "score": 7,
+          "matched_terms": [
+            "mra"
+          ],
+          "teaser": "Direct therapeutic relevance: SAFER-Fontan tests combined mineralocorticoid-receptor and SGLT2 inhibition with spironolactone plus dapagliflozin.",
+          "detail": "SAFER-Fontan evaluates combination therapy with spironolactone and dapagliflozin. Fontan-specific or broader heart-failure evidence on MRAs, SGLT2 inhibitors, RAAS biology, safety or treatment response can therefore affect the trial's biological rationale, expected effect size, subgroup hypotheses and interpretation of both efficacy and safety findings."
+        }
+      ],
+      "research_teaser": "Relevant to the extracardiac component of SAFER-Fontan, which tracks hepatic function and liver stiffness and studies heart-liver fibrotic coupling.",
+      "research_detail": "SAFER-Fontan includes hepatic phenotyping with MELD-XI and liver elastography, while its fibrosis work also examines organ-specific fibrotic activity. FALD literature is therefore useful for linking systemic venous congestion and low-flow physiology to end-organ disease and for evaluating whether hemodynamic improvement could translate into hepatic benefit.\n\nSAFER-Fontan tests whether therapy lowers systemic venous congestion, with peripheral venous pressure (PVP) assessed at rest and peak exercise as the primary endpoint. Papers on Fontan pressure, venous hypertension, congestion, venous return or volume status can therefore inform endpoint interpretation, mechanisms of treatment response and the clinical meaning of a change in PVP.",
+      "relevance_score": 112,
+      "high_priority": true,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1161%2Fcirc.154.suppl_1.9699%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1161/circ.154.suppl_1.9699",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-09T01:45:32Z"
+    },
+    {
       "id": "doi-10.1161/circ.154.suppl_1.14859",
       "source": "Crossref early metadata",
       "source_coverage": [
@@ -755,6 +1063,102 @@
       "retrieved_at": "2026-11-07T01:58:53Z"
     },
     {
+      "id": "doi-10.1161/circ.154.suppl_1.4685",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1161/circ.154.suppl_1.4685",
+      "pii": "",
+      "title": "Abstract 4685: Circulating Proteomic Signatures in Fontan-Associated Liver Disease",
+      "abstract": "Introduction/Background: Accurate non-invasive detection of Fontan-associated liver disease (FALD) is challenging due to lack of validated biomarkers and difficulty distinguishing hepatic congestion from fibrosis. We hypothesized that circulating proteomic profiling of single ventricle patients (SV) would differentiate those with FALD from those without FALD (non-FALD). Methods: SOMAscan® (SomaLogic) was used to quantify 5,116 serum proteins using an aptamer-based platform. Banked serum from patients with Fontan palliation were stratified into non-FALD and FALD cohorts based on multimodality clinical evaluation by an expert pediatric hepatologist. Random forest (RF) analysis identified the top three proteins that differentiated groups by feature importance. Hierarchical clustering (HC) validated group separation. Receiver operating characteristic (ROC) analysis evaluated discrimination. Wilcoxon rank-sum tests were used for group comparisons, with q-values Results: Twenty-one subjects were included (n=11, 55% male in non-FALD, n=10, 60% male in FALD). Median age at Fontan palliation was similar between groups (3.1 yrs), while median time from Fontan to blood draw was significantly shorter in non-FALD versus FALD (7.4 vs 13.9 yrs). Feature importance analysis identified CCN5, ACAN, and ZNRF3 as the top contributors to model discrimination between FALD and non-FALD (Figure 1A), with an AUC of 0.97 (Figure 1B). ACAN, associated with early extracellular matrix (ECM) remodeling, was upregulated in non-FALD. In contrast, ZNRF3, a negative regulator of Wnt signaling with anti-proliferative properties, and CCN5, known for its anti-fibrotic properties, were upregulated in FALD (Figure 1C-E). IPA demonstrated enriched ECM organization and collagen metabolism pathways in non-FALD, while FALD showed signatures of inflammatory signaling and cellular proliferation/reprogramming. Conclusions: The circulating proteome may represent a continuum of liver pathology in Fontans rather than distinct biologic processes. We hypothesize that non-FALD are in an earlier, potentially modifiable phase of disease, and the circulating proteome could be used as a biomarker of a potential therapeutic window. The circulating proteome in FALD suggests ongoing post-fibrotic remodeling that could progress to end-stage cirrhosis or hepatocellular carcinoma. These findings require validation in a larger cohort and evaluation of longitudinal outcomes.",
+      "authors": [
+        "Sakuma Ryo",
+        "Vicentino Amanda",
+        "Sucharov Carmen",
+        "Brigham Dania",
+        "Karimpour-Fard Anis",
+        "Miyamoto Shelley D"
+      ],
+      "journal": "Circulation",
+      "journal_abbrev": "",
+      "published": "2026-11-02",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [
+        "hemodynamics",
+        "fibrosis",
+        "fald",
+        "risk-outcomes",
+        "pediatric",
+        "registries",
+        "methods"
+      ],
+      "topic_labels": [
+        "Hemodynamics & Fontan failure",
+        "Fibrosis & fibroblast activation",
+        "Fontan-associated liver disease",
+        "Risk stratification & outcomes",
+        "Pediatric & transition",
+        "Registries & epidemiology",
+        "Methods, reference ranges & measurement"
+      ],
+      "research_links": [
+        {
+          "id": "fibrosis",
+          "label": "Myocardial fibrosis & FAPI-PET",
+          "priority": 6,
+          "score": 18,
+          "matched_terms": [
+            "fibrosis",
+            "fibrotic",
+            "collagen"
+          ],
+          "teaser": "Relevant to SAFER-Fontan's fibrosis programme combining CMR tissue characterization, collagen-turnover biomarkers and FAPI-PET in a substudy.",
+          "detail": "SAFER-Fontan investigates myocardial fibrosis using native T1, extracellular volume and LGE, alongside circulating collagen-turnover markers and FAPI-PET in a selected substudy. Papers on active fibroblast biology, diffuse fibrosis, replacement scar or fibrosis biomarkers can directly inform mechanistic hypotheses and interpretation of treatment-related remodeling."
+        },
+        {
+          "id": "fald",
+          "label": "Fontan-associated liver disease",
+          "priority": 5,
+          "score": 15,
+          "matched_terms": [
+            "fontan-associated liver",
+            "fald",
+            "liver",
+            "hepatic",
+            "cirrhosis",
+            "hepatocellular"
+          ],
+          "teaser": "Relevant to the extracardiac component of SAFER-Fontan, which tracks hepatic function and liver stiffness and studies heart-liver fibrotic coupling.",
+          "detail": "SAFER-Fontan includes hepatic phenotyping with MELD-XI and liver elastography, while its fibrosis work also examines organ-specific fibrotic activity. FALD literature is therefore useful for linking systemic venous congestion and low-flow physiology to end-organ disease and for evaluating whether hemodynamic improvement could translate into hepatic benefit."
+        },
+        {
+          "id": "pvp-congestion",
+          "label": "Systemic venous congestion / PVP",
+          "priority": 6,
+          "score": 6,
+          "matched_terms": [
+            "congestion"
+          ],
+          "teaser": "Directly informs SAFER-Fontan's primary hemodynamic domain: systemic venous congestion, measured with PVP at rest and peak exercise.",
+          "detail": "SAFER-Fontan tests whether therapy lowers systemic venous congestion, with peripheral venous pressure (PVP) assessed at rest and peak exercise as the primary endpoint. Papers on Fontan pressure, venous hypertension, congestion, venous return or volume status can therefore inform endpoint interpretation, mechanisms of treatment response and the clinical meaning of a change in PVP."
+        }
+      ],
+      "research_teaser": "Relevant to SAFER-Fontan's fibrosis programme combining CMR tissue characterization, collagen-turnover biomarkers and FAPI-PET in a substudy.",
+      "research_detail": "SAFER-Fontan investigates myocardial fibrosis using native T1, extracellular volume and LGE, alongside circulating collagen-turnover markers and FAPI-PET in a selected substudy. Papers on active fibroblast biology, diffuse fibrosis, replacement scar or fibrosis biomarkers can directly inform mechanistic hypotheses and interpretation of treatment-related remodeling.\n\nSAFER-Fontan includes hepatic phenotyping with MELD-XI and liver elastography, while its fibrosis work also examines organ-specific fibrotic activity. FALD literature is therefore useful for linking systemic venous congestion and low-flow physiology to end-organ disease and for evaluating whether hemodynamic improvement could translate into hepatic benefit.",
+      "relevance_score": 109,
+      "high_priority": true,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1161%2Fcirc.154.suppl_1.4685%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1161/circ.154.suppl_1.4685",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-09T01:45:32Z"
+    },
+    {
       "id": "doi-10.1161/circ.154.suppl_1.16757",
       "source": "Crossref early metadata",
       "source_coverage": [
@@ -847,6 +1251,102 @@
       "full_text_url": "",
       "has_full_text": false,
       "retrieved_at": "2026-11-07T01:58:53Z"
+    },
+    {
+      "id": "doi-10.1161/circ.154.suppl_1.6802",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1161/circ.154.suppl_1.6802",
+      "pii": "",
+      "title": "Abstract 6802: Exercise Testing as a Noninvasive Marker of Diastolic Dysfunction in Patients with Fontan Circulation",
+      "abstract": "Background: Patients with Fontan circulation are at risk for the development of diastolic dysfunction (DD). Prior work has shown that occult DD can be unmasked during diagnostic cardiac catheterization (DCC) using rapid volume expansion (RVE) techniques. Cardiopulmonary exercise testing (CPET) offers a noninvasive means of evaluating exercise capacity and hemodynamic reserve, but its utility in identifying DD in Fontan patients remains incompletely characterized. Hypothesis: We hypothesized that CPET-derived markers of exercise capacity would be associated with invasively defined DD in patients with Fontan circulation. Methods: This is a single-center retrospective study of 85 Fontan patients who had a diagnostic cardiac catheterization (DCC) from January 1, 2018 to December 31, 2024 and had CPET within 12 months. DD was defined as a ventricular end-diastolic pressure (EDP) ≥ 15 mmHg at baseline or following 15 cc/kg of intravenous normal saline. Pulmonary capillary wedge pressure was used if EDP data was unavailable (n=5). CPET data were compared between those with and without DD. Univariable and multivariable logistic regression were performed for the presence of DD and will be presented as (OR, 95% CI). Results: DD was present in 48 (56.5%), 16 fulfilling criteria at rest and the remaining 32 with DD exposed after IV fluid. Amongst the two groups, patients with DD were older (Median 20 vs 15 years; p = 0.002), and had a higher body mass index (BMI; 26.7 vs 21.3 kg/m 2 ; p 2 (%pred VO 2 ; 0.73 per 10%, 0.53-0.96, p = 0.031), age at CPET (2.29 per 10 years, 1.1-5.25, p = 0.036), and BMI (2.35 per +5 kg/m 2 , 1.47-4.03, p 2 and BMI remained independently associated with the presence of DD (0.6 per 10%, 0.3-0.9, p = 0.033 and 3.9 per kg/m 2 , 1.9-9.5, p 2 slope) were not statistically associated with the outcome. Conclusions: Higher BMI and lower %pred VO 2 are independently associated with hemodynamic findings consistent with DD in the Fontan circulation. Future studies should investigate whether improvements in exercise capacity or BMI are associated with improved diastolic function.",
+      "authors": [
+        "Siow Maria",
+        "Leone David",
+        "Critser Paul",
+        "Powell Adam W",
+        "Hirsch Russel",
+        "Smith Clayton",
+        "Opotowsky Alexander"
+      ],
+      "journal": "Circulation",
+      "journal_abbrev": "",
+      "published": "2026-11-02",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [
+        "hemodynamics",
+        "diastolic",
+        "exercise",
+        "catheter-surgery",
+        "lymphatic",
+        "risk-outcomes",
+        "methods"
+      ],
+      "topic_labels": [
+        "Hemodynamics & Fontan failure",
+        "Diastolic function & EDPVR",
+        "Exercise physiology & CPET",
+        "Catheter & surgical interventions",
+        "Lymphatic complications",
+        "Risk stratification & outcomes",
+        "Methods, reference ranges & measurement"
+      ],
+      "research_links": [
+        {
+          "id": "pcwp-filling",
+          "label": "Ventricular filling pressure / PCWP",
+          "priority": 6,
+          "score": 18,
+          "matched_terms": [
+            "wedge pressure",
+            "pulmonary capillary wedge",
+            "end-diastolic pressure",
+            "edp"
+          ],
+          "teaser": "Relevant to the trial's key secondary hemodynamic endpoint: ventricular filling pressure measured by PCWP at rest and peak exercise.",
+          "detail": "The key secondary hemodynamic endpoint in SAFER-Fontan is pulmonary capillary wedge pressure (PCWP) at rest and peak exercise. New evidence about filling pressures, wedge pressure methodology or their relationship with symptoms and outcomes can help contextualize treatment effects and distinguish ventricular from upstream circulatory mechanisms."
+        },
+        {
+          "id": "exercise",
+          "label": "Exercise physiology",
+          "priority": 6,
+          "score": 18,
+          "matched_terms": [
+            "exercise",
+            "cpet",
+            "cardiopulmonary exercise",
+            "exercise capacity"
+          ],
+          "teaser": "Directly relevant to SAFER-Fontan's rest-versus-exercise framework and its detailed CPET characterization of circulatory reserve.",
+          "detail": "SAFER-Fontan deliberately measures hemodynamics at rest and peak exercise and performs detailed CPET phenotyping. Literature on peak VO2, ventilatory efficiency, exercise pressure responses or impaired circulatory reserve can therefore inform both mechanistic interpretation and the clinical significance of treatment-associated changes."
+        },
+        {
+          "id": "edpvr-diastolic",
+          "label": "EDPVR & diastolic function",
+          "priority": 6,
+          "score": 6,
+          "matched_terms": [
+            "diastolic"
+          ],
+          "teaser": "Closely linked to the mechanistic EDPVR work in SAFER-Fontan, which characterizes ventricular stiffness and active relaxation across changing preload.",
+          "detail": "A major mechanistic component of SAFER-Fontan is quantitative assessment of diastolic function using pressure-volume relationships, including EDPVR-derived operating stiffness, stiffness constant, V15 and V0, together with indices of active relaxation such as IVRT and related surrogates. Papers on diastolic filling, ventricular compliance or stiffness are therefore directly relevant to both the biological rationale and validation work of the trial."
+        }
+      ],
+      "research_teaser": "Relevant to the trial's key secondary hemodynamic endpoint: ventricular filling pressure measured by PCWP at rest and peak exercise.",
+      "research_detail": "The key secondary hemodynamic endpoint in SAFER-Fontan is pulmonary capillary wedge pressure (PCWP) at rest and peak exercise. New evidence about filling pressures, wedge pressure methodology or their relationship with symptoms and outcomes can help contextualize treatment effects and distinguish ventricular from upstream circulatory mechanisms.\n\nSAFER-Fontan deliberately measures hemodynamics at rest and peak exercise and performs detailed CPET phenotyping. Literature on peak VO2, ventilatory efficiency, exercise pressure responses or impaired circulatory reserve can therefore inform both mechanistic interpretation and the clinical significance of treatment-associated changes.",
+      "relevance_score": 102,
+      "high_priority": true,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1161%2Fcirc.154.suppl_1.6802%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1161/circ.154.suppl_1.6802",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-09T01:45:32Z"
     },
     {
       "id": "doi-10.1161/circ.154.suppl_1.10642",
@@ -952,6 +1452,204 @@
       "full_text_url": "",
       "has_full_text": false,
       "retrieved_at": "2026-11-07T01:58:53Z"
+    },
+    {
+      "id": "doi-10.1161/circ.154.suppl_1.5335",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1161/circ.154.suppl_1.5335",
+      "pii": "",
+      "title": "Abstract 5335: Circulating Metabolomic Profiles Associated with Fontan Physiology and Exercise Tolerance",
+      "abstract": "Background: Fontan palliation for single ventricle heart disease (SVHD) is characterized by high central venous pressure, low cardiac output, and hypoxemia, which may limit oxygen/nutrient delivery to tissues. Infants with SVHD, prior to Fontan completion, have dysregulated metabolism that associates with surgical outcomes. Limited adult Fontan studies show dysregulated amino acid metabolism, glycolysis, and citrate/urea cycle function, but global metabolomic screening and links to Fontan outcomes remain undefined. We aimed to identify metabolomic abnormalities in Fontan patients and define metabolite signatures associated with exercise capacity. Methods: In this single-center prospective cohort study, we enrolled Fontan patients with any SVHD lesion and biventricular controls (8-25 years old). Serum samples were analyzed by a targeted mass spectrometry-based metabolomic assay quantifying the relative peaks of 289 metabolites. Nearest exercise testing data were extracted from the health record. Maximal exercise capacity was measured by percent predicted peak oxygen consumption (VO 2 ) and submaximal capacity by percent predicted VO 2 at ventilatory anaerobic threshold (VAT). Group differences were assessed by multivariate analysis controlling for age and sex. Principal component analysis (PCA) characterized global metabolomic clustering by group and partial least squares (PLS) regression identified metabolite profiles associated with exercise capacity. Results: Thirty Fontan and 21 controls were enrolled ( Table 1 ). Sixty of 289 metabolites differed between groups at p Figure 1A ). PC1 showed accumulation of long chain fatty acids and acylcarnitines in cases and PC3 showed depletion of amino acid, purine, and antioxidant metabolites in cases ( Figure 1B-C ). Higher peak VO 2 was associated with increased fatty acids and acylcarnitines, greater citrate cycle intermediates, and a more favorable redox profile shown by PC1 (p Figure 2A-B) . Greater VO 2 at VAT was associated with lower markers of amino acid catabolism, purine turnover, and redox stress shown by PC1 (p=0.01) ( Figure 2C ). Conclusions: Fontan physiology is marked by fatty acid/acylcarnitine accumulation, altered intermediary metabolism, antioxidant depletion, and increased oxidative stress compared to controls. Among Fontan cases, superior exercise capacity was associated with favorable mitochondrial substrate utilization and redox balance. Notably, the fatty acid accumulation seen in Fontan participants was most pronounced in those with higher exercise capacity, suggesting that increased mitochondrial fatty acid oxidation may be an adaptive metabolic response to Fontan physiology.",
+      "authors": [
+        "Hunter Maya",
+        "Khailova Ludmila",
+        "Bunn Jenifer",
+        "Mancuso Christopher",
+        "Fernie Julie",
+        "Rausch Christopher",
+        "Frank Benjamin S",
+        "Davidson Jesse",
+        "Romanowicz Jennifer"
+      ],
+      "journal": "Circulation",
+      "journal_abbrev": "",
+      "published": "2026-11-02",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [
+        "hemodynamics",
+        "exercise",
+        "catheter-surgery",
+        "fald",
+        "lymphatic",
+        "risk-outcomes",
+        "pediatric",
+        "registries",
+        "methods"
+      ],
+      "topic_labels": [
+        "Hemodynamics & Fontan failure",
+        "Exercise physiology & CPET",
+        "Catheter & surgical interventions",
+        "Fontan-associated liver disease",
+        "Lymphatic complications",
+        "Risk stratification & outcomes",
+        "Pediatric & transition",
+        "Registries & epidemiology",
+        "Methods, reference ranges & measurement"
+      ],
+      "research_links": [
+        {
+          "id": "exercise",
+          "label": "Exercise physiology",
+          "priority": 6,
+          "score": 18,
+          "matched_terms": [
+            "exercise",
+            "peak oxygen",
+            "anaerobic threshold",
+            "exercise capacity"
+          ],
+          "teaser": "Directly relevant to SAFER-Fontan's rest-versus-exercise framework and its detailed CPET characterization of circulatory reserve.",
+          "detail": "SAFER-Fontan deliberately measures hemodynamics at rest and peak exercise and performs detailed CPET phenotyping. Literature on peak VO2, ventilatory efficiency, exercise pressure responses or impaired circulatory reserve can therefore inform both mechanistic interpretation and the clinical significance of treatment-associated changes."
+        },
+        {
+          "id": "pvp-congestion",
+          "label": "Systemic venous congestion / PVP",
+          "priority": 6,
+          "score": 12,
+          "matched_terms": [
+            "venous pressure",
+            "central venous pressure"
+          ],
+          "teaser": "Directly informs SAFER-Fontan's primary hemodynamic domain: systemic venous congestion, measured with PVP at rest and peak exercise.",
+          "detail": "SAFER-Fontan tests whether therapy lowers systemic venous congestion, with peripheral venous pressure (PVP) assessed at rest and peak exercise as the primary endpoint. Papers on Fontan pressure, venous hypertension, congestion, venous return or volume status can therefore inform endpoint interpretation, mechanisms of treatment response and the clinical meaning of a change in PVP."
+        },
+        {
+          "id": "fald",
+          "label": "Fontan-associated liver disease",
+          "priority": 5,
+          "score": 5,
+          "matched_terms": [
+            "liver"
+          ],
+          "teaser": "Relevant to the extracardiac component of SAFER-Fontan, which tracks hepatic function and liver stiffness and studies heart-liver fibrotic coupling.",
+          "detail": "SAFER-Fontan includes hepatic phenotyping with MELD-XI and liver elastography, while its fibrosis work also examines organ-specific fibrotic activity. FALD literature is therefore useful for linking systemic venous congestion and low-flow physiology to end-organ disease and for evaluating whether hemodynamic improvement could translate into hepatic benefit."
+        }
+      ],
+      "research_teaser": "Directly relevant to SAFER-Fontan's rest-versus-exercise framework and its detailed CPET characterization of circulatory reserve.",
+      "research_detail": "SAFER-Fontan deliberately measures hemodynamics at rest and peak exercise and performs detailed CPET phenotyping. Literature on peak VO2, ventilatory efficiency, exercise pressure responses or impaired circulatory reserve can therefore inform both mechanistic interpretation and the clinical significance of treatment-associated changes.\n\nSAFER-Fontan tests whether therapy lowers systemic venous congestion, with peripheral venous pressure (PVP) assessed at rest and peak exercise as the primary endpoint. Papers on Fontan pressure, venous hypertension, congestion, venous return or volume status can therefore inform endpoint interpretation, mechanisms of treatment response and the clinical meaning of a change in PVP.",
+      "relevance_score": 101,
+      "high_priority": true,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1161%2Fcirc.154.suppl_1.5335%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1161/circ.154.suppl_1.5335",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-09T01:45:32Z"
+    },
+    {
+      "id": "doi-10.1161/circ.154.suppl_1.6192",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1161/circ.154.suppl_1.6192",
+      "pii": "",
+      "title": "Abstract 6192: Evaluating Current Multicenter Pulmonary Vasodilator Prescribing Patterns in Patients with Fontan Physiology: An Analysis of the SV-ONE Registry",
+      "abstract": "Background: Fontan palliation has increased the probability of transplant-free survival in patients with single ventricle heart disease, but this benefit comes with significant associated morbidity. Pulmonary vasodilator therapy (PVT) has been used for Fontan associated complications including protein-losing enteropathy (PLE), plastic bronchitis, exercise intolerance, and pulmonary vascular disease. Recent reports have shown PVT rates varying from 1-17% of patients with a Fontan in other counties. However, the prevalence and risk-factors associated with PVT use for Fontan physiology in North America have not been well described. Hypothesis: Patients with Fontan physiology treated with PVT in North America have identifiable risk-factors on pre-Fontan and follow-up testing when evaluated in a large, multicenter cohort. Methods: This retrospective, cross-sectional study from the Single Ventricle Outcome Network (SV-ONE) registry evaluated demographics, comorbidities, and PVT use at the time of enrollment. Echocardiography and cardiac catheterization data prior to Fontan and follow-up closest to enrollment were also evaluated. Results: The cohort included 1,535 patients, 873 (58%) male, 810 (54%) with a dominant right ventricle, and median age 14 years (IQR 8-21) at enrollment. A total of 327 PVT medications were prescribed in 312 (20%) patients, most commonly phosphodiesterase-5 inhibitor (307, 94%), followed by endothelin receptor antagonist (17, 5%), and prostacyclin agonist (3, 1%). Patients on PVT had higher rates of dominant right ventricle (p=0.023), were more likely to have Fontan fenestration (p=0.014), and were younger at enrollment (p = 0.004). There were higher rates of comorbidities including PLE (p Conclusion: PVT was common in patients with Fontan physiology in the SV-ONE registry with higher rates of use than reported in other cohorts. Dominant right ventricle, Fontan fenestration, more severe AVV regurgitation, and higher mPAP, TPG, and PVRi at pre-Fontan assessment were associated with future PVT. The PVT group had higher rates of comorbidities including PLE, pleural effusions, and plastic bronchitis. Further longitudinal analysis of outcomes from this multicenter cohort are warranted to evaluate the efficacy of PVT for various indications in patients with Fontan physiology. The ideas expressed in this abstract do not represent formal positions of the SV-ONE.",
+      "authors": [
+        "Stark Christiana",
+        "Opotowsky Alexander",
+        "Gao Zhiqian",
+        "Jenkins Todd",
+        "Handler Stephanie S",
+        "Sullivan Rachel T",
+        "Critser Paul"
+      ],
+      "journal": "Circulation",
+      "journal_abbrev": "",
+      "published": "2026-11-02",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [
+        "hemodynamics",
+        "exercise",
+        "vascular",
+        "pharmacotherapy",
+        "catheter-surgery",
+        "transplant",
+        "echocardiography",
+        "lymphatic",
+        "risk-outcomes",
+        "registries",
+        "methods"
+      ],
+      "topic_labels": [
+        "Hemodynamics & Fontan failure",
+        "Exercise physiology & CPET",
+        "Pulmonary & systemic vascular function",
+        "Pharmacotherapy",
+        "Catheter & surgical interventions",
+        "Transplant & advanced failure",
+        "Echocardiography & strain",
+        "Lymphatic complications",
+        "Risk stratification & outcomes",
+        "Registries & epidemiology",
+        "Methods, reference ranges & measurement"
+      ],
+      "research_links": [
+        {
+          "id": "exercise",
+          "label": "Exercise physiology",
+          "priority": 6,
+          "score": 6,
+          "matched_terms": [
+            "exercise"
+          ],
+          "teaser": "Directly relevant to SAFER-Fontan's rest-versus-exercise framework and its detailed CPET characterization of circulatory reserve.",
+          "detail": "SAFER-Fontan deliberately measures hemodynamics at rest and peak exercise and performs detailed CPET phenotyping. Literature on peak VO2, ventilatory efficiency, exercise pressure responses or impaired circulatory reserve can therefore inform both mechanistic interpretation and the clinical significance of treatment-associated changes."
+        },
+        {
+          "id": "vascular",
+          "label": "Vascular load & venous capacitance",
+          "priority": 5,
+          "score": 5,
+          "matched_terms": [
+            "pvr"
+          ],
+          "teaser": "Connects with the trial's systems-level vascular profiling: PVR/SVR, arterial load, ventriculo-arterial coupling, venous capacitance and filling pressure.",
+          "detail": "Beyond myocardial function, SAFER-Fontan profiles the circulation as a system, including cardiac output, systemic vascular resistance, arterial compliance and elastance, ventriculo-arterial coupling, mean systemic filling pressure, venous compliance/capacitance and blood-volume compartments. Vascular studies can therefore clarify whether treatment effects arise from the ventricle, pulmonary circuit, systemic arterial load or venous reservoir."
+        },
+        {
+          "id": "clinical-outcomes",
+          "label": "Clinical worsening & patient-reported outcomes",
+          "priority": 4,
+          "score": 4,
+          "matched_terms": [
+            "transplant"
+          ],
+          "teaser": "Helps connect mechanistic changes in SAFER-Fontan to outcomes that matter clinically: worsening events, symptoms, function and quality of life.",
+          "detail": "SAFER-Fontan includes clinical worsening events and patient-reported outcomes alongside deep physiological phenotyping. Outcome studies are therefore useful for deciding which mechanistic changes are likely to be clinically meaningful and for placing trial participants within the broader risk spectrum of adults with a Fontan circulation."
+        }
+      ],
+      "research_teaser": "Directly relevant to SAFER-Fontan's rest-versus-exercise framework and its detailed CPET characterization of circulatory reserve.",
+      "research_detail": "SAFER-Fontan deliberately measures hemodynamics at rest and peak exercise and performs detailed CPET phenotyping. Literature on peak VO2, ventilatory efficiency, exercise pressure responses or impaired circulatory reserve can therefore inform both mechanistic interpretation and the clinical significance of treatment-associated changes.\n\nBeyond myocardial function, SAFER-Fontan profiles the circulation as a system, including cardiac output, systemic vascular resistance, arterial compliance and elastance, ventriculo-arterial coupling, mean systemic filling pressure, venous compliance/capacitance and blood-volume compartments. Vascular studies can therefore clarify whether treatment effects arise from the ventricle, pulmonary circuit, systemic arterial load or venous reservoir.",
+      "relevance_score": 100,
+      "high_priority": true,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1161%2Fcirc.154.suppl_1.6192%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1161/circ.154.suppl_1.6192",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-09T01:45:32Z"
     },
     {
       "id": "doi-10.1161/circ.154.suppl_1.10260",
@@ -1448,6 +2146,424 @@
       "retrieved_at": "2026-11-07T01:58:53Z"
     },
     {
+      "id": "doi-10.1161/circ.154.suppl_1.18168",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1161/circ.154.suppl_1.18168",
+      "pii": "",
+      "title": "Abstract 18168: Protein-Losing Enteropathy After Fontan Palliation: Incidence, Risk Factors, and Fontan-Associated Liver Disease",
+      "abstract": "Background: Protein-losing enteropathy (PLE) is a serious complication after Fontan palliation. However, there is very limited data on its incidence over time, risk factors, and its association with Fontan-associated liver diseases (FALD). Methodology: We conducted a retrospective single-center study of Fontan patients with known PLE status (N=452, 32 diagnosed with PLE, 420 with non-PLE). Cumulative incidence of PLE was estimated using the Aalen-Johansen estimator, treating death and heart transplant as competing events. For risk factor analysis, PLE cases were matched 1:3 to non-PLE controls on the Fontan era (+/-3 years), requiring control follow-up >= case time to PLE (32 cases, 96 controls). Candidate risk factors were the baseline and perioperative characteristics, assessed using conditional logistic regression stratified by matched set. FALD was compared between groups among 289 FALD-evaluated patients with known PLE status (22 PLE, 267 non-PLE) using Fisher's exact tests. Severe FALD was defined as a VAST score >=2 or diagnosed cirrhosis. Results: PLE occurred in 32/452 (7.1%) Fontan patients (66% males) at a median of 4.6 years post-Fontan (IQR 1.3-11.1). 75% of PLE patients had RV morphology, extracardiac Fontan in 31%, extracardiac modified pericardial in 44%, and lateral tunnel in 22%. Fenestration at the time of Fontan was performed in 43%, and the median peri-Fontan hospitalization was 17 days (IQR 9-30). Among PLE patients, 22% died, 19% underwent transplant, and 41% were listed for transplant. The cumulative incidence rose steeply in the first decade after Fontan (4.1% at 5 years, 5.6% at 10 years) with an ongoing rise to 8.9% at 20 years (Figure 1). On conditional logistic regression, RV morphology (OR 2.86, 95% CI 1.10-7.45, P=0.032) and prolonged peri-Fontan hospitalization (OR 1.10/day, 95% CI 1.02-1.18, P=0.008) were significantly associated with PLE (Figure 2). Among FALD-evaluated patients, PLE was associated with significantly higher rates of severe FALD (45.5% vs 19.5%, p=0.012), cirrhosis (42.9% vs 10.1%, p Conclusion: Our data reports that PLE affected 7% of Fontan patients, with the majority developing within the first decade after Fontan. RV dominance and prolonged peri-Fontan admission are early risk factors. PLE patients showed markedly worse FALD, supporting the need for early hepatic surveillance in this high-risk population.",
+      "authors": [
+        "Salah Rehab",
+        "Matsuda Junya",
+        "Dawit Nathan",
+        "Kievert Jennifer",
+        "Kelly John"
+      ],
+      "journal": "Circulation",
+      "journal_abbrev": "",
+      "published": "2026-11-02",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [
+        "catheter-surgery",
+        "transplant",
+        "fald",
+        "lymphatic",
+        "risk-outcomes",
+        "methods"
+      ],
+      "topic_labels": [
+        "Catheter & surgical interventions",
+        "Transplant & advanced failure",
+        "Fontan-associated liver disease",
+        "Lymphatic complications",
+        "Risk stratification & outcomes",
+        "Methods, reference ranges & measurement"
+      ],
+      "research_links": [
+        {
+          "id": "fald",
+          "label": "Fontan-associated liver disease",
+          "priority": 5,
+          "score": 15,
+          "matched_terms": [
+            "fontan-associated liver",
+            "fald",
+            "liver",
+            "hepatic",
+            "cirrhosis"
+          ],
+          "teaser": "Relevant to the extracardiac component of SAFER-Fontan, which tracks hepatic function and liver stiffness and studies heart-liver fibrotic coupling.",
+          "detail": "SAFER-Fontan includes hepatic phenotyping with MELD-XI and liver elastography, while its fibrosis work also examines organ-specific fibrotic activity. FALD literature is therefore useful for linking systemic venous congestion and low-flow physiology to end-organ disease and for evaluating whether hemodynamic improvement could translate into hepatic benefit."
+        },
+        {
+          "id": "clinical-outcomes",
+          "label": "Clinical worsening & patient-reported outcomes",
+          "priority": 4,
+          "score": 12,
+          "matched_terms": [
+            "hospitalization",
+            "transplant",
+            "death"
+          ],
+          "teaser": "Helps connect mechanistic changes in SAFER-Fontan to outcomes that matter clinically: worsening events, symptoms, function and quality of life.",
+          "detail": "SAFER-Fontan includes clinical worsening events and patient-reported outcomes alongside deep physiological phenotyping. Outcome studies are therefore useful for deciding which mechanistic changes are likely to be clinically meaningful and for placing trial participants within the broader risk spectrum of adults with a Fontan circulation."
+        }
+      ],
+      "research_teaser": "Relevant to the extracardiac component of SAFER-Fontan, which tracks hepatic function and liver stiffness and studies heart-liver fibrotic coupling.",
+      "research_detail": "SAFER-Fontan includes hepatic phenotyping with MELD-XI and liver elastography, while its fibrosis work also examines organ-specific fibrotic activity. FALD literature is therefore useful for linking systemic venous congestion and low-flow physiology to end-organ disease and for evaluating whether hemodynamic improvement could translate into hepatic benefit.\n\nSAFER-Fontan includes clinical worsening events and patient-reported outcomes alongside deep physiological phenotyping. Outcome studies are therefore useful for deciding which mechanistic changes are likely to be clinically meaningful and for placing trial participants within the broader risk spectrum of adults with a Fontan circulation.",
+      "relevance_score": 84,
+      "high_priority": true,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1161%2Fcirc.154.suppl_1.18168%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1161/circ.154.suppl_1.18168",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-09T01:45:32Z"
+    },
+    {
+      "id": "doi-10.1161/circ.154.suppl_1.5783",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1161/circ.154.suppl_1.5783",
+      "pii": "",
+      "title": "Abstract 5783: Longitudinal Outcomes in Patients with Heterotaxy and a Fontan Circulation: A FORCE Registry Analysis",
+      "abstract": "Background: Heterotaxy syndrome (HS) is associated with decreased transplant-free survival in patients with functional single ventricles undergoing staged palliation. The impact of HS and HS subtype on longitudinal outcomes after the Fontan operation remains poorly defined. Hypothesis: We hypothesized that HS would be associated with a lower rate of freedom from a composite outcome of Fontan circulatory failure (FCF) and that patients with asplenia would have a lower rate of freedom from FCF compared to those with polysplenia. Methods: This was a retrospective cohort study using the Fontan Outcome Registry using Clinical Examinations (FORCE) database. Patients with an atriopulmonary Fontan were excluded. The primary outcome of FCF was defined as time to death, heart transplantation, protein-losing enteropathy, and/or plastic bronchitis. Fontan revision and pacemaker placement were included as secondary outcomes. Associations between HS, HS subtype, and outcomes were assessed using multivariable Cox regression with adjustment for sex, genetic syndrome, year of Fontan operation, age at time of Fontan operation, and dominant ventricular morphology. Results: The study included 452 patients with HS (255 asplenia, 82 polysplenia, 115 unknown) and 3011 patients without HS. Median follow-up was 15.0 years (IQR 10.4-21.1) post-Fontan. Baseline characteristics differed substantially between patients with and without HS (Table 1) . The cumulative incidence of FCF at 20 years post-Fontan was 15.9% in patients with HS (11.5% asplenia, 24.2% polysplenia) and 12.3% in patients without HS. Patients with HS had lower unadjusted freedom from FCF compared to those without HS ( Figure 1 ); however, HS was not associated with FCF in covariate-adjusted analysis. HS was associated with a higher hazard of Fontan revision (HR 1.5 [95% CI 1.1, 2.2], p=0.03) but not pacemaker placement (HR 0.7 [95% CI 0.4-1.1], p=0.13). Polysplenia was associated with decreased freedom from FCF compared to asplenia ( Figure 2 ) and a higher hazard of FCF (HR 2.4 [95% CI 1.3-4.6], p=0.005) and Fontan revision (HR 2.4 [95% CI 1.1-5.2], p=0.03) in covariate-adjusted analysis. The polysplenia subtype was not associated with a difference in pacemaker placement (HR 0.2 [95% CI 0.01-3.8], p=0.29). Conclusions: Among patients who survive to Fontan palliation, those with HS have a similar incidence of FCF to peers without HS. Polysplenia represents a high-risk subgroup with increased risk of FCF and Fontan revision compared to asplenia. Further research is needed to clarify the mechanisms underlying these differences in long-term trajectory and determine whether alternative management strategies may improve outcomes for patients with polysplenia.",
+      "authors": [
+        "Zielonka Benjamin",
+        "Sleeper Lynn A",
+        "Lu Minmin",
+        "Ghelani Sunil J",
+        "Rathod Rahul",
+        "Schidlow David N"
+      ],
+      "journal": "Circulation",
+      "journal_abbrev": "",
+      "published": "2026-11-02",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [
+        "hemodynamics",
+        "catheter-surgery",
+        "transplant",
+        "lymphatic",
+        "arrhythmia",
+        "risk-outcomes",
+        "registries",
+        "methods"
+      ],
+      "topic_labels": [
+        "Hemodynamics & Fontan failure",
+        "Catheter & surgical interventions",
+        "Transplant & advanced failure",
+        "Lymphatic complications",
+        "Arrhythmia & pacing",
+        "Risk stratification & outcomes",
+        "Registries & epidemiology",
+        "Methods, reference ranges & measurement"
+      ],
+      "research_links": [
+        {
+          "id": "clinical-outcomes",
+          "label": "Clinical worsening & patient-reported outcomes",
+          "priority": 4,
+          "score": 8,
+          "matched_terms": [
+            "transplant",
+            "death"
+          ],
+          "teaser": "Helps connect mechanistic changes in SAFER-Fontan to outcomes that matter clinically: worsening events, symptoms, function and quality of life.",
+          "detail": "SAFER-Fontan includes clinical worsening events and patient-reported outcomes alongside deep physiological phenotyping. Outcome studies are therefore useful for deciding which mechanistic changes are likely to be clinically meaningful and for placing trial participants within the broader risk spectrum of adults with a Fontan circulation."
+        }
+      ],
+      "research_teaser": "Helps connect mechanistic changes in SAFER-Fontan to outcomes that matter clinically: worsening events, symptoms, function and quality of life.",
+      "research_detail": "SAFER-Fontan includes clinical worsening events and patient-reported outcomes alongside deep physiological phenotyping. Outcome studies are therefore useful for deciding which mechanistic changes are likely to be clinically meaningful and for placing trial participants within the broader risk spectrum of adults with a Fontan circulation.",
+      "relevance_score": 76,
+      "high_priority": true,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1161%2Fcirc.154.suppl_1.5783%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1161/circ.154.suppl_1.5783",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-09T01:45:32Z"
+    },
+    {
+      "id": "doi-10.1161/circ.154.suppl_1.6579",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1161/circ.154.suppl_1.6579",
+      "pii": "",
+      "title": "Abstract 6579: Longitudinal Hemodynamic, Rhythm, and Thrombosis Outcomes After Completely Autologous Prosthetic Free Extracardiac Fontan Reconstruction",
+      "abstract": "Background: Conventional Extracardiac Fontan (ECF) procedures use prosthetic conduits that lack growth potential, carry inherent thrombogenicity, and may contribute to progressive conduit body size mismatch - limitations highlighted in the AHA Scientific Statement on the Fontan Circulation. Completely autologous ECF using direct Inferior Vena Cava (IVC) to Pulmonary Artery (PA) anastomosis may address these; however longitudinal data on hemodynamic, rhythm, and thrombosis outcomes are limited. We report feasibility and early to mid term outcomes of completely autologous ECF from a single institution series, and present a video of our novel surgical technique. Methods: From 2018-2025, 6 patients with functionally univentricular physiology underwent autologous ECF reconstruction with direct IVC to PA anastomosis without prosthetic conduits. Diagnoses included congenitally corrected transposition of the great arteries not suitable for anatomic repair (n=3), double outlet right ventricle with an unroutable ventricular septal defect and pulmonary stenosis (n=1), and other univentricular physiologies (n=2). Four had prior Glenn procedures. Two surgeries were performed off cardiopulmonary bypass. Serial follow up included clinical assessment, pulse oximetry, ECG, and transthoracic echocardiography. Outcomes included death, Fontan pathway thrombosis, hemodynamics, reintervention, significant arrhythmia, ventricular function, and anticoagulation needs. Results: There were no early or late deaths. Postoperative courses were uncomplicated, with minimal inotrope use, no ascites, and minimal pleural effusions. Intra and postoperative echocardiography showed a normally functioning Fontan circuit without gradients. All patients received indefinite aspirin without anticoagulants. At median 3 year follow up (range 1.5 to 7), no patients had Fontan pathway thrombosis, significant arrhythmia, or Fontan reintervention. Serial echocardiography showed laminar, unobstructed Fontan flow without anastomotic stenosis or intraluminal thrombus. Ventricular function was preserved; atrioventricular valve regurgitation was no greater than mild. Median resting oxygen saturation exceeded 90%. All maintained NYHA/Ross class I-II at latest follow up. Both off pump cases had outcomes comparable to on pump. Conclusions: Completely autologous ECF reconstruction using direct IVC-PA anastomosis, including off pump completion in selected patients, is technically feasible with favorable early to midterm outcomes. This prosthetic free strategy may combine the arrhythmia benefits of the extracardiac approach with the growth potential of a fully autologous, endothelialized pathway. Prospective studies with cardiac MRI or catheterization are needed to quantify pathway growth, long term hemodynamics, and durability compared to conventional prosthetic conduits.",
+      "authors": [
+        "Talwar Bhavya",
+        "Talwar Sachin"
+      ],
+      "journal": "Circulation",
+      "journal_abbrev": "",
+      "published": "2026-11-02",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [
+        "hemodynamics",
+        "vascular",
+        "catheter-surgery",
+        "transplant",
+        "echocardiography",
+        "av-valve",
+        "lymphatic",
+        "thrombosis",
+        "arrhythmia",
+        "risk-outcomes",
+        "quality-life",
+        "methods"
+      ],
+      "topic_labels": [
+        "Hemodynamics & Fontan failure",
+        "Pulmonary & systemic vascular function",
+        "Catheter & surgical interventions",
+        "Transplant & advanced failure",
+        "Echocardiography & strain",
+        "Atrioventricular valve regurgitation",
+        "Lymphatic complications",
+        "Thrombosis & anticoagulation",
+        "Arrhythmia & pacing",
+        "Risk stratification & outcomes",
+        "Quality of life & patient-reported outcomes",
+        "Methods, reference ranges & measurement"
+      ],
+      "research_links": [
+        {
+          "id": "clinical-outcomes",
+          "label": "Clinical worsening & patient-reported outcomes",
+          "priority": 4,
+          "score": 8,
+          "matched_terms": [
+            "death",
+            "nyha"
+          ],
+          "teaser": "Helps connect mechanistic changes in SAFER-Fontan to outcomes that matter clinically: worsening events, symptoms, function and quality of life.",
+          "detail": "SAFER-Fontan includes clinical worsening events and patient-reported outcomes alongside deep physiological phenotyping. Outcome studies are therefore useful for deciding which mechanistic changes are likely to be clinically meaningful and for placing trial participants within the broader risk spectrum of adults with a Fontan circulation."
+        },
+        {
+          "id": "vascular",
+          "label": "Vascular load & venous capacitance",
+          "priority": 5,
+          "score": 5,
+          "matched_terms": [
+            "endothelial"
+          ],
+          "teaser": "Connects with the trial's systems-level vascular profiling: PVR/SVR, arterial load, ventriculo-arterial coupling, venous capacitance and filling pressure.",
+          "detail": "Beyond myocardial function, SAFER-Fontan profiles the circulation as a system, including cardiac output, systemic vascular resistance, arterial compliance and elastance, ventriculo-arterial coupling, mean systemic filling pressure, venous compliance/capacitance and blood-volume compartments. Vascular studies can therefore clarify whether treatment effects arise from the ventricle, pulmonary circuit, systemic arterial load or venous reservoir."
+        },
+        {
+          "id": "imaging-validation",
+          "label": "Imaging & measurement validation",
+          "priority": 4,
+          "score": 4,
+          "matched_terms": [
+            "echocardiography"
+          ],
+          "teaser": "Relevant to the trial's multimodality validation work, where invasive/minimally invasive hemodynamics are compared with CMR and echocardiographic measures.",
+          "detail": "SAFER-Fontan deliberately pairs invasive and minimally invasive pressure measurements with CMR, echocardiography and other non-invasive markers. Methodological papers on imaging, reproducibility or validation can therefore influence acquisition choices, endpoint robustness and the eventual translation of gold-standard research measurements into routine clinical follow-up."
+        }
+      ],
+      "research_teaser": "Helps connect mechanistic changes in SAFER-Fontan to outcomes that matter clinically: worsening events, symptoms, function and quality of life.",
+      "research_detail": "SAFER-Fontan includes clinical worsening events and patient-reported outcomes alongside deep physiological phenotyping. Outcome studies are therefore useful for deciding which mechanistic changes are likely to be clinically meaningful and for placing trial participants within the broader risk spectrum of adults with a Fontan circulation.\n\nBeyond myocardial function, SAFER-Fontan profiles the circulation as a system, including cardiac output, systemic vascular resistance, arterial compliance and elastance, ventriculo-arterial coupling, mean systemic filling pressure, venous compliance/capacitance and blood-volume compartments. Vascular studies can therefore clarify whether treatment effects arise from the ventricle, pulmonary circuit, systemic arterial load or venous reservoir.",
+      "relevance_score": 75,
+      "high_priority": true,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1161%2Fcirc.154.suppl_1.6579%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1161/circ.154.suppl_1.6579",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-09T01:45:32Z"
+    },
+    {
+      "id": "doi-10.1161/circ.154.suppl_1.19147",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1161/circ.154.suppl_1.19147",
+      "pii": "",
+      "title": "Abstract 19147: DNA Methylation Signatures Associated with Time to Diagnosis of Fontan Associated Liver Disease",
+      "abstract": "Introduction: Fontan-associated liver disease (FALD) is a progressive complication of Fontan palliation for single ventricle congenital heart disease (SVCHD) with highly variable trajectory. Current surveillance tools poorly identify patients at risk for accelerated disease progression who may benefit from intensified surveillance or earlier intervention. As DNA methylation (DNAm) changes have been observed with disease and age-related biological processes, we hypothesize DNAm signatures may be associated with timing of FALD. Methods and Results: The analytic cohort (Figure) consisted of 75 SV-CHD patients >5 years post-Fontan followed regularly at the University of Pittsburg Medical Center (UPMC) for FALD, with diagnosis based on institutional criteria. DNA was obtained from blood. After excluding patients with DNA collection after FALD and non-FALD subjects with heart transplant, 54 patients remained, comprising 3 subgroups by diagnosis age: 20 years (12) (Figure). Genome-wide DNAm was measured using Illumina EPIC arrays. For each CpG site, methylation β values were modeled as a function of age, using spline regression with 2 degrees of freedom. CpGs showing age-dependent DNAm trajectories differing between FALD subgroups and controls were identified using false discovery rate correction (FDR) 10-fold cross-validated concordance index (C index) of 0.829 . Replication in an independent cohort of 31 Fontan patients from Children's Healthcare of Atlanta yielded C index of 0.714. Genes linked to the identified CpGs were enriched for pathways related to fibrosis, hepatocellular carcinoma and epigenetics. Conclusions: Age dependent DNAm signatures are associated with timing of FALD diagnosis and may provide framework for identifying Fontan patients at increased risk for earlier clinically significant disease. These findings offer new insights into FALD pathogenesis and may inform future preventive and therapeutic strategies for FALD",
+      "authors": [
+        "Jiang Jihang",
+        "Lin Jiuann-Huey I",
+        "Kochilas Lazaros",
+        "Squires Judy",
+        "Squires James",
+        "McKennan Chris",
+        "Wei Yingying",
+        "Lo Cecilia"
+      ],
+      "journal": "Circulation",
+      "journal_abbrev": "",
+      "published": "2026-11-02",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [
+        "transplant",
+        "fibrosis",
+        "fald",
+        "risk-outcomes",
+        "pediatric",
+        "registries",
+        "methods"
+      ],
+      "topic_labels": [
+        "Transplant & advanced failure",
+        "Fibrosis & fibroblast activation",
+        "Fontan-associated liver disease",
+        "Risk stratification & outcomes",
+        "Pediatric & transition",
+        "Registries & epidemiology",
+        "Methods, reference ranges & measurement"
+      ],
+      "research_links": [
+        {
+          "id": "fald",
+          "label": "Fontan-associated liver disease",
+          "priority": 5,
+          "score": 15,
+          "matched_terms": [
+            "fontan-associated liver",
+            "fald",
+            "liver",
+            "hepatocellular"
+          ],
+          "teaser": "Relevant to the extracardiac component of SAFER-Fontan, which tracks hepatic function and liver stiffness and studies heart-liver fibrotic coupling.",
+          "detail": "SAFER-Fontan includes hepatic phenotyping with MELD-XI and liver elastography, while its fibrosis work also examines organ-specific fibrotic activity. FALD literature is therefore useful for linking systemic venous congestion and low-flow physiology to end-organ disease and for evaluating whether hemodynamic improvement could translate into hepatic benefit."
+        },
+        {
+          "id": "fibrosis",
+          "label": "Myocardial fibrosis & FAPI-PET",
+          "priority": 6,
+          "score": 6,
+          "matched_terms": [
+            "fibrosis"
+          ],
+          "teaser": "Relevant to SAFER-Fontan's fibrosis programme combining CMR tissue characterization, collagen-turnover biomarkers and FAPI-PET in a substudy.",
+          "detail": "SAFER-Fontan investigates myocardial fibrosis using native T1, extracellular volume and LGE, alongside circulating collagen-turnover markers and FAPI-PET in a selected substudy. Papers on active fibroblast biology, diffuse fibrosis, replacement scar or fibrosis biomarkers can directly inform mechanistic hypotheses and interpretation of treatment-related remodeling."
+        },
+        {
+          "id": "clinical-outcomes",
+          "label": "Clinical worsening & patient-reported outcomes",
+          "priority": 4,
+          "score": 4,
+          "matched_terms": [
+            "transplant"
+          ],
+          "teaser": "Helps connect mechanistic changes in SAFER-Fontan to outcomes that matter clinically: worsening events, symptoms, function and quality of life.",
+          "detail": "SAFER-Fontan includes clinical worsening events and patient-reported outcomes alongside deep physiological phenotyping. Outcome studies are therefore useful for deciding which mechanistic changes are likely to be clinically meaningful and for placing trial participants within the broader risk spectrum of adults with a Fontan circulation."
+        }
+      ],
+      "research_teaser": "Relevant to the extracardiac component of SAFER-Fontan, which tracks hepatic function and liver stiffness and studies heart-liver fibrotic coupling.",
+      "research_detail": "SAFER-Fontan includes hepatic phenotyping with MELD-XI and liver elastography, while its fibrosis work also examines organ-specific fibrotic activity. FALD literature is therefore useful for linking systemic venous congestion and low-flow physiology to end-organ disease and for evaluating whether hemodynamic improvement could translate into hepatic benefit.\n\nSAFER-Fontan investigates myocardial fibrosis using native T1, extracellular volume and LGE, alongside circulating collagen-turnover markers and FAPI-PET in a selected substudy. Papers on active fibroblast biology, diffuse fibrosis, replacement scar or fibrosis biomarkers can directly inform mechanistic hypotheses and interpretation of treatment-related remodeling.",
+      "relevance_score": 75,
+      "high_priority": true,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1161%2Fcirc.154.suppl_1.19147%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1161/circ.154.suppl_1.19147",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-09T01:45:32Z"
+    },
+    {
+      "id": "doi-10.1161/circ.154.suppl_1.7488",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1161/circ.154.suppl_1.7488",
+      "pii": "",
+      "title": "Abstract 7488: Atrial Leadless Pacemaker Implantation via Femoral Venous Approach in Extracardiac Fontan Circulation",
+      "abstract": "Introduction: Patients with Fontan circulation frequently develop sinus node dysfunction requiring pacing, but conventional options remain limited. Transvenous systems are often precluded by altered venous pathways and thromboembolic risk, while epicardial systems require repeat surgery and carry higher long-term complication rates. Leadless pacing offers a minimally invasive alternative; however, atrial implantation in extracardiac Fontan anatomy remains technically challenging. Case Presentation: A 24-year-old female with complex congenital heart disease status post extracardiac Fontan presented with symptomatic chronotropic incompetence and reduced exercise capacity (VO 2 max 15.3 mL/kg/min, 36% predicted). Her relevant history included a double outlet right ventricle, ventricular inversion, pulmonary stenosis, a hypoplastic left ventricle with a history of palliation, Glenn, and eventual extra-cardiac fenestrated Fontan, s/p fenestration closure. Her echocardiogram demonstrated normal systemic ventricular function without atrioventricular valvular regurgitation and with laminar Glenn and Fontan flow. The baseline electrocardiogram showed a lower atrial rhythm. Management: To avoid repeat thoracotomy, a transvenous atrial leadless pacing strategy was pursued. Hemodynamics demonstrated stable Fontan physiology. Three-dimensional electroanatomic mapping identified a discrete high-voltage target at the inferior vena cava-atrial junction, below the Fontan conduit. A leadless atrial pacemaker was successfully implanted via femoral venous access without the need for trans-baffle puncture, alternative access (e.g., carotid), or surgical exposure. Imaging confirmed secure device position with preserved laminar Fontan flow and no obstruction. At 1-month follow-up, device parameters remained stable with appropriate atrial sensing and pacing. Conclusion: This case demonstrates a streamlined, fully percutaneous femoral approach for implantation of a leadless atrial pacemaker in patients with an extracardiac Fontan circulation. By avoiding complex access strategies and repeat surgical interventions while maintaining physiologic atrial contribution to ventricular filling, this technique offers a practical, less invasive alternative for pacing in this high-risk population. Further investigation is needed to define long-term outcomes, durability, and optimal patient selection.",
+      "authors": [
+        "Janardhan Riya",
+        "Cortez Daniel"
+      ],
+      "journal": "Circulation",
+      "journal_abbrev": "",
+      "published": "2026-11-02",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [
+        "hemodynamics",
+        "exercise",
+        "catheter-surgery",
+        "lymphatic",
+        "thrombosis",
+        "arrhythmia",
+        "risk-outcomes",
+        "quality-life"
+      ],
+      "topic_labels": [
+        "Hemodynamics & Fontan failure",
+        "Exercise physiology & CPET",
+        "Catheter & surgical interventions",
+        "Lymphatic complications",
+        "Thrombosis & anticoagulation",
+        "Arrhythmia & pacing",
+        "Risk stratification & outcomes",
+        "Quality of life & patient-reported outcomes"
+      ],
+      "research_links": [
+        {
+          "id": "exercise",
+          "label": "Exercise physiology",
+          "priority": 6,
+          "score": 12,
+          "matched_terms": [
+            "exercise",
+            "exercise capacity"
+          ],
+          "teaser": "Directly relevant to SAFER-Fontan's rest-versus-exercise framework and its detailed CPET characterization of circulatory reserve.",
+          "detail": "SAFER-Fontan deliberately measures hemodynamics at rest and peak exercise and performs detailed CPET phenotyping. Literature on peak VO2, ventilatory efficiency, exercise pressure responses or impaired circulatory reserve can therefore inform both mechanistic interpretation and the clinical significance of treatment-associated changes."
+        },
+        {
+          "id": "pcwp-filling",
+          "label": "Ventricular filling pressure / PCWP",
+          "priority": 6,
+          "score": 6,
+          "matched_terms": [
+            "ventricular filling"
+          ],
+          "teaser": "Relevant to the trial's key secondary hemodynamic endpoint: ventricular filling pressure measured by PCWP at rest and peak exercise.",
+          "detail": "The key secondary hemodynamic endpoint in SAFER-Fontan is pulmonary capillary wedge pressure (PCWP) at rest and peak exercise. New evidence about filling pressures, wedge pressure methodology or their relationship with symptoms and outcomes can help contextualize treatment effects and distinguish ventricular from upstream circulatory mechanisms."
+        }
+      ],
+      "research_teaser": "Directly relevant to SAFER-Fontan's rest-versus-exercise framework and its detailed CPET characterization of circulatory reserve.",
+      "research_detail": "SAFER-Fontan deliberately measures hemodynamics at rest and peak exercise and performs detailed CPET phenotyping. Literature on peak VO2, ventilatory efficiency, exercise pressure responses or impaired circulatory reserve can therefore inform both mechanistic interpretation and the clinical significance of treatment-associated changes.\n\nThe key secondary hemodynamic endpoint in SAFER-Fontan is pulmonary capillary wedge pressure (PCWP) at rest and peak exercise. New evidence about filling pressures, wedge pressure methodology or their relationship with symptoms and outcomes can help contextualize treatment effects and distinguish ventricular from upstream circulatory mechanisms.",
+      "relevance_score": 75,
+      "high_priority": true,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1161%2Fcirc.154.suppl_1.7488%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1161/circ.154.suppl_1.7488",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-09T01:45:32Z"
+    },
+    {
       "id": "doi-10.1161/circ.154.suppl_1.10498",
       "source": "Crossref early metadata",
       "source_coverage": [
@@ -1526,6 +2642,258 @@
       "full_text_url": "",
       "has_full_text": false,
       "retrieved_at": "2026-11-07T01:58:53Z"
+    },
+    {
+      "id": "doi-10.1161/circ.154.suppl_1.6877",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1161/circ.154.suppl_1.6877",
+      "pii": "",
+      "title": "Abstract 6877: Impact of Social Determinants of Health on Delivery of Guideline-Recommended Surveillance in Fontan Patients",
+      "abstract": "Background: Patients after Fontan palliation are at high risk for life-threatening complications and require close surveillance of cardiac and non-cardiac comorbidities. We sought to understand barriers to recommended follow-up based on an institutionally developed clinical practice guideline (CPG). Hypothesis: We hypothesized that social determinants of health contribute to gaps in the delivery of CPG based care recommendations. Methods: Patients followed at our center with Fontan procedure completed prior to 2019 were included. EMR data were collected, including performance of post-Fontan echo, EKG, exercise test, cardiac catheterization, MRI, labs, and cardiology appointment within the CPG timeline. Association of CPG adherence in terms of completion of recommended screening and number of missed testing with race/ethnicity (non-Hispanic (NH) White vs other), insurance type (any private coverage vs public/none), childhood opportunity index (COI, very low/low, moderate, high/very high), and distance to our center ( 100 miles) were evaluated using Chi-square tests. Results: 367 patients were included with median age of 23 years (range 6-68) at the time of latest cardiac appointment, with 41% female and 82% non-Hispanic (NH) White. Patients with public or no insurance comprised 34%, and 29% were very low/low COI. Nearly half of the patients (47%) resided >50 miles from our center. All patients had echo and EKG and the majority (90%) had lab work in the CPG time frame. Exercise tests, cardiac catheterizations, cardiac MRIs and Holter monitors were performed in 67%, 44%, 61% and 85% of patients, respectively. Race/ethnicity was significantly associated with total number of missed cardiac testing (p=0.02); greater numbers (3 or 4) of missed testing in the ‘other’ race group compared to NH White (33.3% vs 15.1%). Insurance type was also associated with number of missed cardiac testing (p=0.004); 64% of privately insured missed 0 or 1 appointments vs 44.8% of those publicly insured or uninsured. A cardiology appointment within CPG timeline was less likely among patients with low COI (81% vs 84% moderate COI and 91% high/very high COI; p=0.053) and those residing >50 miles away from our center (80% vs 93% Discussion: Lower COI, public or no insurance, and greater distance from our center are barriers to care delivery of guideline recommended post-Fontan follow-up care. Given the association between Fontan associated comorbidities and decreased survival, these findings highlight the need for targeted interventions to improve equitable access to surveillance and care.",
+      "authors": [
+        "Meyyappan Lakshmi",
+        "El-Magharbel Yousef",
+        "Duimstra Ashley",
+        "Plegue Melissa",
+        "zitterman veronica",
+        "McCormick Amanda D",
+        "Goldberg Caren S",
+        "DiMaria Michael V",
+        "Balasubramanian Sowmya"
+      ],
+      "journal": "Circulation",
+      "journal_abbrev": "",
+      "published": "2026-11-02",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Guideline / consensus",
+      "topics": [
+        "exercise",
+        "transplant",
+        "fald",
+        "lymphatic",
+        "risk-outcomes",
+        "pediatric",
+        "methods"
+      ],
+      "topic_labels": [
+        "Exercise physiology & CPET",
+        "Transplant & advanced failure",
+        "Fontan-associated liver disease",
+        "Lymphatic complications",
+        "Risk stratification & outcomes",
+        "Pediatric & transition",
+        "Methods, reference ranges & measurement"
+      ],
+      "research_links": [
+        {
+          "id": "exercise",
+          "label": "Exercise physiology",
+          "priority": 6,
+          "score": 6,
+          "matched_terms": [
+            "exercise"
+          ],
+          "teaser": "Directly relevant to SAFER-Fontan's rest-versus-exercise framework and its detailed CPET characterization of circulatory reserve.",
+          "detail": "SAFER-Fontan deliberately measures hemodynamics at rest and peak exercise and performs detailed CPET phenotyping. Literature on peak VO2, ventilatory efficiency, exercise pressure responses or impaired circulatory reserve can therefore inform both mechanistic interpretation and the clinical significance of treatment-associated changes."
+        },
+        {
+          "id": "fald",
+          "label": "Fontan-associated liver disease",
+          "priority": 5,
+          "score": 5,
+          "matched_terms": [
+            "liver"
+          ],
+          "teaser": "Relevant to the extracardiac component of SAFER-Fontan, which tracks hepatic function and liver stiffness and studies heart-liver fibrotic coupling.",
+          "detail": "SAFER-Fontan includes hepatic phenotyping with MELD-XI and liver elastography, while its fibrosis work also examines organ-specific fibrotic activity. FALD literature is therefore useful for linking systemic venous congestion and low-flow physiology to end-organ disease and for evaluating whether hemodynamic improvement could translate into hepatic benefit."
+        }
+      ],
+      "research_teaser": "Directly relevant to SAFER-Fontan's rest-versus-exercise framework and its detailed CPET characterization of circulatory reserve.",
+      "research_detail": "SAFER-Fontan deliberately measures hemodynamics at rest and peak exercise and performs detailed CPET phenotyping. Literature on peak VO2, ventilatory efficiency, exercise pressure responses or impaired circulatory reserve can therefore inform both mechanistic interpretation and the clinical significance of treatment-associated changes.\n\nSAFER-Fontan includes hepatic phenotyping with MELD-XI and liver elastography, while its fibrosis work also examines organ-specific fibrotic activity. FALD literature is therefore useful for linking systemic venous congestion and low-flow physiology to end-organ disease and for evaluating whether hemodynamic improvement could translate into hepatic benefit.",
+      "relevance_score": 66,
+      "high_priority": true,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1161%2Fcirc.154.suppl_1.6877%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1161/circ.154.suppl_1.6877",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-09T01:45:32Z"
+    },
+    {
+      "id": "doi-10.1161/circ.154.suppl_1.9744",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1161/circ.154.suppl_1.9744",
+      "pii": "",
+      "title": "Abstract 9744: Longitudinal Changes in Echo-Derived Flow Energetics During Fontan Follow-Up",
+      "abstract": "Background: The Fontan circulation passively directs systemic venous return to a single functional ventricle without a subpulmonary pump. Over time, this physiology is associated with altered loading, valvular dysfunction, and treatment burden despite preserved conventional echocardiographic indices. Standard measures may inadequately capture abnormal flow organization and energy dissipation. Echo-derived flow energetic metrics quantify ventricular flow efficiency from color Doppler imaging, but their longitudinal evolution during Fontan follow-up remains poorly understood. Hypothesis: We hypothesized that intraventricular flow energetics remodel between early post-Fontan completion and 10-12-year follow-up, with trajectories differing by medication exposure and valvular regurgitation burden. Methods: We retrospectively studied 24 Fontan patients with paired apical four-chamber color Doppler echocardiograms at post-Fontan completion and 10-12-year follow-up. Two-dimensional intraventricular flow fields were reconstructed using Doppler Velocity Reconstruction (DoVeR), a physics-based method that estimates intracardiac blood-flow velocities from color Doppler images. Area-averaged kinetic energy (KE), viscous energy loss (EL), vortex strength (VS), EL/KE ratio, and intraventricular pressure gradients were computed at each time point. Within-patient change was defined as Δ = follow-up - post-Fontan. Patients were stratified by medication exposure (pulmonary vasodilators, digoxin) and valvular regurgitation. Differences in mean Δ were compared using the Mann-Whitney U test. Results: Peak diastolic EL (p = 0.008), EL/KE ratio (p = 0.002), and VS (p = 0.013) were higher at post-Fontan than follow-up, indicating reduced viscous dissipation and rotational flow organization. Suction pressure trended higher at follow-up (p = 0.053). In exploratory subgroup analyses, both pulmonary vasodilator- and cardiac glycoside-exposed patients showed less reduction in total EL, VS, and EL/KE ratio than unexposed patients, suggesting medication exposure may attenuate remodeling of dissipative and vortical flow energetics. Patients with regurgitation showed attenuated reductions in total EL (p = 0.046), VS (p = 0.046), and peak diastolic EL (p = 0.017) relative to those without, consistent with regurgitant volume sustaining inflow complexity. Conclusion: Intraventricular flow energetics evolve longitudinally in Fontan patients, with dissipative and vortical metrics attenuating over a decade of follow-up. This remodeling trajectory was modulated by medication exposure and valvular diagnosis, suggesting a coupled relationship between disease severity, therapeutic intervention, and intraventricular mechanics. These findings are hypothesis-generating and warrant validation in larger prospective cohorts.",
+      "authors": [
+        "Mitra Shailee",
+        "Vlachos Pavlos",
+        "Loke Yue-Hin",
+        "Payne Ronald M",
+        "Meyers Brett"
+      ],
+      "journal": "Circulation",
+      "journal_abbrev": "",
+      "published": "2026-11-02",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [
+        "diastolic",
+        "pharmacotherapy",
+        "catheter-surgery",
+        "echocardiography",
+        "lymphatic",
+        "pediatric",
+        "registries",
+        "methods"
+      ],
+      "topic_labels": [
+        "Diastolic function & EDPVR",
+        "Pharmacotherapy",
+        "Catheter & surgical interventions",
+        "Echocardiography & strain",
+        "Lymphatic complications",
+        "Pediatric & transition",
+        "Registries & epidemiology",
+        "Methods, reference ranges & measurement"
+      ],
+      "research_links": [
+        {
+          "id": "pvp-congestion",
+          "label": "Systemic venous congestion / PVP",
+          "priority": 6,
+          "score": 12,
+          "matched_terms": [
+            "systemic venous",
+            "venous return"
+          ],
+          "teaser": "Directly informs SAFER-Fontan's primary hemodynamic domain: systemic venous congestion, measured with PVP at rest and peak exercise.",
+          "detail": "SAFER-Fontan tests whether therapy lowers systemic venous congestion, with peripheral venous pressure (PVP) assessed at rest and peak exercise as the primary endpoint. Papers on Fontan pressure, venous hypertension, congestion, venous return or volume status can therefore inform endpoint interpretation, mechanisms of treatment response and the clinical meaning of a change in PVP."
+        },
+        {
+          "id": "edpvr-diastolic",
+          "label": "EDPVR & diastolic function",
+          "priority": 6,
+          "score": 6,
+          "matched_terms": [
+            "diastolic"
+          ],
+          "teaser": "Closely linked to the mechanistic EDPVR work in SAFER-Fontan, which characterizes ventricular stiffness and active relaxation across changing preload.",
+          "detail": "A major mechanistic component of SAFER-Fontan is quantitative assessment of diastolic function using pressure-volume relationships, including EDPVR-derived operating stiffness, stiffness constant, V15 and V0, together with indices of active relaxation such as IVRT and related surrogates. Papers on diastolic filling, ventricular compliance or stiffness are therefore directly relevant to both the biological rationale and validation work of the trial."
+        },
+        {
+          "id": "imaging-validation",
+          "label": "Imaging & measurement validation",
+          "priority": 4,
+          "score": 4,
+          "matched_terms": [
+            "validation"
+          ],
+          "teaser": "Relevant to the trial's multimodality validation work, where invasive/minimally invasive hemodynamics are compared with CMR and echocardiographic measures.",
+          "detail": "SAFER-Fontan deliberately pairs invasive and minimally invasive pressure measurements with CMR, echocardiography and other non-invasive markers. Methodological papers on imaging, reproducibility or validation can therefore influence acquisition choices, endpoint robustness and the eventual translation of gold-standard research measurements into routine clinical follow-up."
+        }
+      ],
+      "research_teaser": "Directly informs SAFER-Fontan's primary hemodynamic domain: systemic venous congestion, measured with PVP at rest and peak exercise.",
+      "research_detail": "SAFER-Fontan tests whether therapy lowers systemic venous congestion, with peripheral venous pressure (PVP) assessed at rest and peak exercise as the primary endpoint. Papers on Fontan pressure, venous hypertension, congestion, venous return or volume status can therefore inform endpoint interpretation, mechanisms of treatment response and the clinical meaning of a change in PVP.\n\nA major mechanistic component of SAFER-Fontan is quantitative assessment of diastolic function using pressure-volume relationships, including EDPVR-derived operating stiffness, stiffness constant, V15 and V0, together with indices of active relaxation such as IVRT and related surrogates. Papers on diastolic filling, ventricular compliance or stiffness are therefore directly relevant to both the biological rationale and validation work of the trial.",
+      "relevance_score": 65,
+      "high_priority": true,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1161%2Fcirc.154.suppl_1.9744%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1161/circ.154.suppl_1.9744",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-09T01:45:32Z"
+    },
+    {
+      "id": "doi-10.1161/circ.154.suppl_1.9844",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1161/circ.154.suppl_1.9844",
+      "pii": "",
+      "title": "Abstract 9844: Dynamic Heart Failure Risk Trajectories in Patients with Fontan Circulation: From Population Data to Individual Risk",
+      "abstract": "Background: Although the Fontan procedure has enabled survival into adulthood for individuals born with univentricular hearts, the resulting circulation, characterized by elevated venous pressure and limited cardiac output, predisposes patients to progressive multi-organ dysfunction and hemodynamic failure. Heart failure hospitalisation (HFH) is a primary sentinel event of clinical decompensation. Current guidelines recommend lifelong specialist surveillance but lack validated tools to identify high-risk patients. This study aims to develop a dynamic risk stratification tool that updates individual HFH probability as clinical events accumulate over a patient's lifetime. Methods: We utilized the Quebec Congenital Heart Disease Database, which includes 456 Fontan completion patients with up to 35 years of follow-up (median: 10.2 years). We constructed annual landmark feature vectors consisting of 43 variables, comprising static pre-Fontan characteristics and time-varying post-Fontan clinical events. We trained two models in parallel, a Gated Recurrent Unit (GRU) with self-attention to process sequential data, and a Gradient Boosting Machine (GBM) for tabular interactions. Models were calibrated using isotonic regression and integrated into a weighted ensemble to stabilize and maximize the predictive performance, measured using area under the precision-recall curve (AUPRC). By predicting HFH risk at each annual landmark, we generated lifespan HFH risk trajectories. Using an independent test sample, the evaluated model performance, identified the most important features and timeframes for prediction, and assessed the clinical application of our framework for individual patient risk assessment. Results: HFH was experienced by 63 (13.8%) patients. The ensemble model achieved an area under the receiver operating characteristic curve of 0.782 and an AUPRC of 0.254 (baseline AUPRC of 0.09). Our model successfully identified divergent lifespan risk trajectories between patients with and without HFH (Figure 1A). The model identified key clinical predictors, including age at Fontan, pre-Fontan Glenn procedure, and atrial fibrillation burden (Figure 1B). High-risk vulnerability time windows were identified at 3-5 years and 10-11 years post-Fontan (Figure 1C). Clinical utility was demonstrated by generating individualized, projected risk trajectories, illustrating how acute clinical events (e.g., atrial fibrillation onset) trigger divergence from baseline risk (Figure 2). Conclusion: Our deep learning-driven ensemble model provides a framework for assessing the evolving risk of HFH post-Fontan procedure. By integrating longitudinal clinical data, this approach enables personalized surveillance and the potential for timely, preventative interventions to shift patients toward lower-risk trajectories.",
+      "authors": [
+        "Moroz Harry",
+        "Liu Aihua",
+        "Ordonez Maria Victoria",
+        "Li Chao",
+        "Guo Liming",
+        "Therrien Judith",
+        "Li Yue",
+        "Marelli Ariane J"
+      ],
+      "journal": "Circulation",
+      "journal_abbrev": "",
+      "published": "2026-11-02",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [
+        "hemodynamics",
+        "transplant",
+        "lymphatic",
+        "arrhythmia",
+        "risk-outcomes",
+        "pediatric",
+        "methods"
+      ],
+      "topic_labels": [
+        "Hemodynamics & Fontan failure",
+        "Transplant & advanced failure",
+        "Lymphatic complications",
+        "Arrhythmia & pacing",
+        "Risk stratification & outcomes",
+        "Pediatric & transition",
+        "Methods, reference ranges & measurement"
+      ],
+      "research_links": [
+        {
+          "id": "pvp-congestion",
+          "label": "Systemic venous congestion / PVP",
+          "priority": 6,
+          "score": 6,
+          "matched_terms": [
+            "venous pressure"
+          ],
+          "teaser": "Directly informs SAFER-Fontan's primary hemodynamic domain: systemic venous congestion, measured with PVP at rest and peak exercise.",
+          "detail": "SAFER-Fontan tests whether therapy lowers systemic venous congestion, with peripheral venous pressure (PVP) assessed at rest and peak exercise as the primary endpoint. Papers on Fontan pressure, venous hypertension, congestion, venous return or volume status can therefore inform endpoint interpretation, mechanisms of treatment response and the clinical meaning of a change in PVP."
+        },
+        {
+          "id": "clinical-outcomes",
+          "label": "Clinical worsening & patient-reported outcomes",
+          "priority": 4,
+          "score": 4,
+          "matched_terms": [
+            "hospitalisation"
+          ],
+          "teaser": "Helps connect mechanistic changes in SAFER-Fontan to outcomes that matter clinically: worsening events, symptoms, function and quality of life.",
+          "detail": "SAFER-Fontan includes clinical worsening events and patient-reported outcomes alongside deep physiological phenotyping. Outcome studies are therefore useful for deciding which mechanistic changes are likely to be clinically meaningful and for placing trial participants within the broader risk spectrum of adults with a Fontan circulation."
+        }
+      ],
+      "research_teaser": "Directly informs SAFER-Fontan's primary hemodynamic domain: systemic venous congestion, measured with PVP at rest and peak exercise.",
+      "research_detail": "SAFER-Fontan tests whether therapy lowers systemic venous congestion, with peripheral venous pressure (PVP) assessed at rest and peak exercise as the primary endpoint. Papers on Fontan pressure, venous hypertension, congestion, venous return or volume status can therefore inform endpoint interpretation, mechanisms of treatment response and the clinical meaning of a change in PVP.\n\nSAFER-Fontan includes clinical worsening events and patient-reported outcomes alongside deep physiological phenotyping. Outcome studies are therefore useful for deciding which mechanistic changes are likely to be clinically meaningful and for placing trial participants within the broader risk spectrum of adults with a Fontan circulation.",
+      "relevance_score": 65,
+      "high_priority": true,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1161%2Fcirc.154.suppl_1.9844%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1161/circ.154.suppl_1.9844",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-09T01:45:32Z"
     },
     {
       "id": "epmc-ppr-PPR1355392",
@@ -1695,7 +3063,7 @@
       "publisher_url": "https://doi.org/10.1007/s00246-026-04527-2",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -1763,6 +3131,74 @@
       "full_text_url": "",
       "has_full_text": false,
       "retrieved_at": "2026-11-07T01:58:53Z"
+    },
+    {
+      "id": "doi-10.1161/circ.154.suppl_1.9747",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1161/circ.154.suppl_1.9747",
+      "pii": "",
+      "title": "Abstract 9747: Introducing a Novel Fontan Transplant Risk Score: Earlier Referral and More Appropriate Evaluation Outcomes",
+      "abstract": "Introduction: There is limited consensus on when to refer patients with Fontan circulation (FC) for heart failure/transplant (HF/Tx) evaluation, and late referrals have been associated with decreased heart transplant listing and survival. Our program developed and implemented a Fontan transplant risk score (FTRS, Figure 1) used to guide referral for HF/Tx evaluation. This was integrated into the medical record for use at routine clinic visits, with referral threshold set to allow education about transplant before significant clinical worsening. Research Aim: To evaluate adult patients referred for HF/Tx consultation before and after implantation of a FTRS. Methods: Adults with FC referred for HF/Tx consultation between 2015 and 2025 were retrospectively evaluated. FTRS was calculated for each patient at referral. Results of consultation (listing, declined, transplanted, de-listed, or “too well” for further evaluation) were compared before (Era 1, 2015-2020) and after (Era 2, 2021-2025) FTRS implementation. Follow-up was through April 2026. Demographics, risk score, and mortality from initial HF/Tx consultation were analyzed using Chi-square tests for categorical variables, Kruskal-Wallis tests for continuous variables, and log-rank methods for outcome comparisons (p Results: A total of 44 patients (52% male, 89% white, median age 29 years [IQR 23 - 38]) were referred for HF/Tx consultation during the study period (Era 1, n = 16; Era 2, n = 28). Patients in Era 2 were older (median 33 vs 24 years, p = 0.017), though demographics and Fontan characteristics did not differ significantly. Median FTRS was 10 (range 0-22) and were lower in Era 2 (median 8, range 0-22) than Era 1 (median 11.5, range 2-21) though did not reach statistical significance (p = 0.186, Figure 2A). In Era 1, 10 patients were listed and 5 underwent transplant, with 4 patients de-listed; in Era 2, though there were more referrals, 8 were listed, 5 underwent heart transplant, and none were de-listed. Only in Era 2 did patients undergo transplant education and either decide against transplant (n = 6) or deemed “too well” for listing (n = 4) (Figure 2B). Although survival did not differ significantly between Eras (p = 0.119), across Eras, patients with higher FTRS had reduced survival, with no deaths if score was less than or equal to 6 (p = 0.044, Figure 2C). Conclusion: After implementation of a novel FTRS, an increased number of adults with FC were referred for HF/Tx consultation. Although patients listed or transplanted did not increase, earlier referral identified some who were “too well,” but gave these patients and others opportunity to receive education and decide if they wanted to pursue transplant. The FTRS helped stratify patient risk, as lower FTRS was associated with improved survival. Implementation of this novel FTRS may allow for reduction in late referrals for transplant and improve outcomes.",
+      "authors": [
+        "Freddo Andrew",
+        "sisk tracey",
+        "Hickey Jenne K",
+        "Johnson Shelby",
+        "Nandi Deipanjan",
+        "Wright Lydia",
+        "Yester Jessie",
+        "Mah May Ling",
+        "Daniels Curt",
+        "Marshall William"
+      ],
+      "journal": "Circulation",
+      "journal_abbrev": "",
+      "published": "2026-11-02",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [
+        "transplant",
+        "lymphatic",
+        "risk-outcomes",
+        "methods"
+      ],
+      "topic_labels": [
+        "Transplant & advanced failure",
+        "Lymphatic complications",
+        "Risk stratification & outcomes",
+        "Methods, reference ranges & measurement"
+      ],
+      "research_links": [
+        {
+          "id": "clinical-outcomes",
+          "label": "Clinical worsening & patient-reported outcomes",
+          "priority": 4,
+          "score": 12,
+          "matched_terms": [
+            "transplant",
+            "death",
+            "mortality",
+            "clinical worsening"
+          ],
+          "teaser": "Helps connect mechanistic changes in SAFER-Fontan to outcomes that matter clinically: worsening events, symptoms, function and quality of life.",
+          "detail": "SAFER-Fontan includes clinical worsening events and patient-reported outcomes alongside deep physiological phenotyping. Outcome studies are therefore useful for deciding which mechanistic changes are likely to be clinically meaningful and for placing trial participants within the broader risk spectrum of adults with a Fontan circulation."
+        }
+      ],
+      "research_teaser": "Helps connect mechanistic changes in SAFER-Fontan to outcomes that matter clinically: worsening events, symptoms, function and quality of life.",
+      "research_detail": "SAFER-Fontan includes clinical worsening events and patient-reported outcomes alongside deep physiological phenotyping. Outcome studies are therefore useful for deciding which mechanistic changes are likely to be clinically meaningful and for placing trial participants within the broader risk spectrum of adults with a Fontan circulation.",
+      "relevance_score": 55,
+      "high_priority": true,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1161%2Fcirc.154.suppl_1.9747%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1161/circ.154.suppl_1.9747",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-09T01:45:32Z"
     },
     {
       "id": "doi-10.1007/s00246-026-04527-2",
@@ -2104,7 +3540,7 @@
       "publisher_url": "https://doi.org/10.1093/ejcts/ezag236",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Crossref",
         "PubMed"
@@ -2234,7 +3670,7 @@
       "publisher_url": "https://doi.org/10.1186/s10020-026-01686-z",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13737843/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-08T20:31:22Z"
+      "retrieved_at": "2026-11-09T01:45:07Z"
     },
     {
       "id": "pmid-42960863",
@@ -2306,7 +3742,7 @@
       "publisher_url": "https://doi.org/10.1093/icvts/ivag293",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -2402,7 +3838,7 @@
       "publisher_url": "https://doi.org/10.1007/s00247-026-06824-7",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -2458,7 +3894,7 @@
       "publisher_url": "https://doi.org/10.1007/s00246-026-04514-7",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -2500,7 +3936,7 @@
       "publisher_url": "https://doi.org/10.1093/ehjqcco/qcag158",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -2683,7 +4119,7 @@
       "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/42964001/",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -2956,7 +4392,7 @@
       "publisher_url": "https://doi.org/10.1007/s00246-026-04532-5",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z"
+      "retrieved_at": "2026-11-09T01:45:07Z"
     },
     {
       "id": "doi-10.3390/diagnostics16213512",
@@ -3878,7 +5314,7 @@
       "publisher_url": "https://doi.org/10.1016/j.healun.2026.10.014",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -4099,7 +5535,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jpeds.2026.115379",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -4192,7 +5628,7 @@
       "publisher_url": "https://doi.org/10.1007/s00261-026-05835-0",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -4503,7 +5939,7 @@
       "publisher_url": "https://doi.org/10.7759/cureus.118383",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13690063/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -4595,7 +6031,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jchf.2026.103433",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -4697,7 +6133,7 @@
       "publisher_url": "https://doi.org/10.3389/fcvm.2026.1937933",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13732767/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-08T20:31:22Z"
+      "retrieved_at": "2026-11-09T01:45:07Z"
     },
     {
       "id": "doi-10.3389/fcvm.2026.1937933",
@@ -4898,7 +6334,7 @@
       "publisher_url": "https://doi.org/10.1016/j.healun.2026.10.010",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -4964,7 +6400,7 @@
       "publisher_url": "https://doi.org/10.1016/j.thromres.2026.109893",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -5197,7 +6633,7 @@
       "publisher_url": "https://doi.org/10.1007/s00246-026-04513-8",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -5444,7 +6880,7 @@
       "publisher_url": "https://doi.org/10.1177/21501351261491199",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -5540,7 +6976,7 @@
       "publisher_url": "https://doi.org/10.1017/S1047951126124457",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -5757,7 +7193,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jtcvs.2026.09.005",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -5853,7 +7289,7 @@
       "publisher_url": "https://doi.org/10.1007/s00246-026-04508-5",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -5985,7 +7421,7 @@
       "publisher_url": "https://doi.org/10.1016/j.ejrad.2026.113293",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -6040,7 +7476,7 @@
       "publisher_url": "https://doi.org/10.1159/neo/adsag015",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z"
+      "retrieved_at": "2026-11-09T01:45:07Z"
     },
     {
       "id": "doi-10.1093/ehjcr/ytag733",
@@ -6194,7 +7630,7 @@
       "publisher_url": "https://doi.org/10.1093/ehjcr/ytag733",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13696955/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -6258,7 +7694,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110571",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -6402,7 +7838,7 @@
       "publisher_url": "https://doi.org/10.7759/cureus.117526",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13735390/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-08T20:31:22Z"
+      "retrieved_at": "2026-11-09T01:45:07Z"
     },
     {
       "id": "pmid-42838369",
@@ -6460,7 +7896,7 @@
       "publisher_url": "https://doi.org/10.1016/j.athoracsur.2026.09.038",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -6528,7 +7964,7 @@
       "publisher_url": "https://doi.org/10.1016/j.ijcchd.2026.100719",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13717882/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -6731,7 +8167,7 @@
       "publisher_url": "https://doi.org/10.1111/micc.70092",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -7672,7 +9108,7 @@
       "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/42987930/",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z"
+      "retrieved_at": "2026-11-09T01:45:07Z"
     },
     {
       "id": "doi-10.1016/j.cjca.2026.07.279",
@@ -7936,7 +9372,7 @@
       "publisher_url": "https://doi.org/10.1177/21501351261484590",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -8002,7 +9438,7 @@
       "publisher_url": "https://doi.org/10.1017/S1047951126123579",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -8103,7 +9539,7 @@
       "publisher_url": "https://doi.org/10.1097/CRD.0000000000001483",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z"
+      "retrieved_at": "2026-11-09T01:45:07Z"
     },
     {
       "id": "pmid-42808974",
@@ -8163,7 +9599,7 @@
       "publisher_url": "https://doi.org/10.1177/21501351261477042",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -8227,7 +9663,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jcin.2026.05.040",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z"
+      "retrieved_at": "2026-11-09T01:45:07Z"
     },
     {
       "id": "pmid-42804567",
@@ -8275,7 +9711,7 @@
       "publisher_url": "https://doi.org/10.1161/CIRCULATIONAHA.126.081221",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13621794/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -8322,7 +9758,7 @@
       "publisher_url": "https://doi.org/10.1161/CIRCULATIONAHA.126.080139",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -8367,7 +9803,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jacc.2026.08.019",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z"
+      "retrieved_at": "2026-11-09T01:45:07Z"
     },
     {
       "id": "pmid-42960030",
@@ -8412,7 +9848,7 @@
       "publisher_url": "https://doi.org/10.1016/j.ijcchd.2026.100716",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13717887/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -8537,7 +9973,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110541",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -8619,7 +10055,7 @@
       "publisher_url": "https://doi.org/10.47487/apcyccv.v7i3.613",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13738446/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-08T20:31:22Z"
+      "retrieved_at": "2026-11-09T01:45:07Z"
     },
     {
       "id": "pmid-42991724",
@@ -8679,7 +10115,7 @@
       "publisher_url": "https://doi.org/10.47487/apcyccv.v7i3.607",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13738454/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-08T20:31:22Z"
+      "retrieved_at": "2026-11-09T01:45:07Z"
     },
     {
       "id": "doi-10.1186/s13741-026-00746-6",
@@ -8822,7 +10258,7 @@
       "publisher_url": "https://doi.org/10.1053/j.jvca.2026.09.044",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -8903,7 +10339,7 @@
       "publisher_url": "https://doi.org/10.1152/ajpheart.00411.2026",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -9109,7 +10545,7 @@
       "publisher_url": "https://doi.org/10.1017/S1047951126123646",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -9238,7 +10674,7 @@
       "publisher_url": "https://doi.org/10.1007/s00246-026-04483-x",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -9537,7 +10973,7 @@
       "publisher_url": "https://doi.org/10.1007/s00246-026-04447-1",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -9674,7 +11110,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110350",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -9751,7 +11187,7 @@
       "publisher_url": "https://doi.org/10.1007/s40119-026-00477-1",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -9822,7 +11258,7 @@
       "publisher_url": "https://doi.org/10.1111/jgh.70755",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -9907,7 +11343,7 @@
       "publisher_url": "https://doi.org/10.1177/21501351261477046",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -9979,7 +11415,7 @@
       "publisher_url": "https://doi.org/10.1038/s42003-026-10882-w",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13586348/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -10025,7 +11461,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110349",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -10068,7 +11504,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jtcvs.2026.07.005",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -10183,7 +11619,7 @@
       "publisher_url": "https://doi.org/10.1007/s00246-026-04464-0",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -10267,7 +11703,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.109547",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13728358/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -10346,7 +11782,7 @@
       "publisher_url": "https://doi.org/10.1016/j.acvd.2026.07.006",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -10385,7 +11821,7 @@
       "publisher_url": "https://doi.org/10.1007/s10840-026-02439-y",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -10492,7 +11928,7 @@
       "publisher_url": "https://doi.org/10.1177/21501351261477060",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -10616,7 +12052,7 @@
       "publisher_url": "https://doi.org/10.1007/s13668-026-00802-z",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z"
+      "retrieved_at": "2026-11-09T01:45:07Z"
     },
     {
       "id": "epmc-ppr-PPR1318527",
@@ -10747,7 +12183,7 @@
       "publisher_url": "https://doi.org/10.3390/jcdd13090463",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13607017/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -10957,7 +12393,7 @@
       "publisher_url": "https://doi.org/10.1111/hepr.70268",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -11133,7 +12569,7 @@
       "publisher_url": "https://doi.org/10.1016/j.ahj.2026.107608",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -11196,7 +12632,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jacbts.2026.101687",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13589073/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -11233,7 +12669,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jacbts.2026.101703",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13584010/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -11363,7 +12799,7 @@
       "publisher_url": "https://doi.org/10.1007/s00246-026-04466-y",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -11616,11 +13052,7 @@
       "publisher_url": "https://doi.org/10.1016/j.ijoa.2026.105279",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z",
-      "source_coverage": [
-        "Europe PMC",
-        "PubMed"
-      ]
+      "retrieved_at": "2026-11-09T01:45:07Z"
     },
     {
       "id": "pmid-42714563",
@@ -11889,7 +13321,7 @@
       "publisher_url": "https://doi.org/10.3390/children13091215",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13605104/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-08T20:31:22Z"
+      "retrieved_at": "2026-11-09T01:45:07Z"
     },
     {
       "id": "doi-10.3390/children13091215",
@@ -12030,7 +13462,7 @@
       "publisher_url": "https://doi.org/10.1016/j.ijcchd.2026.100711",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13573173/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-08T20:31:22Z"
+      "retrieved_at": "2026-11-09T01:45:07Z"
     },
     {
       "id": "pmid-42708513",
@@ -12362,7 +13794,7 @@
       "publisher_url": "https://doi.org/10.3389/fcvm.2026.1876375",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13585986/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-08T20:31:22Z"
+      "retrieved_at": "2026-11-09T01:45:07Z"
     },
     {
       "id": "doi-10.3389/fcvm.2026.1876375",
@@ -12519,7 +13951,7 @@
       "publisher_url": "https://doi.org/10.1016/j.cld.2026.07.006",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z"
+      "retrieved_at": "2026-11-09T01:45:07Z"
     },
     {
       "id": "pmid-42830748",
@@ -12585,7 +14017,7 @@
       "publisher_url": "https://doi.org/10.7759/cureus.115741",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13633856/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-08T20:31:22Z"
+      "retrieved_at": "2026-11-09T01:45:07Z"
     },
     {
       "id": "doi-10.7759/cureus.115741",
@@ -12708,7 +14140,7 @@
       "publisher_url": "https://doi.org/10.1093/europace/euag123",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13571843/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-08T20:31:22Z"
+      "retrieved_at": "2026-11-09T01:45:07Z"
     },
     {
       "id": "pmid-42732894",
@@ -12743,7 +14175,7 @@
       "publisher_url": "https://doi.org/10.1093/europace/euag239",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13571844/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-08T20:31:22Z"
+      "retrieved_at": "2026-11-09T01:45:07Z"
     },
     {
       "id": "pmid-42741923",
@@ -12811,7 +14243,7 @@
       "publisher_url": "https://doi.org/10.1111/echo.70620",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13575840/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-08T20:31:22Z"
+      "retrieved_at": "2026-11-09T01:45:07Z"
     },
     {
       "id": "pmid-42743070",
@@ -12886,7 +14318,7 @@
       "publisher_url": "https://doi.org/10.1111/eci.70257",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13577340/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-08T20:31:22Z"
+      "retrieved_at": "2026-11-09T01:45:07Z"
     },
     {
       "id": "doi-10.1016/j.cld.2026.07.006",
@@ -13726,7 +15158,7 @@
       "publisher_url": "https://doi.org/10.1253/circrep.CR-25-0343",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13649537/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-08T20:31:22Z"
+      "retrieved_at": "2026-11-09T01:45:07Z"
     },
     {
       "id": "pmid-42820901",
@@ -13814,7 +15246,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110025",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z"
+      "retrieved_at": "2026-11-09T01:45:07Z"
     },
     {
       "id": "doi-10.47144/phj.v59i4.3819",
@@ -14174,7 +15606,7 @@
       "publisher_url": "https://doi.org/10.1016/j.ijcchd.2026.100712",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13720813/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-08T20:31:22Z"
+      "retrieved_at": "2026-11-09T01:45:07Z"
     },
     {
       "id": "doi-10.47487/apcyccv.v7i3.607",
@@ -14765,7 +16197,7 @@
       "publisher_url": "https://doi.org/10.7759/cureus.115087",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13600569/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-08T20:31:22Z"
+      "retrieved_at": "2026-11-09T01:45:07Z"
     },
     {
       "id": "doi-10.1055/s-0046-1827068",
@@ -15018,7 +16450,7 @@
       "publisher_url": "https://doi.org/10.1016/j.xjon.2026.102077",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13711209/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-08T20:31:22Z"
+      "retrieved_at": "2026-11-09T01:45:07Z"
     },
     {
       "id": "pmid-42627129",
@@ -15185,7 +16617,7 @@
       "publisher_url": "https://doi.org/10.1016/j.xjon.2026.102070",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13711412/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-08T20:31:22Z"
+      "retrieved_at": "2026-11-09T01:45:07Z"
     },
     {
       "id": "pmid-42627415",
@@ -15790,7 +17222,7 @@
       "publisher_url": "https://doi.org/10.1016/j.xjon.2026.102062",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13711289/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-08T20:31:22Z"
+      "retrieved_at": "2026-11-09T01:45:07Z"
     },
     {
       "id": "pmid-42611859",
@@ -17094,7 +18526,7 @@
       "publisher_url": "https://doi.org/10.1016/j.xjon.2026.102049",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13711206/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-08T20:31:22Z"
+      "retrieved_at": "2026-11-09T01:45:07Z"
     },
     {
       "id": "pmid-42559838",
@@ -20016,7 +21448,7 @@
       "publisher_url": "https://doi.org/10.1016/j.xjon.2026.101970",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13711207/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-08T20:31:22Z"
+      "retrieved_at": "2026-11-09T01:45:07Z"
     },
     {
       "id": "pmid-42498898",
@@ -20177,7 +21609,7 @@
       "publisher_url": "https://doi.org/10.1007/s12055-026-02225-5",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13594033/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-08T20:31:22Z"
+      "retrieved_at": "2026-11-09T01:45:07Z"
     },
     {
       "id": "doi-10.1007/s12055-026-02225-5",
@@ -22745,7 +24177,7 @@
       "publisher_url": "https://doi.org/10.1016/j.aan.2026.05.003",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z"
+      "retrieved_at": "2026-11-09T01:45:07Z"
     },
     {
       "id": "pmid-42367139",
@@ -23374,7 +24806,7 @@
       "publisher_url": "https://doi.org/10.1016/j.xjtc.2026.102494",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13673977/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Crossref",
         "PubMed"
@@ -25797,7 +27229,7 @@
       "publisher_url": "https://doi.org/10.5114/ceh.2026.161430",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13559692/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-08T20:31:22Z"
+      "retrieved_at": "2026-11-09T01:45:07Z"
     },
     {
       "id": "pmid-42260893",
@@ -31120,7 +32552,7 @@
       "publisher_url": "https://doi.org/10.1016/j.cjcpc.2026.04.003",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13712468/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Crossref",
         "PubMed"
@@ -35794,7 +37226,7 @@
       "publisher_url": "https://doi.org/10.1016/j.cjcpc.2026.03.002",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13712457/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Crossref",
         "PubMed"
@@ -36991,7 +38423,7 @@
       "publisher_url": "https://doi.org/10.1016/j.cjcpc.2026.03.001",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13712465/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-08T20:31:22Z",
+      "retrieved_at": "2026-11-09T01:45:07Z",
       "source_coverage": [
         "Crossref",
         "PubMed"
@@ -38880,7 +40312,7 @@
       "publisher_url": "https://doi.org/10.1016/j.atssr.2026.02.012",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13555436/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-08T20:31:22Z"
+      "retrieved_at": "2026-11-09T01:45:07Z"
     },
     {
       "id": "pmid-41763667",
@@ -45613,7 +47045,7 @@
       "publisher_url": "https://doi.org/10.2463/mrms.mp.2026-0126",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13678478/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-08T20:31:22Z"
+      "retrieved_at": "2026-11-09T01:45:07Z"
     },
     {
       "id": "pmid-42826388",
@@ -45699,7 +47131,7 @@
       "publisher_url": "https://doi.org/10.1139/cjpp-2026-0103",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z"
+      "retrieved_at": "2026-11-09T01:45:07Z"
     },
     {
       "id": "pmid-42250285",
@@ -46003,7 +47435,7 @@
       "publisher_url": "https://doi.org/10.1111/ped.70533",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-08T20:31:22Z"
+      "retrieved_at": "2026-11-09T01:45:07Z"
     },
     {
       "id": "pmid-41472350",
