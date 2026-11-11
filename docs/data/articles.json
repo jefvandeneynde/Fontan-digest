@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-11T12:00:55Z",
+  "generated_at": "2026-11-11T22:49:57Z",
   "query_window_start": "2026-09-12",
   "query_window_end": "2026-11-11",
-  "count": 1462,
+  "count": 1504,
   "articles": [
     {
       "id": "pmid-42964749",
@@ -97,7 +97,70 @@
       "publisher_url": "https://doi.org/10.5409/wjcp.119970",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13720585/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-11T11:55:06Z"
+      "retrieved_at": "2026-11-11T22:44:39Z"
+    },
+    {
+      "id": "pmid-43012893",
+      "source": "PubMed",
+      "pmid": "43012893",
+      "pmcid": "",
+      "doi": "10.1007/s00246-026-04550-3",
+      "pii": "10.1007/s00246-026-04550-3",
+      "title": "Prevalence, Clinical Characteristics, and Hemodynamic Impact of Coronary Artery-Ventricular Microfistulas in Patients with Fontan Circulation.",
+      "abstract": "Coronary artery-ventricular microfistulas (CAMFs), which are defined as diffuse communications between dilated coronary arteries and the main ventricle, are poorly understood in Fontan circulation. We evaluated their prevalence, clinical features, and longitudinal hemodynamics. We retrospectively reviewed 167 Fontan patients undergoing cardiac catheterization between 2005 and 2025. Excluded were sinusoidal communications in PA/IVS, LV fistulas in HLHS, or solitary focal fistulas. Clinical, surgical, and serial hemodynamic parameters, such as the subendocardial viability ratio (SEVR) and aortic regurgitation (AR) index, were assessed. CAMFs were identified in 6 of the 153 eligible Fontan patients (prevalence: 3.9%). Polysplenia was more frequent in the CAMFs group (33% vs. 5%, ). At initial diagnosis, systemic cardiac index (median 3.3 L/min/m2 [range, 2.2-3.9 L/min/m2]) and ejection fraction (median 52% [range, 44%-65%]) were preserved. Notably, resting SEVR (median 91% [range, 85%-156%]) and AR index (median 54% [range, 44%-59%]) remained stable and well-compensated over a decade of follow-up. Late morbidities included protein-losing enteropathy (17%), pulmonary arteriovenous fistulas (17%), esophageal varices (17%), and death (17%). CAMFs occur in 3.9% of Fontan patients and correlate with polysplenia. Although resting SEVR and AR index remain well-compensated over mid-term follow-up, their impact on long-term outcomes beyond two decades post-Fontan remains uncertain. Careful long-term monitoring is necessary for late extra-cardiac complications and hemodynamic changes.",
+      "authors": [
+        "Higashi K",
+        "Nakajima H",
+        "Aotsuka H"
+      ],
+      "journal": "Pediatric cardiology",
+      "journal_abbrev": "Pediatr Cardiol",
+      "published": "2026-11-11",
+      "year": 2026,
+      "publication_types": [
+        "Journal Article"
+      ],
+      "article_type": "Original research",
+      "topics": [
+        "hemodynamics",
+        "catheter-surgery",
+        "transplant",
+        "lymphatic",
+        "risk-outcomes"
+      ],
+      "topic_labels": [
+        "Hemodynamics & Fontan failure",
+        "Catheter & surgical interventions",
+        "Transplant & advanced failure",
+        "Lymphatic complications",
+        "Risk stratification & outcomes"
+      ],
+      "research_links": [
+        {
+          "id": "clinical-outcomes",
+          "label": "Clinical worsening & patient-reported outcomes",
+          "priority": 4,
+          "score": 4,
+          "matched_terms": [
+            "death"
+          ],
+          "teaser": "Helps connect mechanistic changes in SAFER-Fontan to outcomes that matter clinically: worsening events, symptoms, function and quality of life.",
+          "detail": "SAFER-Fontan includes clinical worsening events and patient-reported outcomes alongside deep physiological phenotyping. Outcome studies are therefore useful for deciding which mechanistic changes are likely to be clinically meaningful and for placing trial participants within the broader risk spectrum of adults with a Fontan circulation."
+        }
+      ],
+      "research_teaser": "Helps connect mechanistic changes in SAFER-Fontan to outcomes that matter clinically: worsening events, symptoms, function and quality of life.",
+      "research_detail": "SAFER-Fontan includes clinical worsening events and patient-reported outcomes alongside deep physiological phenotyping. Outcome studies are therefore useful for deciding which mechanistic changes are likely to be clinically meaningful and for placing trial participants within the broader risk spectrum of adults with a Fontan circulation.",
+      "relevance_score": 50,
+      "high_priority": true,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43012893/",
+      "publisher_url": "https://doi.org/10.1007/s00246-026-04550-3",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-11T22:44:39Z",
+      "source_coverage": [
+        "Crossref",
+        "PubMed"
+      ]
     },
     {
       "id": "pmid-43006911",
@@ -153,7 +216,7 @@
       "publisher_url": "https://doi.org/10.1093/icvts/ivag299",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Crossref",
         "PubMed"
@@ -219,7 +282,7 @@
       "publisher_url": "https://doi.org/10.1007/s12194-026-01162-7",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z"
+      "retrieved_at": "2026-11-11T22:44:39Z"
     },
     {
       "id": "pmid-43003246",
@@ -293,7 +356,7 @@
       "publisher_url": "https://doi.org/10.1016/j.athoracsur.2026.10.026",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z"
+      "retrieved_at": "2026-11-11T22:44:39Z"
     },
     {
       "id": "pmid-42998116",
@@ -355,7 +418,7 @@
       "publisher_url": "https://doi.org/10.1007/s10439-026-04413-1",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -398,7 +461,7 @@
       "publisher_url": "https://doi.org/10.1016/j.athoracsur.2026.10.024",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -559,7 +622,7 @@
       "publisher_url": "https://doi.org/10.1007/s00246-026-04544-1",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -3271,7 +3334,7 @@
       "publisher_url": "https://doi.org/10.1007/s00246-026-04527-2",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -3748,12 +3811,148 @@
       "publisher_url": "https://doi.org/10.1093/ejcts/ezag236",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
         "PubMed"
       ]
+    },
+    {
+      "id": "doi-10.1016/j.jaccas.2026.110342",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1016/j.jaccas.2026.110342",
+      "pii": "",
+      "title": "Incidental Hepatocellular Carcinoma on Explant Pathology in Patients With Fontan Circulation After Heart–Liver Transplantation",
+      "abstract": "",
+      "authors": [
+        "Farkas Isabella Z.",
+        "Weinfurtner Kelley",
+        "Olthoff Kim M.",
+        "Abt Peter L.",
+        "Kaldas Fady M.",
+        "Rosen Mark A.",
+        "Lluri Gentian",
+        "Rychik Jack",
+        "Hoteit Maarouf A.",
+        "Kim Yuli Y."
+      ],
+      "journal": "JACC: Case Reports",
+      "journal_abbrev": "",
+      "published": "2026-11-01",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [
+        "transplant",
+        "fald"
+      ],
+      "topic_labels": [
+        "Transplant & advanced failure",
+        "Fontan-associated liver disease"
+      ],
+      "research_links": [
+        {
+          "id": "fald",
+          "label": "Fontan-associated liver disease",
+          "priority": 5,
+          "score": 10,
+          "matched_terms": [
+            "liver",
+            "hepatocellular"
+          ],
+          "teaser": "Relevant to the extracardiac component of SAFER-Fontan, which tracks hepatic function and liver stiffness and studies heart-liver fibrotic coupling.",
+          "detail": "SAFER-Fontan includes hepatic phenotyping with MELD-XI and liver elastography, while its fibrosis work also examines organ-specific fibrotic activity. FALD literature is therefore useful for linking systemic venous congestion and low-flow physiology to end-organ disease and for evaluating whether hemodynamic improvement could translate into hepatic benefit."
+        },
+        {
+          "id": "clinical-outcomes",
+          "label": "Clinical worsening & patient-reported outcomes",
+          "priority": 4,
+          "score": 4,
+          "matched_terms": [
+            "transplant"
+          ],
+          "teaser": "Helps connect mechanistic changes in SAFER-Fontan to outcomes that matter clinically: worsening events, symptoms, function and quality of life.",
+          "detail": "SAFER-Fontan includes clinical worsening events and patient-reported outcomes alongside deep physiological phenotyping. Outcome studies are therefore useful for deciding which mechanistic changes are likely to be clinically meaningful and for placing trial participants within the broader risk spectrum of adults with a Fontan circulation."
+        }
+      ],
+      "research_teaser": "Relevant to the extracardiac component of SAFER-Fontan, which tracks hepatic function and liver stiffness and studies heart-liver fibrotic coupling.",
+      "research_detail": "SAFER-Fontan includes hepatic phenotyping with MELD-XI and liver elastography, while its fibrosis work also examines organ-specific fibrotic activity. FALD literature is therefore useful for linking systemic venous congestion and low-flow physiology to end-organ disease and for evaluating whether hemodynamic improvement could translate into hepatic benefit.\n\nSAFER-Fontan includes clinical worsening events and patient-reported outcomes alongside deep physiological phenotyping. Outcome studies are therefore useful for deciding which mechanistic changes are likely to be clinically meaningful and for placing trial participants within the broader risk spectrum of adults with a Fontan circulation.",
+      "relevance_score": 32,
+      "high_priority": false,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1016%2Fj.jaccas.2026.110342%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110342",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-11T22:49:57Z"
+    },
+    {
+      "id": "doi-10.1016/j.jaccas.2026.110757",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1016/j.jaccas.2026.110757",
+      "pii": "",
+      "title": "Hemodynamic Challenges After Paraganglioma Resection in Fontan-Palliated Adult With Fontan-Associated Liver Disease",
+      "abstract": "",
+      "authors": [
+        "Gupta Jaytin R.",
+        "Modi Roshan",
+        "Kerling David",
+        "Liu Benjamin",
+        "Subramanyam Pritha",
+        "Yuan Su",
+        "Finnerty Brendan",
+        "Dobri Georgiana",
+        "McDonald Daniel",
+        "Brandman Danielle",
+        "Singh Harsimran S."
+      ],
+      "journal": "JACC: Case Reports",
+      "journal_abbrev": "",
+      "published": "2026-11-01",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [
+        "hemodynamics",
+        "fald"
+      ],
+      "topic_labels": [
+        "Hemodynamics & Fontan failure",
+        "Fontan-associated liver disease"
+      ],
+      "research_links": [
+        {
+          "id": "fald",
+          "label": "Fontan-associated liver disease",
+          "priority": 5,
+          "score": 10,
+          "matched_terms": [
+            "fontan-associated liver",
+            "liver"
+          ],
+          "teaser": "Relevant to the extracardiac component of SAFER-Fontan, which tracks hepatic function and liver stiffness and studies heart-liver fibrotic coupling.",
+          "detail": "SAFER-Fontan includes hepatic phenotyping with MELD-XI and liver elastography, while its fibrosis work also examines organ-specific fibrotic activity. FALD literature is therefore useful for linking systemic venous congestion and low-flow physiology to end-organ disease and for evaluating whether hemodynamic improvement could translate into hepatic benefit."
+        }
+      ],
+      "research_teaser": "Relevant to the extracardiac component of SAFER-Fontan, which tracks hepatic function and liver stiffness and studies heart-liver fibrotic coupling.",
+      "research_detail": "SAFER-Fontan includes hepatic phenotyping with MELD-XI and liver elastography, while its fibrosis work also examines organ-specific fibrotic activity. FALD literature is therefore useful for linking systemic venous congestion and low-flow physiology to end-organ disease and for evaluating whether hemodynamic improvement could translate into hepatic benefit.",
+      "relevance_score": 25,
+      "high_priority": false,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1016%2Fj.jaccas.2026.110757%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110757",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-11T22:49:57Z"
     },
     {
       "id": "doi-10.1016/j.athoracsur.2026.10.024",
@@ -3794,6 +3993,944 @@
       "full_text_url": "",
       "has_full_text": false,
       "retrieved_at": "2026-11-08T01:28:55Z"
+    },
+    {
+      "id": "doi-10.1016/j.jaccas.2026.111010",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1016/j.jaccas.2026.111010",
+      "pii": "",
+      "title": "Fontan-Associated Liver Disease",
+      "abstract": "",
+      "authors": [
+        "Zhyvytsia Yuliia",
+        "Kurkevych Andrii",
+        "Teterin Oleksandr",
+        "Kvilinska Oksana",
+        "Moshkivska Lina",
+        "Olkhovich Natalia"
+      ],
+      "journal": "JACC: Case Reports",
+      "journal_abbrev": "",
+      "published": "2026-11-01",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [
+        "fald"
+      ],
+      "topic_labels": [
+        "Fontan-associated liver disease"
+      ],
+      "research_links": [
+        {
+          "id": "fald",
+          "label": "Fontan-associated liver disease",
+          "priority": 5,
+          "score": 10,
+          "matched_terms": [
+            "fontan-associated liver",
+            "liver"
+          ],
+          "teaser": "Relevant to the extracardiac component of SAFER-Fontan, which tracks hepatic function and liver stiffness and studies heart-liver fibrotic coupling.",
+          "detail": "SAFER-Fontan includes hepatic phenotyping with MELD-XI and liver elastography, while its fibrosis work also examines organ-specific fibrotic activity. FALD literature is therefore useful for linking systemic venous congestion and low-flow physiology to end-organ disease and for evaluating whether hemodynamic improvement could translate into hepatic benefit."
+        }
+      ],
+      "research_teaser": "Relevant to the extracardiac component of SAFER-Fontan, which tracks hepatic function and liver stiffness and studies heart-liver fibrotic coupling.",
+      "research_detail": "SAFER-Fontan includes hepatic phenotyping with MELD-XI and liver elastography, while its fibrosis work also examines organ-specific fibrotic activity. FALD literature is therefore useful for linking systemic venous congestion and low-flow physiology to end-organ disease and for evaluating whether hemodynamic improvement could translate into hepatic benefit.",
+      "relevance_score": 20,
+      "high_priority": false,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1016%2Fj.jaccas.2026.111010%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.111010",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-11T22:49:57Z"
+    },
+    {
+      "id": "doi-10.1016/j.jaccas.2026.110614",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1016/j.jaccas.2026.110614",
+      "pii": "",
+      "title": "Peritoneal Dialysis for Refractory Ascites in Fontan-Associated Liver Disease",
+      "abstract": "",
+      "authors": [
+        "Durán Juliana Hernández",
+        "Camargo Castro Jafeth Santiago",
+        "Guerrero Chalela Carlos Eduardo",
+        "Casallas-Gutierrez Isabella"
+      ],
+      "journal": "JACC: Case Reports",
+      "journal_abbrev": "",
+      "published": "2026-11-01",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [
+        "fald"
+      ],
+      "topic_labels": [
+        "Fontan-associated liver disease"
+      ],
+      "research_links": [
+        {
+          "id": "fald",
+          "label": "Fontan-associated liver disease",
+          "priority": 5,
+          "score": 10,
+          "matched_terms": [
+            "fontan-associated liver",
+            "liver"
+          ],
+          "teaser": "Relevant to the extracardiac component of SAFER-Fontan, which tracks hepatic function and liver stiffness and studies heart-liver fibrotic coupling.",
+          "detail": "SAFER-Fontan includes hepatic phenotyping with MELD-XI and liver elastography, while its fibrosis work also examines organ-specific fibrotic activity. FALD literature is therefore useful for linking systemic venous congestion and low-flow physiology to end-organ disease and for evaluating whether hemodynamic improvement could translate into hepatic benefit."
+        }
+      ],
+      "research_teaser": "Relevant to the extracardiac component of SAFER-Fontan, which tracks hepatic function and liver stiffness and studies heart-liver fibrotic coupling.",
+      "research_detail": "SAFER-Fontan includes hepatic phenotyping with MELD-XI and liver elastography, while its fibrosis work also examines organ-specific fibrotic activity. FALD literature is therefore useful for linking systemic venous congestion and low-flow physiology to end-organ disease and for evaluating whether hemodynamic improvement could translate into hepatic benefit.",
+      "relevance_score": 20,
+      "high_priority": false,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1016%2Fj.jaccas.2026.110614%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110614",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-11T22:49:57Z"
+    },
+    {
+      "id": "doi-10.1016/j.jaccas.2026.110749",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1016/j.jaccas.2026.110749",
+      "pii": "",
+      "title": "Kidney Transplantation in an Adult With a Fontan Circulation",
+      "abstract": "",
+      "authors": [
+        "Arista Paulina",
+        "Busque Stephan",
+        "Oakes Daryl",
+        "Jackson Ethan",
+        "Lui George K.",
+        "Clark Daniel E.",
+        "Haeffele Christiane",
+        "Romfh Anitra",
+        "Mohamed Maha A.",
+        "Woo Jennifer P."
+      ],
+      "journal": "JACC: Case Reports",
+      "journal_abbrev": "",
+      "published": "2026-11-01",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [
+        "transplant",
+        "renal"
+      ],
+      "topic_labels": [
+        "Transplant & advanced failure",
+        "Kidney & renal function"
+      ],
+      "research_links": [
+        {
+          "id": "renal",
+          "label": "Renal effects & safety",
+          "priority": 4,
+          "score": 4,
+          "matched_terms": [
+            "kidney"
+          ],
+          "teaser": "Relevant to renal efficacy and safety monitoring in SAFER-Fontan, including eGFR, albuminuria, creatinine, cystatin C and potassium.",
+          "detail": "Renal function is both an extracardiac outcome and an important safety domain in SAFER-Fontan. Studies on renal dysfunction, albuminuria, potassium or volume-sensitive kidney responses can help interpret the balance between decongestion, renal hemodynamics and treatment safety under spironolactone plus dapagliflozin."
+        },
+        {
+          "id": "clinical-outcomes",
+          "label": "Clinical worsening & patient-reported outcomes",
+          "priority": 4,
+          "score": 4,
+          "matched_terms": [
+            "transplant"
+          ],
+          "teaser": "Helps connect mechanistic changes in SAFER-Fontan to outcomes that matter clinically: worsening events, symptoms, function and quality of life.",
+          "detail": "SAFER-Fontan includes clinical worsening events and patient-reported outcomes alongside deep physiological phenotyping. Outcome studies are therefore useful for deciding which mechanistic changes are likely to be clinically meaningful and for placing trial participants within the broader risk spectrum of adults with a Fontan circulation."
+        }
+      ],
+      "research_teaser": "Relevant to renal efficacy and safety monitoring in SAFER-Fontan, including eGFR, albuminuria, creatinine, cystatin C and potassium.",
+      "research_detail": "Renal function is both an extracardiac outcome and an important safety domain in SAFER-Fontan. Studies on renal dysfunction, albuminuria, potassium or volume-sensitive kidney responses can help interpret the balance between decongestion, renal hemodynamics and treatment safety under spironolactone plus dapagliflozin.\n\nSAFER-Fontan includes clinical worsening events and patient-reported outcomes alongside deep physiological phenotyping. Outcome studies are therefore useful for deciding which mechanistic changes are likely to be clinically meaningful and for placing trial participants within the broader risk spectrum of adults with a Fontan circulation.",
+      "relevance_score": 19,
+      "high_priority": false,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1016%2Fj.jaccas.2026.110749%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110749",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-11T22:49:57Z"
+    },
+    {
+      "id": "doi-10.1016/j.jaccas.2026.110202",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1016/j.jaccas.2026.110202",
+      "pii": "",
+      "title": "Recovery of Postpartum Ventricular Dysfunction in a Fontan Patient Treated With Guideline-Directed Medical Therapy",
+      "abstract": "",
+      "authors": [
+        "Bartra Shantelle",
+        "Reid Jana",
+        "Saidi Arwa",
+        "Saef Joshua"
+      ],
+      "journal": "JACC: Case Reports",
+      "journal_abbrev": "",
+      "published": "2026-11-01",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Guideline / consensus",
+      "topics": [
+        "pharmacotherapy"
+      ],
+      "topic_labels": [
+        "Pharmacotherapy"
+      ],
+      "research_links": [],
+      "research_teaser": "Relevant to the broader Fontan evidence base; no direct match to a prespecified SAFER-Fontan mechanistic axis was identified automatically.",
+      "research_detail": "This online-first publisher record concerns the Fontan circulation but did not trigger a direct automated match to the current SAFER-Fontan research axes. It may still be useful for background, clinical context, surveillance or hypothesis generation.",
+      "relevance_score": 17,
+      "high_priority": false,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1016%2Fj.jaccas.2026.110202%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110202",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-11T22:49:57Z"
+    },
+    {
+      "id": "doi-10.1016/j.jaccas.2026.110651",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1016/j.jaccas.2026.110651",
+      "pii": "",
+      "title": "VA-ECMO Bridge to Transplant in Acute Fontan Circulatory Failure",
+      "abstract": "",
+      "authors": [
+        "Joseph Alysha",
+        "Tan Weiyi",
+        "Truby Lauren",
+        "Shafer Keri",
+        "Murala John",
+        "Brickner Mary Elizabeth",
+        "Wrobel Christopher",
+        "Jawaid Anas",
+        "Peltz Matthias",
+        "Kearney Katherine"
+      ],
+      "journal": "JACC: Case Reports",
+      "journal_abbrev": "",
+      "published": "2026-11-01",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [
+        "hemodynamics",
+        "transplant"
+      ],
+      "topic_labels": [
+        "Hemodynamics & Fontan failure",
+        "Transplant & advanced failure"
+      ],
+      "research_links": [
+        {
+          "id": "clinical-outcomes",
+          "label": "Clinical worsening & patient-reported outcomes",
+          "priority": 4,
+          "score": 4,
+          "matched_terms": [
+            "transplant"
+          ],
+          "teaser": "Helps connect mechanistic changes in SAFER-Fontan to outcomes that matter clinically: worsening events, symptoms, function and quality of life.",
+          "detail": "SAFER-Fontan includes clinical worsening events and patient-reported outcomes alongside deep physiological phenotyping. Outcome studies are therefore useful for deciding which mechanistic changes are likely to be clinically meaningful and for placing trial participants within the broader risk spectrum of adults with a Fontan circulation."
+        }
+      ],
+      "research_teaser": "Helps connect mechanistic changes in SAFER-Fontan to outcomes that matter clinically: worsening events, symptoms, function and quality of life.",
+      "research_detail": "SAFER-Fontan includes clinical worsening events and patient-reported outcomes alongside deep physiological phenotyping. Outcome studies are therefore useful for deciding which mechanistic changes are likely to be clinically meaningful and for placing trial participants within the broader risk spectrum of adults with a Fontan circulation.",
+      "relevance_score": 13,
+      "high_priority": false,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1016%2Fj.jaccas.2026.110651%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110651",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-11T22:49:57Z"
+    },
+    {
+      "id": "doi-10.1016/j.jaccas.2026.110656",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1016/j.jaccas.2026.110656",
+      "pii": "",
+      "title": "Systemic Atrioventricular Valve Replacement After Fontan Completion",
+      "abstract": "",
+      "authors": [
+        "Tao Katsuo",
+        "Sato Masaki",
+        "Ishikita Ayako",
+        "Kuraoka Ayako",
+        "Nakano Toshihide",
+        "Ishikawa Yuichi"
+      ],
+      "journal": "JACC: Case Reports",
+      "journal_abbrev": "",
+      "published": "2026-11-01",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [
+        "av-valve",
+        "lymphatic",
+        "pediatric"
+      ],
+      "topic_labels": [
+        "Atrioventricular valve regurgitation",
+        "Lymphatic complications",
+        "Pediatric & transition"
+      ],
+      "research_links": [],
+      "research_teaser": "Relevant to the broader Fontan evidence base; no direct match to a prespecified SAFER-Fontan mechanistic axis was identified automatically.",
+      "research_detail": "This online-first publisher record concerns the Fontan circulation but did not trigger a direct automated match to the current SAFER-Fontan research axes. It may still be useful for background, clinical context, surveillance or hypothesis generation.",
+      "relevance_score": 10,
+      "high_priority": false,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1016%2Fj.jaccas.2026.110656%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110656",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-11T22:49:57Z"
+    },
+    {
+      "id": "doi-10.1016/j.jaccas.2026.110450",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1016/j.jaccas.2026.110450",
+      "pii": "",
+      "title": "Successful Fontan Completion in a 36-Year-Old",
+      "abstract": "",
+      "authors": [
+        "Gormley Mark",
+        "Allen Kiona Y.",
+        "Monge Michael"
+      ],
+      "journal": "JACC: Case Reports",
+      "journal_abbrev": "",
+      "published": "2026-11-01",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [
+        "lymphatic",
+        "pediatric"
+      ],
+      "topic_labels": [
+        "Lymphatic complications",
+        "Pediatric & transition"
+      ],
+      "research_links": [],
+      "research_teaser": "Relevant to the broader Fontan evidence base; no direct match to a prespecified SAFER-Fontan mechanistic axis was identified automatically.",
+      "research_detail": "This online-first publisher record concerns the Fontan circulation but did not trigger a direct automated match to the current SAFER-Fontan research axes. It may still be useful for background, clinical context, surveillance or hypothesis generation.",
+      "relevance_score": 6,
+      "high_priority": false,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1016%2Fj.jaccas.2026.110450%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110450",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-11T22:49:57Z"
+    },
+    {
+      "id": "doi-10.1016/j.jaccas.2026.110763",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1016/j.jaccas.2026.110763",
+      "pii": "",
+      "title": "A Successful Fontan Completion for Asplenia Syndrome Complicated by a Hiatal Hernia",
+      "abstract": "",
+      "authors": [
+        "Hataoka Tsutomu",
+        "Yamamoto Yusuke",
+        "Okamura Toru"
+      ],
+      "journal": "JACC: Case Reports",
+      "journal_abbrev": "",
+      "published": "2026-11-01",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [
+        "lymphatic",
+        "pediatric"
+      ],
+      "topic_labels": [
+        "Lymphatic complications",
+        "Pediatric & transition"
+      ],
+      "research_links": [],
+      "research_teaser": "Relevant to the broader Fontan evidence base; no direct match to a prespecified SAFER-Fontan mechanistic axis was identified automatically.",
+      "research_detail": "This online-first publisher record concerns the Fontan circulation but did not trigger a direct automated match to the current SAFER-Fontan research axes. It may still be useful for background, clinical context, surveillance or hypothesis generation.",
+      "relevance_score": 6,
+      "high_priority": false,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1016%2Fj.jaccas.2026.110763%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110763",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-11T22:49:57Z"
+    },
+    {
+      "id": "doi-10.1016/j.jaccas.2026.110529",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1016/j.jaccas.2026.110529",
+      "pii": "",
+      "title": "Transvenous Atrial Pacing Via Extracardiac Conduit Fenestration of Fontan Patient With Situs Inversus Totalis",
+      "abstract": "",
+      "authors": [
+        "Nguyen Xuan Tuan",
+        "Nguyen Quoc Hung",
+        "Pham Nhu Hung",
+        "Le Van Nam",
+        "Nguyen Van Dan",
+        "Pham Van Tung",
+        "Nguyen The Nam Huy",
+        "Citra Ifan"
+      ],
+      "journal": "JACC: Case Reports",
+      "journal_abbrev": "",
+      "published": "2026-11-01",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [
+        "catheter-surgery",
+        "arrhythmia"
+      ],
+      "topic_labels": [
+        "Catheter & surgical interventions",
+        "Arrhythmia & pacing"
+      ],
+      "research_links": [],
+      "research_teaser": "Relevant to the broader Fontan evidence base; no direct match to a prespecified SAFER-Fontan mechanistic axis was identified automatically.",
+      "research_detail": "This online-first publisher record concerns the Fontan circulation but did not trigger a direct automated match to the current SAFER-Fontan research axes. It may still be useful for background, clinical context, surveillance or hypothesis generation.",
+      "relevance_score": 6,
+      "high_priority": false,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1016%2Fj.jaccas.2026.110529%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110529",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-11T22:49:57Z"
+    },
+    {
+      "id": "doi-10.1016/j.jaccas.2026.110216",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1016/j.jaccas.2026.110216",
+      "pii": "",
+      "title": "Imaging-Guided Ventricular Tachycardia Ablation in an Adult Patient With Fontan Circulation",
+      "abstract": "",
+      "authors": [
+        "Tarantini Roberto",
+        "Bosch Lena",
+        "van der Zwaan Heleen",
+        "Loh Peter",
+        "Kassenberg Wil",
+        "Fernandez Sergio Soria",
+        "Guglielmo Marco",
+        "Hendriks Astrid"
+      ],
+      "journal": "JACC: Case Reports",
+      "journal_abbrev": "",
+      "published": "2026-11-01",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [
+        "arrhythmia"
+      ],
+      "topic_labels": [
+        "Arrhythmia & pacing"
+      ],
+      "research_links": [],
+      "research_teaser": "Relevant to the broader Fontan evidence base; no direct match to a prespecified SAFER-Fontan mechanistic axis was identified automatically.",
+      "research_detail": "This online-first publisher record concerns the Fontan circulation but did not trigger a direct automated match to the current SAFER-Fontan research axes. It may still be useful for background, clinical context, surveillance or hypothesis generation.",
+      "relevance_score": 6,
+      "high_priority": false,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1016%2Fj.jaccas.2026.110216%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110216",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-11T22:49:57Z"
+    },
+    {
+      "id": "doi-10.1016/j.jaccas.2026.110657",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1016/j.jaccas.2026.110657",
+      "pii": "",
+      "title": "Challenges of Fontan Completion in Bilateral Bidirectional Glenn",
+      "abstract": "",
+      "authors": [
+        "Shah Imran",
+        "Natarajan Thangam",
+        "Iannucci Glen J.",
+        "John Mohan M.",
+        "Shashidharan Subhadra",
+        "Dasi Lakshmi P.",
+        "Slesnick Timothy C."
+      ],
+      "journal": "JACC: Case Reports",
+      "journal_abbrev": "",
+      "published": "2026-11-01",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [
+        "lymphatic",
+        "pediatric"
+      ],
+      "topic_labels": [
+        "Lymphatic complications",
+        "Pediatric & transition"
+      ],
+      "research_links": [],
+      "research_teaser": "Relevant to the broader Fontan evidence base; no direct match to a prespecified SAFER-Fontan mechanistic axis was identified automatically.",
+      "research_detail": "This online-first publisher record concerns the Fontan circulation but did not trigger a direct automated match to the current SAFER-Fontan research axes. It may still be useful for background, clinical context, surveillance or hypothesis generation.",
+      "relevance_score": 6,
+      "high_priority": false,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1016%2Fj.jaccas.2026.110657%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110657",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-11T22:49:57Z"
+    },
+    {
+      "id": "doi-10.1016/j.jaccas.2026.110190",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1016/j.jaccas.2026.110190",
+      "pii": "",
+      "title": "Recalibration of Invasive Hemodynamic Monitoring Devices on Serial Catheterization in Adults With Fontan Circulation",
+      "abstract": "",
+      "authors": [
+        "Freddo Andrew M.",
+        "Salavitabar Arash",
+        "Blais Benjamin",
+        "Armstrong Aimee K.",
+        "Daniels Curt J.",
+        "Marshall V William H."
+      ],
+      "journal": "JACC: Case Reports",
+      "journal_abbrev": "",
+      "published": "2026-11-01",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [
+        "hemodynamics"
+      ],
+      "topic_labels": [
+        "Hemodynamics & Fontan failure"
+      ],
+      "research_links": [],
+      "research_teaser": "Relevant to the broader Fontan evidence base; no direct match to a prespecified SAFER-Fontan mechanistic axis was identified automatically.",
+      "research_detail": "This online-first publisher record concerns the Fontan circulation but did not trigger a direct automated match to the current SAFER-Fontan research axes. It may still be useful for background, clinical context, surveillance or hypothesis generation.",
+      "relevance_score": 5,
+      "high_priority": false,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1016%2Fj.jaccas.2026.110190%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110190",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-11T22:49:57Z"
+    },
+    {
+      "id": "doi-10.1016/j.jaccas.2026.111150",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1016/j.jaccas.2026.111150",
+      "pii": "",
+      "title": "Refractory Lower Gastrointestinal Bleeding as an Unusual Manifestation of Fontan Failure",
+      "abstract": "",
+      "authors": [
+        "Pomiato Elettra",
+        "Mori Brenda",
+        "Avesani Martina",
+        "Cuppini Elena",
+        "Prati Francesco",
+        "Reffo Elena",
+        "Cerutti Alessia",
+        "Castaldi Biagio",
+        "Biffanti Roberta",
+        "Di Salvo Giovanni"
+      ],
+      "journal": "JACC: Case Reports",
+      "journal_abbrev": "",
+      "published": "2026-11-01",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [
+        "hemodynamics"
+      ],
+      "topic_labels": [
+        "Hemodynamics & Fontan failure"
+      ],
+      "research_links": [],
+      "research_teaser": "Relevant to the broader Fontan evidence base; no direct match to a prespecified SAFER-Fontan mechanistic axis was identified automatically.",
+      "research_detail": "This online-first publisher record concerns the Fontan circulation but did not trigger a direct automated match to the current SAFER-Fontan research axes. It may still be useful for background, clinical context, surveillance or hypothesis generation.",
+      "relevance_score": 5,
+      "high_priority": false,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1016%2Fj.jaccas.2026.111150%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.111150",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-11T22:49:57Z"
+    },
+    {
+      "id": "doi-10.1016/j.jaccas.2026.110569",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1016/j.jaccas.2026.110569",
+      "pii": "",
+      "title": "Mechanical Hemolysis After Fontan Fenestration Closure",
+      "abstract": "",
+      "authors": [
+        "Abed Mohammad",
+        "Fitzgerald Nicholas"
+      ],
+      "journal": "JACC: Case Reports",
+      "journal_abbrev": "",
+      "published": "2026-11-01",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [
+        "catheter-surgery"
+      ],
+      "topic_labels": [
+        "Catheter & surgical interventions"
+      ],
+      "research_links": [],
+      "research_teaser": "Relevant to the broader Fontan evidence base; no direct match to a prespecified SAFER-Fontan mechanistic axis was identified automatically.",
+      "research_detail": "This online-first publisher record concerns the Fontan circulation but did not trigger a direct automated match to the current SAFER-Fontan research axes. It may still be useful for background, clinical context, surveillance or hypothesis generation.",
+      "relevance_score": 3,
+      "high_priority": false,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1016%2Fj.jaccas.2026.110569%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110569",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-11T22:49:57Z"
+    },
+    {
+      "id": "doi-10.1016/j.jaccas.2026.109519",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1016/j.jaccas.2026.109519",
+      "pii": "",
+      "title": "Emergency Percutaneous Thromboembolectomy in an Adult With Fontan Circulation",
+      "abstract": "",
+      "authors": [
+        "Vignaud-Marighetto Paul",
+        "Karsenty Clément",
+        "Ly Reaksmei",
+        "Combes Nicolas"
+      ],
+      "journal": "JACC: Case Reports",
+      "journal_abbrev": "",
+      "published": "2026-11-01",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [
+        "thrombosis"
+      ],
+      "topic_labels": [
+        "Thrombosis & anticoagulation"
+      ],
+      "research_links": [],
+      "research_teaser": "Relevant to the broader Fontan evidence base; no direct match to a prespecified SAFER-Fontan mechanistic axis was identified automatically.",
+      "research_detail": "This online-first publisher record concerns the Fontan circulation but did not trigger a direct automated match to the current SAFER-Fontan research axes. It may still be useful for background, clinical context, surveillance or hypothesis generation.",
+      "relevance_score": 3,
+      "high_priority": false,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1016%2Fj.jaccas.2026.109519%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.109519",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-11T22:49:57Z"
+    },
+    {
+      "id": "doi-10.1016/j.jaccas.2026.109930",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1016/j.jaccas.2026.109930",
+      "pii": "",
+      "title": "Leadless Transatrial or Transconduit Pacing in Fontan Circulation",
+      "abstract": "",
+      "authors": [
+        "Duncan Rachel K.",
+        "Faluk Mohammed",
+        "Weingarten Angela J.",
+        "Frischhertz Benjamin P.",
+        "Kowal Jamie",
+        "El-Harasis Majd",
+        "Richardson Travis",
+        "Janssen Dana",
+        "Crossley George",
+        "Fish Frank"
+      ],
+      "journal": "JACC: Case Reports",
+      "journal_abbrev": "",
+      "published": "2026-11-01",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [
+        "arrhythmia"
+      ],
+      "topic_labels": [
+        "Arrhythmia & pacing"
+      ],
+      "research_links": [],
+      "research_teaser": "Relevant to the broader Fontan evidence base; no direct match to a prespecified SAFER-Fontan mechanistic axis was identified automatically.",
+      "research_detail": "This online-first publisher record concerns the Fontan circulation but did not trigger a direct automated match to the current SAFER-Fontan research axes. It may still be useful for background, clinical context, surveillance or hypothesis generation.",
+      "relevance_score": 3,
+      "high_priority": false,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1016%2Fj.jaccas.2026.109930%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.109930",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-11T22:49:57Z"
+    },
+    {
+      "id": "doi-10.1016/j.jaccas.2026.110630",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1016/j.jaccas.2026.110630",
+      "pii": "",
+      "title": "Transvenous Atrial Pacing Using Subclavian 3-Dimensional Electroanatomical Mapping in Lateral Tunnel Fontan With Sinus Arrest",
+      "abstract": "",
+      "authors": [
+        "John Kevin John",
+        "Quintero Eduardo",
+        "Thaler Christina",
+        "Lloyd Michael S."
+      ],
+      "journal": "JACC: Case Reports",
+      "journal_abbrev": "",
+      "published": "2026-11-01",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [
+        "arrhythmia"
+      ],
+      "topic_labels": [
+        "Arrhythmia & pacing"
+      ],
+      "research_links": [],
+      "research_teaser": "Relevant to the broader Fontan evidence base; no direct match to a prespecified SAFER-Fontan mechanistic axis was identified automatically.",
+      "research_detail": "This online-first publisher record concerns the Fontan circulation but did not trigger a direct automated match to the current SAFER-Fontan research axes. It may still be useful for background, clinical context, surveillance or hypothesis generation.",
+      "relevance_score": 3,
+      "high_priority": false,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1016%2Fj.jaccas.2026.110630%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110630",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-11T22:49:57Z"
+    },
+    {
+      "id": "doi-10.1016/j.jaccas.2026.110189",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1016/j.jaccas.2026.110189",
+      "pii": "",
+      "title": "Intravascular Lithotripsy to Facilitate Percutaneous Stenting of Obstructed Fontan Circuit",
+      "abstract": "",
+      "authors": [
+        "Puckett John Austin",
+        "Skelton Thomas",
+        "McMullan Michael",
+        "Campbell William"
+      ],
+      "journal": "JACC: Case Reports",
+      "journal_abbrev": "",
+      "published": "2026-11-01",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [
+        "catheter-surgery"
+      ],
+      "topic_labels": [
+        "Catheter & surgical interventions"
+      ],
+      "research_links": [],
+      "research_teaser": "Relevant to the broader Fontan evidence base; no direct match to a prespecified SAFER-Fontan mechanistic axis was identified automatically.",
+      "research_detail": "This online-first publisher record concerns the Fontan circulation but did not trigger a direct automated match to the current SAFER-Fontan research axes. It may still be useful for background, clinical context, surveillance or hypothesis generation.",
+      "relevance_score": 3,
+      "high_priority": false,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1016%2Fj.jaccas.2026.110189%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110189",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-11T22:49:57Z"
+    },
+    {
+      "id": "doi-10.1016/j.jaccas.2026.110858",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1016/j.jaccas.2026.110858",
+      "pii": "",
+      "title": "Transpulmonary Atrial Pacemaker Implantation in Fontan Circulation With Bilateral Glenn",
+      "abstract": "",
+      "authors": [
+        "Dávila Ruales Andrea",
+        "Ramírez Barrera Juan David",
+        "Agudelo Uribe Juan Fernando",
+        "Zapata Sánchez Margarita Maria",
+        "Ocampo Aristizábal Luz Adriana",
+        "Correa Velásquez Rafael"
+      ],
+      "journal": "JACC: Case Reports",
+      "journal_abbrev": "",
+      "published": "2026-11-01",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [
+        "arrhythmia"
+      ],
+      "topic_labels": [
+        "Arrhythmia & pacing"
+      ],
+      "research_links": [],
+      "research_teaser": "Relevant to the broader Fontan evidence base; no direct match to a prespecified SAFER-Fontan mechanistic axis was identified automatically.",
+      "research_detail": "This online-first publisher record concerns the Fontan circulation but did not trigger a direct automated match to the current SAFER-Fontan research axes. It may still be useful for background, clinical context, surveillance or hypothesis generation.",
+      "relevance_score": 3,
+      "high_priority": false,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1016%2Fj.jaccas.2026.110858%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110858",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-11T22:49:57Z"
+    },
+    {
+      "id": "doi-10.1016/j.jaccas.2026.110403",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1016/j.jaccas.2026.110403",
+      "pii": "",
+      "title": "An Acute Coronary Event in a Patient With Fontan Circulation During Pregnancy",
+      "abstract": "",
+      "authors": [
+        "Freddo Andrew M.",
+        "Ziadi Maria C.",
+        "Ruckdeschel Emily S.",
+        "Kim Yuli Y.",
+        "Partington Sara",
+        "Vaikunth Sumeet S."
+      ],
+      "journal": "JACC: Case Reports",
+      "journal_abbrev": "",
+      "published": "2026-11-01",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [
+        "pregnancy"
+      ],
+      "topic_labels": [
+        "Pregnancy & reproductive health"
+      ],
+      "research_links": [],
+      "research_teaser": "Relevant to the broader Fontan evidence base; no direct match to a prespecified SAFER-Fontan mechanistic axis was identified automatically.",
+      "research_detail": "This online-first publisher record concerns the Fontan circulation but did not trigger a direct automated match to the current SAFER-Fontan research axes. It may still be useful for background, clinical context, surveillance or hypothesis generation.",
+      "relevance_score": 2,
+      "high_priority": false,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1016%2Fj.jaccas.2026.110403%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110403",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-11T22:49:57Z"
     },
     {
       "id": "doi-10.1053/j.pcsu.2026.10.002",
@@ -3873,6 +5010,663 @@
       "retrieved_at": "2026-11-10T21:55:41Z"
     },
     {
+      "id": "doi-10.1016/j.jaccas.2026.110884",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1016/j.jaccas.2026.110884",
+      "pii": "",
+      "title": "Intravascular Lithotripsy in Calcific Fontan Conduit Stenosis",
+      "abstract": "",
+      "authors": [
+        "Pinsker Bret L.",
+        "Djomaleu Manuella",
+        "Wang David",
+        "Lin C. Huie"
+      ],
+      "journal": "JACC: Case Reports",
+      "journal_abbrev": "",
+      "published": "2026-11-01",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [],
+      "topic_labels": [],
+      "research_links": [],
+      "research_teaser": "Relevant to the broader Fontan evidence base; no direct match to a prespecified SAFER-Fontan mechanistic axis was identified automatically.",
+      "research_detail": "This online-first publisher record concerns the Fontan circulation but did not trigger a direct automated match to the current SAFER-Fontan research axes. It may still be useful for background, clinical context, surveillance or hypothesis generation.",
+      "relevance_score": 0,
+      "high_priority": false,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1016%2Fj.jaccas.2026.110884%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110884",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-11T22:49:57Z"
+    },
+    {
+      "id": "doi-10.1016/j.jaccas.2026.110836",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1016/j.jaccas.2026.110836",
+      "pii": "",
+      "title": "Catheter-Based Selective Pulmonary Artery Digital Subtraction Angiography and Microvascular Reserve Quantification in Fontan Patient",
+      "abstract": "",
+      "authors": [
+        "Juaneda Ignacio",
+        "Contreras Alejandro",
+        "Oyola Javier",
+        "Capdevila Maria S.",
+        "Juárez Franco",
+        "Peirone Alejandro",
+        "Kreutzer Christian",
+        "Tabares Aldo",
+        "Juaneda Ernesto"
+      ],
+      "journal": "JACC: Case Reports",
+      "journal_abbrev": "",
+      "published": "2026-11-01",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [],
+      "topic_labels": [],
+      "research_links": [],
+      "research_teaser": "Relevant to the broader Fontan evidence base; no direct match to a prespecified SAFER-Fontan mechanistic axis was identified automatically.",
+      "research_detail": "This online-first publisher record concerns the Fontan circulation but did not trigger a direct automated match to the current SAFER-Fontan research axes. It may still be useful for background, clinical context, surveillance or hypothesis generation.",
+      "relevance_score": 0,
+      "high_priority": false,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1016%2Fj.jaccas.2026.110836%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110836",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-11T22:49:57Z"
+    },
+    {
+      "id": "doi-10.1016/j.jaccas.2026.111148",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1016/j.jaccas.2026.111148",
+      "pii": "",
+      "title": "The Fontan Circulation",
+      "abstract": "",
+      "authors": [
+        "Moe Tabitha G."
+      ],
+      "journal": "JACC: Case Reports",
+      "journal_abbrev": "",
+      "published": "2026-11-01",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [],
+      "topic_labels": [],
+      "research_links": [],
+      "research_teaser": "Relevant to the broader Fontan evidence base; no direct match to a prespecified SAFER-Fontan mechanistic axis was identified automatically.",
+      "research_detail": "This online-first publisher record concerns the Fontan circulation but did not trigger a direct automated match to the current SAFER-Fontan research axes. It may still be useful for background, clinical context, surveillance or hypothesis generation.",
+      "relevance_score": 0,
+      "high_priority": false,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1016%2Fj.jaccas.2026.111148%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.111148",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-11T22:49:57Z"
+    },
+    {
+      "id": "doi-10.1016/j.jaccas.2026.111088",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1016/j.jaccas.2026.111088",
+      "pii": "",
+      "title": "Hemoptysis After Fontan Palliation",
+      "abstract": "",
+      "authors": [
+        "Oribe Rodrigo Javier",
+        "Marengo Abelardo Ariel",
+        "Pasinato Carla",
+        "Mouratian Diana Mariela",
+        "Lafuente María Victoria"
+      ],
+      "journal": "JACC: Case Reports",
+      "journal_abbrev": "",
+      "published": "2026-11-01",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [],
+      "topic_labels": [],
+      "research_links": [],
+      "research_teaser": "Relevant to the broader Fontan evidence base; no direct match to a prespecified SAFER-Fontan mechanistic axis was identified automatically.",
+      "research_detail": "This online-first publisher record concerns the Fontan circulation but did not trigger a direct automated match to the current SAFER-Fontan research axes. It may still be useful for background, clinical context, surveillance or hypothesis generation.",
+      "relevance_score": 0,
+      "high_priority": false,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1016%2Fj.jaccas.2026.111088%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.111088",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-11T22:49:57Z"
+    },
+    {
+      "id": "doi-10.1016/j.jaccas.2026.110669",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1016/j.jaccas.2026.110669",
+      "pii": "",
+      "title": "Recurrent Prosthetic Valve Endocarditis With Aortic Root Abscess in Fontan Circulation",
+      "abstract": "",
+      "authors": [
+        "Wahba Ahmed",
+        "Said Sameh M."
+      ],
+      "journal": "JACC: Case Reports",
+      "journal_abbrev": "",
+      "published": "2026-11-01",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [],
+      "topic_labels": [],
+      "research_links": [],
+      "research_teaser": "Relevant to the broader Fontan evidence base; no direct match to a prespecified SAFER-Fontan mechanistic axis was identified automatically.",
+      "research_detail": "This online-first publisher record concerns the Fontan circulation but did not trigger a direct automated match to the current SAFER-Fontan research axes. It may still be useful for background, clinical context, surveillance or hypothesis generation.",
+      "relevance_score": 0,
+      "high_priority": false,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1016%2Fj.jaccas.2026.110669%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110669",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-11T22:49:57Z"
+    },
+    {
+      "id": "doi-10.1016/j.jaccas.2026.110215",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1016/j.jaccas.2026.110215",
+      "pii": "",
+      "title": "Spontaneous Closure of Pulmonary Arteriovenous Fistulas After a Modified Fontan Surgery",
+      "abstract": "",
+      "authors": [
+        "Lv Rui",
+        "Dong Aijiao",
+        "Lin Xiaona",
+        "Jing Xibo",
+        "Zhang Xuping",
+        "Tian Chenze",
+        "Wei Zhenglun Alan",
+        "Qiao Bin"
+      ],
+      "journal": "JACC: Case Reports",
+      "journal_abbrev": "",
+      "published": "2026-11-01",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [],
+      "topic_labels": [],
+      "research_links": [],
+      "research_teaser": "Relevant to the broader Fontan evidence base; no direct match to a prespecified SAFER-Fontan mechanistic axis was identified automatically.",
+      "research_detail": "This online-first publisher record concerns the Fontan circulation but did not trigger a direct automated match to the current SAFER-Fontan research axes. It may still be useful for background, clinical context, surveillance or hypothesis generation.",
+      "relevance_score": 0,
+      "high_priority": false,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1016%2Fj.jaccas.2026.110215%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110215",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-11T22:49:57Z"
+    },
+    {
+      "id": "doi-10.1016/j.jaccas.2026.110837",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1016/j.jaccas.2026.110837",
+      "pii": "",
+      "title": "Junctional Rhythm and Atrial Ectopy Presenting as Chronic Abdominal Pain in Fontan Circulation",
+      "abstract": "",
+      "authors": [
+        "Campens Laurence",
+        "Schmidt Michael Rahbek",
+        "Jøns Christian"
+      ],
+      "journal": "JACC: Case Reports",
+      "journal_abbrev": "",
+      "published": "2026-11-01",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [],
+      "topic_labels": [],
+      "research_links": [],
+      "research_teaser": "Relevant to the broader Fontan evidence base; no direct match to a prespecified SAFER-Fontan mechanistic axis was identified automatically.",
+      "research_detail": "This online-first publisher record concerns the Fontan circulation but did not trigger a direct automated match to the current SAFER-Fontan research axes. It may still be useful for background, clinical context, surveillance or hypothesis generation.",
+      "relevance_score": 0,
+      "high_priority": false,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1016%2Fj.jaccas.2026.110837%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110837",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-11T22:49:57Z"
+    },
+    {
+      "id": "doi-10.1016/j.jaccas.2026.110667",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1016/j.jaccas.2026.110667",
+      "pii": "",
+      "title": "Massive Right Atrial Thrombus After Fontan Palliation Due to Inadequate Atrial Decompression",
+      "abstract": "",
+      "authors": [
+        "Jain Megha",
+        "Johnson Jason N.",
+        "Parkerson Sarah",
+        "Reiss Ulrike M.",
+        "Merlocco Anthony",
+        "Ryan Kaitlin",
+        "Philip Ranjit"
+      ],
+      "journal": "JACC: Case Reports",
+      "journal_abbrev": "",
+      "published": "2026-11-01",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [],
+      "topic_labels": [],
+      "research_links": [],
+      "research_teaser": "Relevant to the broader Fontan evidence base; no direct match to a prespecified SAFER-Fontan mechanistic axis was identified automatically.",
+      "research_detail": "This online-first publisher record concerns the Fontan circulation but did not trigger a direct automated match to the current SAFER-Fontan research axes. It may still be useful for background, clinical context, surveillance or hypothesis generation.",
+      "relevance_score": 0,
+      "high_priority": false,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1016%2Fj.jaccas.2026.110667%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110667",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-11T22:49:57Z"
+    },
+    {
+      "id": "doi-10.1016/j.jaccas.2026.110847",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1016/j.jaccas.2026.110847",
+      "pii": "",
+      "title": "Fontan Baffle Failure Signaled by Neurologic Events and Worsening Cyanosis",
+      "abstract": "",
+      "authors": [
+        "Bianco Carlo",
+        "Abis Alessandra",
+        "Borzillo Irene",
+        "Micheletti Angelo",
+        "Torchio Federica",
+        "Varrica Alessandro",
+        "D'Aiello Fabio",
+        "Giamberti Alessandro",
+        "Chessa Massimo"
+      ],
+      "journal": "JACC: Case Reports",
+      "journal_abbrev": "",
+      "published": "2026-11-01",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [],
+      "topic_labels": [],
+      "research_links": [],
+      "research_teaser": "Relevant to the broader Fontan evidence base; no direct match to a prespecified SAFER-Fontan mechanistic axis was identified automatically.",
+      "research_detail": "This online-first publisher record concerns the Fontan circulation but did not trigger a direct automated match to the current SAFER-Fontan research axes. It may still be useful for background, clinical context, surveillance or hypothesis generation.",
+      "relevance_score": 0,
+      "high_priority": false,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1016%2Fj.jaccas.2026.110847%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110847",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-11T22:49:57Z"
+    },
+    {
+      "id": "doi-10.1016/j.jaccas.2026.110527",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1016/j.jaccas.2026.110527",
+      "pii": "",
+      "title": "Ascending Aorta Dilation in the Fontan",
+      "abstract": "",
+      "authors": [
+        "Herron Christopher",
+        "Hsia T.-Y.",
+        "Briston David"
+      ],
+      "journal": "JACC: Case Reports",
+      "journal_abbrev": "",
+      "published": "2026-11-01",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [],
+      "topic_labels": [],
+      "research_links": [],
+      "research_teaser": "Relevant to the broader Fontan evidence base; no direct match to a prespecified SAFER-Fontan mechanistic axis was identified automatically.",
+      "research_detail": "This online-first publisher record concerns the Fontan circulation but did not trigger a direct automated match to the current SAFER-Fontan research axes. It may still be useful for background, clinical context, surveillance or hypothesis generation.",
+      "relevance_score": 0,
+      "high_priority": false,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1016%2Fj.jaccas.2026.110527%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110527",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-11T22:49:57Z"
+    },
+    {
+      "id": "doi-10.1016/j.jaccas.2026.109884",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1016/j.jaccas.2026.109884",
+      "pii": "",
+      "title": "Percutaneous Thrombectomy in the Aging Fontan Patient",
+      "abstract": "",
+      "authors": [
+        "Golino Michele",
+        "Marchetta Michele",
+        "Moroni Francesco"
+      ],
+      "journal": "JACC: Case Reports",
+      "journal_abbrev": "",
+      "published": "2026-11-01",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [],
+      "topic_labels": [],
+      "research_links": [],
+      "research_teaser": "Relevant to the broader Fontan evidence base; no direct match to a prespecified SAFER-Fontan mechanistic axis was identified automatically.",
+      "research_detail": "This online-first publisher record concerns the Fontan circulation but did not trigger a direct automated match to the current SAFER-Fontan research axes. It may still be useful for background, clinical context, surveillance or hypothesis generation.",
+      "relevance_score": 0,
+      "high_priority": false,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1016%2Fj.jaccas.2026.109884%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.109884",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-11T22:49:57Z"
+    },
+    {
+      "id": "doi-10.1016/j.jaccas.2026.110658",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1016/j.jaccas.2026.110658",
+      "pii": "",
+      "title": "Junctional Rhythm Associated With Multilevel Flow Reversal in a Well-Functioning Fontan Detected by 4-Dimensional Flow",
+      "abstract": "",
+      "authors": [
+        "Erdem Sukran",
+        "Siddiqui Shaffin",
+        "Gunda Rithvik",
+        "Thai Lauren",
+        "Greil Franz Gerald",
+        "Reddy Surendranath Veeram",
+        "Bano Maria",
+        "Zou Qing",
+        "Hussain Tarique",
+        "Alsaied Tarek"
+      ],
+      "journal": "JACC: Case Reports",
+      "journal_abbrev": "",
+      "published": "2026-11-01",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [],
+      "topic_labels": [],
+      "research_links": [],
+      "research_teaser": "Relevant to the broader Fontan evidence base; no direct match to a prespecified SAFER-Fontan mechanistic axis was identified automatically.",
+      "research_detail": "This online-first publisher record concerns the Fontan circulation but did not trigger a direct automated match to the current SAFER-Fontan research axes. It may still be useful for background, clinical context, surveillance or hypothesis generation.",
+      "relevance_score": 0,
+      "high_priority": false,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1016%2Fj.jaccas.2026.110658%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110658",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-11T22:49:57Z"
+    },
+    {
+      "id": "doi-10.1016/j.jaccas.2026.110734",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1016/j.jaccas.2026.110734",
+      "pii": "",
+      "title": "Lower-Extremity Chronic Venous Disease Interventions in Patients with Fontan",
+      "abstract": "",
+      "authors": [
+        "Faluk Mohammed",
+        "Duncan Rachel",
+        "Weingarten Angela",
+        "Frischhertz Benjamin",
+        "Byrne Ryan D.",
+        "Aday Aaron W.",
+        "Stokes LeAnn"
+      ],
+      "journal": "JACC: Case Reports",
+      "journal_abbrev": "",
+      "published": "2026-11-01",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [],
+      "topic_labels": [],
+      "research_links": [],
+      "research_teaser": "Relevant to the broader Fontan evidence base; no direct match to a prespecified SAFER-Fontan mechanistic axis was identified automatically.",
+      "research_detail": "This online-first publisher record concerns the Fontan circulation but did not trigger a direct automated match to the current SAFER-Fontan research axes. It may still be useful for background, clinical context, surveillance or hypothesis generation.",
+      "relevance_score": 0,
+      "high_priority": false,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1016%2Fj.jaccas.2026.110734%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110734",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-11T22:49:57Z"
+    },
+    {
+      "id": "doi-10.1016/j.jaccas.2026.110523",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1016/j.jaccas.2026.110523",
+      "pii": "",
+      "title": "Transvenous Coil Implant in a Patient With Lateral Tunnel Fontan",
+      "abstract": "",
+      "authors": [
+        "Fuentes Rojas Stephanie C.",
+        "Rothstein Peter A.",
+        "Chao Min-Fang",
+        "Duarte Valeria E.",
+        "Monteiro Gary A.",
+        "Lin C. Huie",
+        "Dave Amish S."
+      ],
+      "journal": "JACC: Case Reports",
+      "journal_abbrev": "",
+      "published": "2026-11-01",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [],
+      "topic_labels": [],
+      "research_links": [],
+      "research_teaser": "Relevant to the broader Fontan evidence base; no direct match to a prespecified SAFER-Fontan mechanistic axis was identified automatically.",
+      "research_detail": "This online-first publisher record concerns the Fontan circulation but did not trigger a direct automated match to the current SAFER-Fontan research axes. It may still be useful for background, clinical context, surveillance or hypothesis generation.",
+      "relevance_score": 0,
+      "high_priority": false,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1016%2Fj.jaccas.2026.110523%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110523",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-11T22:49:57Z"
+    },
+    {
+      "id": "doi-10.1016/j.jaccas.2026.110755",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1016/j.jaccas.2026.110755",
+      "pii": "",
+      "title": "Successful Repair of Giant Aortic Aneurysm With Severe Aortic Regurgitation in Fontan Patient",
+      "abstract": "",
+      "authors": [
+        "Mitropoulos Fotios",
+        "Zioga Aikaterini",
+        "Vlahos Antonios",
+        "Pappas Konstantinos",
+        "Apostolidis Christos",
+        "Tzifa Aphrodite"
+      ],
+      "journal": "JACC: Case Reports",
+      "journal_abbrev": "",
+      "published": "2026-11-01",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [],
+      "topic_labels": [],
+      "research_links": [],
+      "research_teaser": "Relevant to the broader Fontan evidence base; no direct match to a prespecified SAFER-Fontan mechanistic axis was identified automatically.",
+      "research_detail": "This online-first publisher record concerns the Fontan circulation but did not trigger a direct automated match to the current SAFER-Fontan research axes. It may still be useful for background, clinical context, surveillance or hypothesis generation.",
+      "relevance_score": 0,
+      "high_priority": false,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1016%2Fj.jaccas.2026.110755%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110755",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-11T22:49:57Z"
+    },
+    {
+      "id": "doi-10.1016/j.jaccas.2026.110997",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1016/j.jaccas.2026.110997",
+      "pii": "",
+      "title": "Novel Transvenous Approach for Implantable Cardioverter-Defibrillator Implantation in a Patient With Fontan Circulation",
+      "abstract": "",
+      "authors": [
+        "Karolcik Brock A.",
+        "Kherallah Riyad Yazan",
+        "Boyd Chelsea A.",
+        "Tucker Sarah E.",
+        "Ermis Peter R.",
+        "Lam Wilson W."
+      ],
+      "journal": "JACC: Case Reports",
+      "journal_abbrev": "",
+      "published": "2026-11-01",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [],
+      "topic_labels": [],
+      "research_links": [],
+      "research_teaser": "Relevant to the broader Fontan evidence base; no direct match to a prespecified SAFER-Fontan mechanistic axis was identified automatically.",
+      "research_detail": "This online-first publisher record concerns the Fontan circulation but did not trigger a direct automated match to the current SAFER-Fontan research axes. It may still be useful for background, clinical context, surveillance or hypothesis generation.",
+      "relevance_score": 0,
+      "high_priority": false,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1016%2Fj.jaccas.2026.110997%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110997",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-11T22:49:57Z"
+    },
+    {
+      "id": "doi-10.1016/j.jaccas.2026.111012",
+      "source": "Crossref early metadata",
+      "source_coverage": [
+        "Crossref"
+      ],
+      "pmid": "",
+      "pmcid": "",
+      "doi": "10.1016/j.jaccas.2026.111012",
+      "pii": "",
+      "title": "Spontaneous Coronary Artery Dissection of an Anomalous LAD in an Adult With Fontan Palliation",
+      "abstract": "",
+      "authors": [
+        "Scandinaro Anna L.",
+        "Wang Libo",
+        "Huber Matthew",
+        "Rosado Melanie",
+        "Smith Brigham",
+        "Cox Daniel"
+      ],
+      "journal": "JACC: Case Reports",
+      "journal_abbrev": "",
+      "published": "2026-11-01",
+      "year": 2026,
+      "publication_types": [],
+      "article_type": "Other",
+      "topics": [],
+      "topic_labels": [],
+      "research_links": [],
+      "research_teaser": "Relevant to the broader Fontan evidence base; no direct match to a prespecified SAFER-Fontan mechanistic axis was identified automatically.",
+      "research_detail": "This online-first publisher record concerns the Fontan circulation but did not trigger a direct automated match to the current SAFER-Fontan research axes. It may still be useful for background, clinical context, surveillance or hypothesis generation.",
+      "relevance_score": 0,
+      "high_priority": false,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%2210.1016%2Fj.jaccas.2026.111012%22%5BAID%5D",
+      "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.111012",
+      "full_text_url": "",
+      "has_full_text": false,
+      "retrieved_at": "2026-11-11T22:49:57Z"
+    },
+    {
       "id": "pmid-42983660",
       "source": "PubMed",
       "pmid": "42983660",
@@ -3922,7 +5716,7 @@
       "publisher_url": "https://doi.org/10.1186/s10020-026-01686-z",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13737843/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-11T11:55:06Z"
+      "retrieved_at": "2026-11-11T22:44:39Z"
     },
     {
       "id": "pmid-42960863",
@@ -3994,7 +5788,7 @@
       "publisher_url": "https://doi.org/10.1093/icvts/ivag293",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -4090,7 +5884,7 @@
       "publisher_url": "https://doi.org/10.1007/s00247-026-06824-7",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -4146,7 +5940,7 @@
       "publisher_url": "https://doi.org/10.1007/s00246-026-04514-7",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -4188,7 +5982,7 @@
       "publisher_url": "https://doi.org/10.1093/ehjqcco/qcag158",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -4371,7 +6165,7 @@
       "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/42964001/",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -4644,7 +6438,7 @@
       "publisher_url": "https://doi.org/10.1007/s00246-026-04532-5",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z"
+      "retrieved_at": "2026-11-11T22:44:39Z"
     },
     {
       "id": "doi-10.3390/diagnostics16213512",
@@ -4738,6 +6532,82 @@
       "full_text_url": "",
       "has_full_text": false,
       "retrieved_at": "2026-10-27T15:54:26Z"
+    },
+    {
+      "id": "pmid-43011279",
+      "source": "PubMed",
+      "pmid": "43011279",
+      "pmcid": "PMC13748961",
+      "doi": "10.3389/frtra.2026.1999444",
+      "pii": "",
+      "title": "Clinical and ethical considerations for pediatric cardiac xenotransplantation candidates.",
+      "abstract": "Children with complex congenital heart disease face substantial mortality and morbidity, while access to heart transplantation remains constrained by donor scarcity. Limited mechanical circulatory support options further complicate bridging to transplantation, particularly in small infants. Cardiac xenotransplantation could provide a source of size-appropriate grafts, but its potential benefit depends upon many patient factors. This review examines clinical outcomes, pediatric preclinical evidence, and ethical considerations relevant to candidate selection, with particular attention to the single-ventricle pathway. Gene-edited porcine hearts have supported pediatric-sized nonhuman primates for months, with survival beyond 24 months in one recipient and a proof-of-concept transition to allotransplantation. Initial use as a bridge to allotransplantation may be most defensible in selected children with a poor prognosis under available palliation or mechanical support who could benefit from transplantation. Partial-heart xenotransplantation offers a separate potential application for living valve replacement. Ethical evaluation must address parental permission, the child's developing autonomy, and lifelong infection surveillance. Clinical translation requires evidence and safeguards matched to the proposed recipient population and a credible plan for subsequent treatment if xenograft function fails.",
+      "authors": [
+        "Contorno E",
+        "Takemoto S",
+        "Javed H",
+        "Sreenivasan S",
+        "Kim S",
+        "Schmitz M",
+        "Rajab T"
+      ],
+      "journal": "Frontiers in transplantation",
+      "journal_abbrev": "Front Transplant",
+      "published": "2026-10-27",
+      "year": 2026,
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "article_type": "Review",
+      "topics": [
+        "transplant",
+        "echocardiography",
+        "lymphatic",
+        "risk-outcomes",
+        "pediatric"
+      ],
+      "topic_labels": [
+        "Transplant & advanced failure",
+        "Echocardiography & strain",
+        "Lymphatic complications",
+        "Risk stratification & outcomes",
+        "Pediatric & transition"
+      ],
+      "research_links": [
+        {
+          "id": "clinical-outcomes",
+          "label": "Clinical worsening & patient-reported outcomes",
+          "priority": 4,
+          "score": 8,
+          "matched_terms": [
+            "transplant",
+            "mortality"
+          ],
+          "teaser": "Helps connect mechanistic changes in SAFER-Fontan to outcomes that matter clinically: worsening events, symptoms, function and quality of life.",
+          "detail": "SAFER-Fontan includes clinical worsening events and patient-reported outcomes alongside deep physiological phenotyping. Outcome studies are therefore useful for deciding which mechanistic changes are likely to be clinically meaningful and for placing trial participants within the broader risk spectrum of adults with a Fontan circulation."
+        },
+        {
+          "id": "imaging-validation",
+          "label": "Imaging & measurement validation",
+          "priority": 4,
+          "score": 4,
+          "matched_terms": [
+            "strain"
+          ],
+          "teaser": "Relevant to the trial's multimodality validation work, where invasive/minimally invasive hemodynamics are compared with CMR and echocardiographic measures.",
+          "detail": "SAFER-Fontan deliberately pairs invasive and minimally invasive pressure measurements with CMR, echocardiography and other non-invasive markers. Methodological papers on imaging, reproducibility or validation can therefore influence acquisition choices, endpoint robustness and the eventual translation of gold-standard research measurements into routine clinical follow-up."
+        }
+      ],
+      "research_teaser": "Helps connect mechanistic changes in SAFER-Fontan to outcomes that matter clinically: worsening events, symptoms, function and quality of life.",
+      "research_detail": "SAFER-Fontan includes clinical worsening events and patient-reported outcomes alongside deep physiological phenotyping. Outcome studies are therefore useful for deciding which mechanistic changes are likely to be clinically meaningful and for placing trial participants within the broader risk spectrum of adults with a Fontan circulation.\n\nSAFER-Fontan deliberately pairs invasive and minimally invasive pressure measurements with CMR, echocardiography and other non-invasive markers. Methodological papers on imaging, reproducibility or validation can therefore influence acquisition choices, endpoint robustness and the eventual translation of gold-standard research measurements into routine clinical follow-up.",
+      "relevance_score": 53,
+      "high_priority": true,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43011279/",
+      "publisher_url": "https://doi.org/10.3389/frtra.2026.1999444",
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13748961/",
+      "has_full_text": true,
+      "retrieved_at": "2026-11-11T22:44:39Z"
     },
     {
       "id": "doi-10.1093/eurheartj/ehag785.2486",
@@ -5566,7 +7436,7 @@
       "publisher_url": "https://doi.org/10.1016/j.healun.2026.10.014",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -5787,7 +7657,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jpeds.2026.115379",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -5880,7 +7750,7 @@
       "publisher_url": "https://doi.org/10.1007/s00261-026-05835-0",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -6191,7 +8061,7 @@
       "publisher_url": "https://doi.org/10.7759/cureus.118383",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13690063/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -6283,7 +8153,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jchf.2026.103433",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -6385,7 +8255,7 @@
       "publisher_url": "https://doi.org/10.3389/fcvm.2026.1937933",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13732767/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -6590,7 +8460,7 @@
       "publisher_url": "https://doi.org/10.1016/j.healun.2026.10.010",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -6656,7 +8526,7 @@
       "publisher_url": "https://doi.org/10.1016/j.thromres.2026.109893",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -6889,7 +8759,7 @@
       "publisher_url": "https://doi.org/10.1007/s00246-026-04513-8",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -7136,7 +9006,7 @@
       "publisher_url": "https://doi.org/10.1177/21501351261491199",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -7232,7 +9102,7 @@
       "publisher_url": "https://doi.org/10.1017/S1047951126124457",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -7449,7 +9319,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jtcvs.2026.09.005",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -7545,12 +9415,98 @@
       "publisher_url": "https://doi.org/10.1007/s00246-026-04508-5",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
         "PubMed"
       ]
+    },
+    {
+      "id": "pmid-43010985",
+      "source": "PubMed",
+      "pmid": "43010985",
+      "pmcid": "PMC13747981",
+      "doi": "10.1253/circrep.CR-26-0064",
+      "pii": "",
+      "title": "Postoperative Mortality and Risk Factors in Adults With Congenital Heart Disease Undergoing Cardiovascular Surgery: Insights From the Japanese Registry Data.",
+      "abstract": "Background: Patients with adult congenital heart disease (ACHD) are prone to complications and usually require surgical intervention, but the surgical risk factors remain poorly defined. Methods And Results: We analyzed data from April 2013 to March 2023 in the nationwide Japanese Registry of All Cardiac and Vascular Disease-Diagnostic Procedure Combination (JROAD-DPC) to assess postoperative cardiac death and its predictors. This study included ACHD patients aged ≥18 years who underwent cardiovascular surgery, and the primary outcome was in-hospital death. A total of 10,535 patients (median age 53 [interquartile range 36-68] years; 50.4% female) were classified into mild (n=6,831), moderate (n=2,388), and severe (n=1,316) complexity groups. Among the 146 in-hospital deaths (1.4%), the highest mortality rate was observed in patients with severe complexity (2.4%). Multivariable analysis showed that age (hazard ratio [HR] 1.15), severe complexity (HR 1.77), renal disease (HR 1.74), pulmonary hypertension requiring medications (HR 2.01), chromosome abnormality (HR 6.22), and high-risk surgery (Fontan surgery or coronary artery bypass grafting) (HR 1.67) were significantly associated with increased in-hospital deaths. Subgroup analyses showed that age, renal disease, and high-risk surgery were prognostic factors in the mild group. Age was not significant in the moderate or severe groups. Conclusions: The in-hospital mortality rate after cardiovascular surgery in ACHD was low overall but increased with disease complexity, supporting the need for disease complexity-based, individualized risk assessments in surgical planning.",
+      "authors": [
+        "Osawa T",
+        "Machino-Ohtsuka T",
+        "Kume K",
+        "Yano T",
+        "Saji M",
+        "Kanaoka K",
+        "Sumita Y",
+        "Yano Y",
+        "Numata R",
+        "Kawamatsu N",
+        "Kuraoka A",
+        "Kato H",
+        "Hiramatsu Y",
+        "Ishizu T"
+      ],
+      "journal": "Circulation reports",
+      "journal_abbrev": "Circ Rep",
+      "published": "2026-10-10",
+      "year": 2026,
+      "publication_types": [
+        "Journal Article"
+      ],
+      "article_type": "Original research",
+      "topics": [
+        "catheter-surgery",
+        "transplant",
+        "renal",
+        "lymphatic",
+        "risk-outcomes",
+        "registries",
+        "methods"
+      ],
+      "topic_labels": [
+        "Catheter & surgical interventions",
+        "Transplant & advanced failure",
+        "Kidney & renal function",
+        "Lymphatic complications",
+        "Risk stratification & outcomes",
+        "Registries & epidemiology",
+        "Methods, reference ranges & measurement"
+      ],
+      "research_links": [
+        {
+          "id": "clinical-outcomes",
+          "label": "Clinical worsening & patient-reported outcomes",
+          "priority": 4,
+          "score": 8,
+          "matched_terms": [
+            "death",
+            "mortality"
+          ],
+          "teaser": "Helps connect mechanistic changes in SAFER-Fontan to outcomes that matter clinically: worsening events, symptoms, function and quality of life.",
+          "detail": "SAFER-Fontan includes clinical worsening events and patient-reported outcomes alongside deep physiological phenotyping. Outcome studies are therefore useful for deciding which mechanistic changes are likely to be clinically meaningful and for placing trial participants within the broader risk spectrum of adults with a Fontan circulation."
+        },
+        {
+          "id": "renal",
+          "label": "Renal effects & safety",
+          "priority": 4,
+          "score": 4,
+          "matched_terms": [
+            "renal"
+          ],
+          "teaser": "Relevant to renal efficacy and safety monitoring in SAFER-Fontan, including eGFR, albuminuria, creatinine, cystatin C and potassium.",
+          "detail": "Renal function is both an extracardiac outcome and an important safety domain in SAFER-Fontan. Studies on renal dysfunction, albuminuria, potassium or volume-sensitive kidney responses can help interpret the balance between decongestion, renal hemodynamics and treatment safety under spironolactone plus dapagliflozin."
+        }
+      ],
+      "research_teaser": "Helps connect mechanistic changes in SAFER-Fontan to outcomes that matter clinically: worsening events, symptoms, function and quality of life.",
+      "research_detail": "SAFER-Fontan includes clinical worsening events and patient-reported outcomes alongside deep physiological phenotyping. Outcome studies are therefore useful for deciding which mechanistic changes are likely to be clinically meaningful and for placing trial participants within the broader risk spectrum of adults with a Fontan circulation.\n\nRenal function is both an extracardiac outcome and an important safety domain in SAFER-Fontan. Studies on renal dysfunction, albuminuria, potassium or volume-sensitive kidney responses can help interpret the balance between decongestion, renal hemodynamics and treatment safety under spironolactone plus dapagliflozin.",
+      "relevance_score": 65,
+      "high_priority": true,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43010985/",
+      "publisher_url": "https://doi.org/10.1253/circrep.CR-26-0064",
+      "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13747981/",
+      "has_full_text": true,
+      "retrieved_at": "2026-11-11T22:44:39Z"
     },
     {
       "id": "doi-10.1186/s13019-026-04700-x",
@@ -7677,7 +9633,7 @@
       "publisher_url": "https://doi.org/10.1016/j.ejrad.2026.113293",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -7732,7 +9688,7 @@
       "publisher_url": "https://doi.org/10.1159/neo/adsag015",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z"
+      "retrieved_at": "2026-11-11T22:44:39Z"
     },
     {
       "id": "doi-10.1093/ehjcr/ytag733",
@@ -7886,7 +9842,7 @@
       "publisher_url": "https://doi.org/10.1093/ehjcr/ytag733",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13696955/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -7950,7 +9906,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110571",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -8094,7 +10050,7 @@
       "publisher_url": "https://doi.org/10.7759/cureus.117526",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13735390/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -8156,7 +10112,7 @@
       "publisher_url": "https://doi.org/10.1016/j.athoracsur.2026.09.038",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -8224,7 +10180,7 @@
       "publisher_url": "https://doi.org/10.1016/j.ijcchd.2026.100719",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13717882/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -8427,7 +10383,7 @@
       "publisher_url": "https://doi.org/10.1111/micc.70092",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -9368,7 +11324,7 @@
       "publisher_url": "https://pubmed.ncbi.nlm.nih.gov/42987930/",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z"
+      "retrieved_at": "2026-11-11T22:44:39Z"
     },
     {
       "id": "doi-10.1016/j.cjca.2026.07.279",
@@ -9632,7 +11588,7 @@
       "publisher_url": "https://doi.org/10.1177/21501351261484590",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -9698,7 +11654,7 @@
       "publisher_url": "https://doi.org/10.1017/S1047951126123579",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -9799,7 +11755,7 @@
       "publisher_url": "https://doi.org/10.1097/CRD.0000000000001483",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z"
+      "retrieved_at": "2026-11-11T22:44:39Z"
     },
     {
       "id": "pmid-42808974",
@@ -9859,7 +11815,7 @@
       "publisher_url": "https://doi.org/10.1177/21501351261477042",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -9923,7 +11879,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jcin.2026.05.040",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z"
+      "retrieved_at": "2026-11-11T22:44:39Z"
     },
     {
       "id": "pmid-42804567",
@@ -9971,7 +11927,7 @@
       "publisher_url": "https://doi.org/10.1161/CIRCULATIONAHA.126.081221",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13621794/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -10018,7 +11974,7 @@
       "publisher_url": "https://doi.org/10.1161/CIRCULATIONAHA.126.080139",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -10063,7 +12019,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jacc.2026.08.019",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z"
+      "retrieved_at": "2026-11-11T22:44:39Z"
     },
     {
       "id": "pmid-42960030",
@@ -10108,7 +12064,7 @@
       "publisher_url": "https://doi.org/10.1016/j.ijcchd.2026.100716",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13717887/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -10233,7 +12189,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110541",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -10315,7 +12271,7 @@
       "publisher_url": "https://doi.org/10.47487/apcyccv.v7i3.613",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13738446/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-11T11:55:06Z"
+      "retrieved_at": "2026-11-11T22:44:39Z"
     },
     {
       "id": "pmid-42991724",
@@ -10375,7 +12331,7 @@
       "publisher_url": "https://doi.org/10.47487/apcyccv.v7i3.607",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13738454/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-11T11:55:06Z"
+      "retrieved_at": "2026-11-11T22:44:39Z"
     },
     {
       "id": "doi-10.1186/s13741-026-00746-6",
@@ -10518,7 +12474,7 @@
       "publisher_url": "https://doi.org/10.1053/j.jvca.2026.09.044",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -10599,7 +12555,7 @@
       "publisher_url": "https://doi.org/10.1152/ajpheart.00411.2026",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -10805,7 +12761,7 @@
       "publisher_url": "https://doi.org/10.1017/S1047951126123646",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -10934,7 +12890,7 @@
       "publisher_url": "https://doi.org/10.1007/s00246-026-04483-x",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -11233,7 +13189,7 @@
       "publisher_url": "https://doi.org/10.1007/s00246-026-04447-1",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -11370,7 +13326,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110350",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -11447,7 +13403,7 @@
       "publisher_url": "https://doi.org/10.1007/s40119-026-00477-1",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -11518,7 +13474,7 @@
       "publisher_url": "https://doi.org/10.1111/jgh.70755",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Crossref",
         "Europe PMC",
@@ -11603,7 +13559,7 @@
       "publisher_url": "https://doi.org/10.1177/21501351261477046",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -11675,7 +13631,7 @@
       "publisher_url": "https://doi.org/10.1038/s42003-026-10882-w",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13586348/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -11721,7 +13677,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110349",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -11764,7 +13720,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jtcvs.2026.07.005",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -11879,7 +13835,7 @@
       "publisher_url": "https://doi.org/10.1007/s00246-026-04464-0",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -11963,7 +13919,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.109547",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13728358/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -12042,7 +13998,7 @@
       "publisher_url": "https://doi.org/10.1016/j.acvd.2026.07.006",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -12081,7 +14037,7 @@
       "publisher_url": "https://doi.org/10.1007/s10840-026-02439-y",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -12188,7 +14144,7 @@
       "publisher_url": "https://doi.org/10.1177/21501351261477060",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -12312,7 +14268,7 @@
       "publisher_url": "https://doi.org/10.1007/s13668-026-00802-z",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z"
+      "retrieved_at": "2026-11-11T22:44:39Z"
     },
     {
       "id": "epmc-ppr-PPR1318527",
@@ -12443,7 +14399,7 @@
       "publisher_url": "https://doi.org/10.3390/jcdd13090463",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13607017/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -12653,7 +14609,7 @@
       "publisher_url": "https://doi.org/10.1111/hepr.70268",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Europe PMC",
         "PubMed"
@@ -13312,7 +15268,7 @@
       "publisher_url": "https://doi.org/10.1016/j.ijoa.2026.105279",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z"
+      "retrieved_at": "2026-11-11T22:44:39Z"
     },
     {
       "id": "pmid-42714563",
@@ -13581,7 +15537,7 @@
       "publisher_url": "https://doi.org/10.3390/children13091215",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13605104/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-11T11:55:06Z"
+      "retrieved_at": "2026-11-11T22:44:39Z"
     },
     {
       "id": "doi-10.3390/children13091215",
@@ -13722,7 +15678,7 @@
       "publisher_url": "https://doi.org/10.1016/j.ijcchd.2026.100711",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13573173/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-11T11:55:06Z"
+      "retrieved_at": "2026-11-11T22:44:39Z"
     },
     {
       "id": "pmid-42708513",
@@ -14054,7 +16010,7 @@
       "publisher_url": "https://doi.org/10.3389/fcvm.2026.1876375",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13585986/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-11T11:55:06Z"
+      "retrieved_at": "2026-11-11T22:44:39Z"
     },
     {
       "id": "doi-10.3389/fcvm.2026.1876375",
@@ -14211,7 +16167,7 @@
       "publisher_url": "https://doi.org/10.1016/j.cld.2026.07.006",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z"
+      "retrieved_at": "2026-11-11T22:44:39Z"
     },
     {
       "id": "pmid-42830748",
@@ -14277,7 +16233,7 @@
       "publisher_url": "https://doi.org/10.7759/cureus.115741",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13633856/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-11T11:55:06Z"
+      "retrieved_at": "2026-11-11T22:44:39Z"
     },
     {
       "id": "doi-10.7759/cureus.115741",
@@ -14400,7 +16356,7 @@
       "publisher_url": "https://doi.org/10.1093/europace/euag123",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13571843/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-11T11:55:06Z"
+      "retrieved_at": "2026-11-11T22:44:39Z"
     },
     {
       "id": "pmid-42732894",
@@ -14435,7 +16391,7 @@
       "publisher_url": "https://doi.org/10.1093/europace/euag239",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13571844/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-11T11:55:06Z"
+      "retrieved_at": "2026-11-11T22:44:39Z"
     },
     {
       "id": "pmid-42741923",
@@ -14503,7 +16459,7 @@
       "publisher_url": "https://doi.org/10.1111/echo.70620",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13575840/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-11T11:55:06Z"
+      "retrieved_at": "2026-11-11T22:44:39Z"
     },
     {
       "id": "pmid-42743070",
@@ -14578,7 +16534,7 @@
       "publisher_url": "https://doi.org/10.1111/eci.70257",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13577340/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-11T11:55:06Z"
+      "retrieved_at": "2026-11-11T22:44:39Z"
     },
     {
       "id": "doi-10.1016/j.cld.2026.07.006",
@@ -15418,7 +17374,7 @@
       "publisher_url": "https://doi.org/10.1253/circrep.CR-25-0343",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13649537/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-11T11:55:06Z"
+      "retrieved_at": "2026-11-11T22:44:39Z"
     },
     {
       "id": "pmid-42820901",
@@ -15506,7 +17462,7 @@
       "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.110025",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z"
+      "retrieved_at": "2026-11-11T22:44:39Z"
     },
     {
       "id": "doi-10.47144/phj.v59i4.3819",
@@ -15866,7 +17822,7 @@
       "publisher_url": "https://doi.org/10.1016/j.ijcchd.2026.100712",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13720813/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-11T11:55:06Z"
+      "retrieved_at": "2026-11-11T22:44:39Z"
     },
     {
       "id": "doi-10.47487/apcyccv.v7i3.607",
@@ -16457,7 +18413,7 @@
       "publisher_url": "https://doi.org/10.7759/cureus.115087",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13600569/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-11T11:55:06Z"
+      "retrieved_at": "2026-11-11T22:44:39Z"
     },
     {
       "id": "doi-10.1055/s-0046-1827068",
@@ -16710,7 +18666,7 @@
       "publisher_url": "https://doi.org/10.1016/j.xjon.2026.102077",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13711209/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-11T11:55:06Z"
+      "retrieved_at": "2026-11-11T22:44:39Z"
     },
     {
       "id": "pmid-42627129",
@@ -16877,7 +18833,7 @@
       "publisher_url": "https://doi.org/10.1016/j.xjon.2026.102070",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13711412/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-11T11:55:06Z"
+      "retrieved_at": "2026-11-11T22:44:39Z"
     },
     {
       "id": "pmid-42627415",
@@ -17482,7 +19438,7 @@
       "publisher_url": "https://doi.org/10.1016/j.xjon.2026.102062",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13711289/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-11T11:55:06Z"
+      "retrieved_at": "2026-11-11T22:44:39Z"
     },
     {
       "id": "pmid-42611859",
@@ -18786,7 +20742,7 @@
       "publisher_url": "https://doi.org/10.1016/j.xjon.2026.102049",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13711206/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-11T11:55:06Z"
+      "retrieved_at": "2026-11-11T22:44:39Z"
     },
     {
       "id": "pmid-42559838",
@@ -21351,6 +23307,7 @@
       "has_full_text": false,
       "retrieved_at": "2026-09-23T19:41:56Z",
       "source_coverage": [
+        "Crossref",
         "Europe PMC",
         "PubMed"
       ]
@@ -21708,7 +23665,7 @@
       "publisher_url": "https://doi.org/10.1016/j.xjon.2026.101970",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13711207/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-11T11:55:06Z"
+      "retrieved_at": "2026-11-11T22:44:39Z"
     },
     {
       "id": "pmid-42498898",
@@ -21869,7 +23826,7 @@
       "publisher_url": "https://doi.org/10.1007/s12055-026-02225-5",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13594033/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-11T11:55:06Z"
+      "retrieved_at": "2026-11-11T22:44:39Z"
     },
     {
       "id": "doi-10.1007/s12055-026-02225-5",
@@ -24437,7 +26394,7 @@
       "publisher_url": "https://doi.org/10.1016/j.aan.2026.05.003",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z"
+      "retrieved_at": "2026-11-11T22:44:39Z"
     },
     {
       "id": "pmid-42367139",
@@ -25066,7 +27023,7 @@
       "publisher_url": "https://doi.org/10.1016/j.xjtc.2026.102494",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13673977/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Crossref",
         "PubMed"
@@ -29123,7 +31080,11 @@
       "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.108486",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-08-25T19:16:19Z"
+      "retrieved_at": "2026-08-25T19:16:19Z",
+      "source_coverage": [
+        "Crossref",
+        "PubMed"
+      ]
     },
     {
       "id": "pmid-42171700",
@@ -30381,7 +32342,11 @@
       "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.108140",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-09-29T20:51:44Z"
+      "retrieved_at": "2026-09-29T20:51:44Z",
+      "source_coverage": [
+        "Crossref",
+        "PubMed"
+      ]
     },
     {
       "id": "pmid-42097294",
@@ -32812,7 +34777,7 @@
       "publisher_url": "https://doi.org/10.1016/j.cjcpc.2026.04.003",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13712468/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Crossref",
         "PubMed"
@@ -33343,7 +35308,11 @@
       "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.107532",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-08-25T19:16:19Z"
+      "retrieved_at": "2026-08-25T19:16:19Z",
+      "source_coverage": [
+        "Crossref",
+        "PubMed"
+      ]
     },
     {
       "id": "pmid-42205242",
@@ -34758,7 +36727,11 @@
       "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.107849",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-08-25T19:16:19Z"
+      "retrieved_at": "2026-08-25T19:16:19Z",
+      "source_coverage": [
+        "Crossref",
+        "PubMed"
+      ]
     },
     {
       "id": "pmid-41967584",
@@ -37486,7 +39459,7 @@
       "publisher_url": "https://doi.org/10.1016/j.cjcpc.2026.03.002",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13712457/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Crossref",
         "PubMed"
@@ -37726,7 +39699,11 @@
       "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.107385",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-08-25T19:16:19Z"
+      "retrieved_at": "2026-08-25T19:16:19Z",
+      "source_coverage": [
+        "Crossref",
+        "PubMed"
+      ]
     },
     {
       "id": "pmid-41890129",
@@ -38683,7 +40660,7 @@
       "publisher_url": "https://doi.org/10.1016/j.cjcpc.2026.03.001",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13712465/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-11T11:55:06Z",
+      "retrieved_at": "2026-11-11T22:44:39Z",
       "source_coverage": [
         "Crossref",
         "PubMed"
@@ -38792,7 +40769,11 @@
       "publisher_url": "https://doi.org/10.1016/j.jaccas.2026.107279",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-08-25T19:16:19Z"
+      "retrieved_at": "2026-08-25T19:16:19Z",
+      "source_coverage": [
+        "Crossref",
+        "PubMed"
+      ]
     },
     {
       "id": "pmid-41833683",
@@ -47305,7 +49286,7 @@
       "publisher_url": "https://doi.org/10.2463/mrms.mp.2026-0126",
       "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13678478/",
       "has_full_text": true,
-      "retrieved_at": "2026-11-11T11:55:06Z"
+      "retrieved_at": "2026-11-11T22:44:39Z"
     },
     {
       "id": "pmid-42826388",
@@ -47391,7 +49372,7 @@
       "publisher_url": "https://doi.org/10.1139/cjpp-2026-0103",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z"
+      "retrieved_at": "2026-11-11T22:44:39Z"
     },
     {
       "id": "pmid-42250285",
@@ -47695,7 +49676,7 @@
       "publisher_url": "https://doi.org/10.1111/ped.70533",
       "full_text_url": "",
       "has_full_text": false,
-      "retrieved_at": "2026-11-11T11:55:06Z"
+      "retrieved_at": "2026-11-11T22:44:39Z"
     },
     {
       "id": "pmid-41472350",
